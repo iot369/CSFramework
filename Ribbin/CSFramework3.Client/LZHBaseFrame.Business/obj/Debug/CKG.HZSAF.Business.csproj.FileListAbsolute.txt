@@ -1,0 +1,13 @@
+D:\My SourceCode\C#\HZ_SAF\source\CKG_Framework_ADO.Business\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\C#\HZ_SAF\source\CKG_Framework_ADO.Business\obj\Debug\CKG.HZSAF.Business.dll
+D:\My SourceCode\C#\HZ_SAF\source\CKG_Framework_ADO.Business\obj\Debug\CKG.HZSAF.Business.pdb
+D:\My SourceCode\C#\HZ_SAF\source\Debug\CKG.HZSAF.Business.dll
+D:\My SourceCode\C#\HZ_SAF\source\Debug\CKG.HZSAF.Business.pdb
+D:\My SourceCode\C#\HZ_SAF\source\CKG.HZSAF.Business\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\C#\HZ_SAF\source\CKG.HZSAF.Business\obj\Debug\CKG.HZSAF.Business.dll
+D:\My SourceCode\C#\HZ_SAF\source\CKG.HZSAF.Business\obj\Debug\CKG.HZSAF.Business.pdb
+D:\My SourceCode\CSharp\HZ_SAF\source\Debug\CKG.HZSAF.Business.dll
+D:\My SourceCode\CSharp\HZ_SAF\source\Debug\CKG.HZSAF.Business.pdb
+D:\My SourceCode\CSharp\HZ_SAF\source\CKG.HZSAF.Business\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\HZ_SAF\source\CKG.HZSAF.Business\obj\Debug\CKG.HZSAF.Business.dll
+D:\My SourceCode\CSharp\HZ_SAF\source\CKG.HZSAF.Business\obj\Debug\CKG.HZSAF.Business.pdb

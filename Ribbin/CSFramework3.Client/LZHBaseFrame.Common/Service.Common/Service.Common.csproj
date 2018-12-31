@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7267C0C5-1FEA-488C-A077-243EE74982EC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Service.Common</RootNamespace>
+    <AssemblyName>Service.Common</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=1.2.9.0, Culture=neutral, PublicKeyToken=b32731d11ce58905">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\bin\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.DataAccess, Version=9.2.0.401, Culture=neutral, PublicKeyToken=89b483f429c47342">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\bin\Oracle.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WcfService, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\bin\WcfService.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CEncoder.cs" />
+    <Compile Include="ConvertEx.cs" />
+    <Compile Include="DataSetCompression.cs" />
+    <Compile Include="DomainDataProvider\DomainDataProviderManager.cs" />
+    <Compile Include="DomainDataProvider\SQLDomainDataProvider.cs" />
+    <Compile Include="Domain\Condition.cs" />
+    <Compile Include="Domain\DomainObject.cs" />
+    <Compile Include="Domain\DomainObjectUtility.cs" />
+    <Compile Include="Domain\FieldMapAttribute.cs" />
+    <Compile Include="Domain\IDomainDataProvider.cs" />
+    <Compile Include="Domain\TableMapAttribute.cs" />
+    <Compile Include="Domain\TBDomain.cs" />
+    <Compile Include="ExceptionManager.cs" />
+    <Compile Include="Helper\Compress.cs" />
+    <Compile Include="Helper\Encryption.cs" />
+    <Compile Include="Helper\EncryptNew.cs" />
+    <Compile Include="Helper\SystemInfo.cs" />
+    <Compile Include="IniFile.cs" />
+    <Compile Include="Msg.cs" />
+    <Compile Include="PersistBroker\AbstractSQLPersistBroker.cs" />
+    <Compile Include="PersistBroker\IPersistBroker.cs" />
+    <Compile Include="PersistBroker\IPersistBrokerTransaction.cs" />
+    <Compile Include="PersistBroker\PersistBrokerFactory.cs" />
+    <Compile Include="PersistBroker\SqlPersistBroker.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SQLConfig\IWriteSQLConfigValue.cs" />
+    <Compile Include="SQLConfig\SqlConfiguration.cs" />
+    <Compile Include="SQLConfig\SqlConfigWriter.cs" />
+    <Compile Include="SQLConfig\SqlLocator.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

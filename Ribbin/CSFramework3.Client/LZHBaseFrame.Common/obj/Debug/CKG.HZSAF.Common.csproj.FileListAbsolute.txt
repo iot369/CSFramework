@@ -1,0 +1,8 @@
+D:\My SourceCode\C#\HZ_SAF\source\CKG_Framework_ADO.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\C#\HZ_SAF\source\CKG_Framework_ADO.Common\obj\Debug\CKG.HZSAF.Common.dll
+D:\My SourceCode\C#\HZ_SAF\source\CKG_Framework_ADO.Common\obj\Debug\CKG.HZSAF.Common.pdb
+D:\My SourceCode\C#\HZ_SAF\source\Debug\CKG.HZSAF.Common.dll
+D:\My SourceCode\C#\HZ_SAF\source\CKG.HZSAF.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\C#\HZ_SAF\source\CKG.HZSAF.Common\obj\Debug\CKG.HZSAF.Common.dll
+D:\My SourceCode\C#\HZ_SAF\source\CKG.HZSAF.Common\obj\Debug\CKG.HZSAF.Common.pdb
+D:\My SourceCode\C#\HZ_SAF\source\Debug\CKG.HZSAF.Common.pdb

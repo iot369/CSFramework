@@ -1,0 +1,15 @@
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Server\CSFramework3.Server.DataAccess\bin\Release\CSFramework3.Server.DataAccess.dll
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Server\CSFramework3.Server.DataAccess\bin\Release\CSFramework3.Server.DataAccess.pdb
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Server\CSFramework3.Server.DataAccess\bin\Release\CSFramework.Common.dll
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Server\CSFramework3.Server.DataAccess\bin\Release\CSFramework.Core.dll
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Server\CSFramework3.Server.DataAccess\bin\Release\CSFramework.ORM.dll
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Server\CSFramework3.Server.DataAccess\bin\Release\CSFramework3.Interfaces.dll
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Server\CSFramework3.Server.DataAccess\bin\Release\CSFramework3.Models.dll
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Server\CSFramework3.Server.DataAccess\bin\Release\CSFramework.ORM.pdb
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Server\CSFramework3.Server.DataAccess\bin\Release\CSFramework3.Interfaces.pdb
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Server\CSFramework3.Server.DataAccess\bin\Release\CSFramework.Core.pdb
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Server\CSFramework3.Server.DataAccess\bin\Release\CSFramework.Common.pdb
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Server\CSFramework3.Server.DataAccess\bin\Release\CSFramework3.Models.pdb
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Release\ResolveAssemblyReference.cache
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Release\CSFramework3.Server.DataAccess.dll
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Release\CSFramework3.Server.DataAccess.pdb

@@ -1,0 +1,66 @@
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\ResolveAssemblyReference.cache
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.frmSQLConnector.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.Properties.Resources.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.csproj.GenerateResource.Cache
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.Tools.SqlConnector.exe
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.Tools.SqlConnector.pdb
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.exe
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.pdb
+H:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.exe
+H:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.Tools.SqlConnector.exe.config
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.Tools.SqlConnector.exe
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.Tools.SqlConnector.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.csprojResolveAssemblyReference.cache
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.frmSQLConnector.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.Properties.Resources.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.csproj.GenerateResource.Cache
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.exe
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.pdb
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Tools.SqlConnector.exe.config
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Tools.SqlConnector.exe
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Tools.SqlConnector.pdb
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.csprojResolveAssemblyReference.cache
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.frmSQLConnector.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.Properties.Resources.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.csproj.GenerateResource.Cache
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.exe
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Tools.SqlConnector.exe.config
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Tools.SqlConnector.exe
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Tools.SqlConnector.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.csprojResolveAssemblyReference.cache
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.frmSQLConnector.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.Properties.Resources.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.csproj.GenerateResource.Cache
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.exe
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Tools.SqlConnector.exe.config
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Tools.SqlConnector.exe
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Tools.SqlConnector.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\ResolveAssemblyReference.cache
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.frmSQLConnector.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.Properties.Resources.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\GenerateResource.read.1.tlog
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\GenerateResource.write.1.tlog
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.exe
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.pdb
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.Tools.SqlConnector.exe.config
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.Tools.SqlConnector.exe
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.Tools.SqlConnector.pdb
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\ResolveAssemblyReference.cache
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.frmSQLConnector.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.Properties.Resources.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\GenerateResource.read.1.tlog
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\GenerateResource.write.1.tlog
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.exe
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.pdb
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.Tools.SqlConnector.exe.config
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.Tools.SqlConnector.exe
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.Tools.SqlConnector.pdb
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.csprojResolveAssemblyReference.cache
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.frmSQLConnector.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.Properties.Resources.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.csproj.GenerateResource.Cache
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.exe
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Tools.SqlConnector\obj\Debug\LZHBaseFrame.Tools.SqlConnector.pdb

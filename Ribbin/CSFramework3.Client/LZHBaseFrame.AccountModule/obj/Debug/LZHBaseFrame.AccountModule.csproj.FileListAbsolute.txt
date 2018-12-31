@@ -1,0 +1,86 @@
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\ResolveAssemblyReference.cache
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmAccountMain.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmAP.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmAR.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmQueryOutstanding.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.Properties.Resources.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.csproj.GenerateResource.Cache
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.dll.licenses
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.AccountModule.dll
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.AccountModule.pdb
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.dll
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.csprojResolveAssemblyReference.cache
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmAccountMain.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmAP.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmAR.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmQueryOutstanding.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.Properties.Resources.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.csproj.GenerateResource.Cache
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.dll.licenses
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.AccountModule.dll
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.AccountModule.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.AccountModule.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.AccountModule.pdb
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.csprojResolveAssemblyReference.cache
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmAccountMain.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmAP.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmAR.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmQueryOutstanding.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.Properties.Resources.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.csproj.GenerateResource.Cache
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.dll.licenses
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.AccountModule.dll
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.AccountModule.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.csprojResolveAssemblyReference.cache
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmAccountMain.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmAP.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmAR.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmQueryOutstanding.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.Properties.Resources.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.csproj.GenerateResource.Cache
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.dll.licenses
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.dll
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.AccountModule.dll
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.AccountModule.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\ResolveAssemblyReference.cache
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmAccountMain.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmAP.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmAR.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmQueryOutstanding.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.Properties.Resources.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\GenerateResource.read.1.tlog
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\GenerateResource.write.1.tlog
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.dll.licenses
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.dll
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.pdb
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.AccountModule.dll
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.AccountModule.pdb
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\ResolveAssemblyReference.cache
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmAccountMain.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmAP.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmAR.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmQueryOutstanding.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.Properties.Resources.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\GenerateResource.read.1.tlog
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\GenerateResource.write.1.tlog
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.dll.licenses
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.dll
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.pdb
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.AccountModule.dll
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.AccountModule.pdb
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.csprojResolveAssemblyReference.cache
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmAccountMain.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmAP.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmAR.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.frmQueryOutstanding.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.Properties.Resources.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.csproj.GenerateResource.Cache
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.dll.licenses
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.dll
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.AccountModule\obj\Debug\LZHBaseFrame.AccountModule.pdb

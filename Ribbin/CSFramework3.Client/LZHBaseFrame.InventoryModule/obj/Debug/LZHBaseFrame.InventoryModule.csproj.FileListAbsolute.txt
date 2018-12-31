@@ -1,0 +1,97 @@
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\ResolveAssemblyReference.cache
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.Form1.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIA.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmModuleMain.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIN.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.Properties.Resources.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIO.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIC.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.csproj.GenerateResource.Cache
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.dll.licenses
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.InventoryModule.dll
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.InventoryModule.pdb
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.dll
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.InventoryModule.dll
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.InventoryModule.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.csprojResolveAssemblyReference.cache
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.Form1.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIA.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmModuleMain.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIN.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.Properties.Resources.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIO.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIC.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.csproj.GenerateResource.Cache
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.dll.licenses
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.dll
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.pdb
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.InventoryModule.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.InventoryModule.pdb
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.csprojResolveAssemblyReference.cache
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.Form1.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIA.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmModuleMain.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIN.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.Properties.Resources.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIO.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIC.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.csproj.GenerateResource.Cache
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.dll.licenses
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.InventoryModule.dll
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.InventoryModule.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.csprojResolveAssemblyReference.cache
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.Form1.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIA.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmModuleMain.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIN.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.Properties.Resources.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIO.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIC.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.csproj.GenerateResource.Cache
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.dll.licenses
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.dll
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\ResolveAssemblyReference.cache
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.Form1.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIA.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmModuleMain.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIN.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.Properties.Resources.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIO.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIC.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\GenerateResource.read.1.tlog
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\GenerateResource.write.1.tlog
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.dll
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.InventoryModule.dll
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.InventoryModule.pdb
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.InventoryModule.dll
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.InventoryModule.pdb
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\ResolveAssemblyReference.cache
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.Form1.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIA.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmModuleMain.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIN.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.Properties.Resources.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIO.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIC.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\GenerateResource.read.1.tlog
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\GenerateResource.write.1.tlog
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.dll
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.pdb
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.InventoryModule.dll
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.InventoryModule.pdb
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.csprojResolveAssemblyReference.cache
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.Form1.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIA.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmModuleMain.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIN.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.Properties.Resources.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIO.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.frmIC.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.csproj.GenerateResource.Cache
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.dll
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.InventoryModule\obj\Debug\LZHBaseFrame.InventoryModule.pdb

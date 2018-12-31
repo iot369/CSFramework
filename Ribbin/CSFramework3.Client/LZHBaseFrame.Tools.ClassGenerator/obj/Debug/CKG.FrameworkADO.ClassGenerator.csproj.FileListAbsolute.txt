@@ -1,0 +1,9 @@
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\Debug\CKG.FrameworkADO.ClassGenerator.exe
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\Debug\CKG.FrameworkADO.ClassGenerator.pdb
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\CKG_Framework_ADO.ClassGenerator\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\CKG_Framework_ADO.ClassGenerator\obj\Debug\CKG.FrameworkADO.ClassGenerator.frmClassGenerator.resources
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\CKG_Framework_ADO.ClassGenerator\obj\Debug\CKG.FrameworkADO.ClassGenerator.Properties.Resources.resources
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\CKG_Framework_ADO.ClassGenerator\obj\Debug\CKG.FrameworkADO.ClassGenerator.csproj.GenerateResource.Cache
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\CKG_Framework_ADO.ClassGenerator\obj\Debug\CKG.FrameworkADO.ClassGenerator.exe.licenses
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\CKG_Framework_ADO.ClassGenerator\obj\Debug\CKG.FrameworkADO.ClassGenerator.exe
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\CKG_Framework_ADO.ClassGenerator\obj\Debug\CKG.FrameworkADO.ClassGenerator.pdb

@@ -1,0 +1,13 @@
+D:\My SourceCode\C#\CSFramework-ADO-CHS\source\Debug\CKG.FrameworkADO.Business.dll
+D:\My SourceCode\C#\CSFramework-ADO-CHS\source\Debug\CKG.FrameworkADO.Business.pdb
+D:\My SourceCode\C#\CSFramework-ADO-CHS\source\vjsdn.CS3Layers_Framework.Business\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\C#\CSFramework-ADO-CHS\source\vjsdn.CS3Layers_Framework.Business\obj\Debug\CKG.FrameworkADO.Business.dll
+D:\My SourceCode\C#\CSFramework-ADO-CHS\source\vjsdn.CS3Layers_Framework.Business\obj\Debug\CKG.FrameworkADO.Business.pdb
+D:\My SourceCode\C#\CSFramework-ADO-CHS\source\CKG_Framework_ADO.Business\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\C#\CSFramework-ADO-CHS\source\CKG_Framework_ADO.Business\obj\Debug\CKG.FrameworkADO.Business.dll
+D:\My SourceCode\C#\CSFramework-ADO-CHS\source\CKG_Framework_ADO.Business\obj\Debug\CKG.FrameworkADO.Business.pdb
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\Debug\CKG.FrameworkADO.Business.dll
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\Debug\CKG.FrameworkADO.Business.pdb
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\CKG_Framework_ADO.Business\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\CKG_Framework_ADO.Business\obj\Debug\CKG.FrameworkADO.Business.dll
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\CKG_Framework_ADO.Business\obj\Debug\CKG.FrameworkADO.Business.pdb

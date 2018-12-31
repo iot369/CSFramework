@@ -1,0 +1,5 @@
+..\Debug\KIN.Reports.dll
+..\Debug\KIN.Reports.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\KIN.Reports.dll
+obj\Debug\KIN.Reports.pdb

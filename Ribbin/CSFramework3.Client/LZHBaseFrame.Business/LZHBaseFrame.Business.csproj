@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A674DB78-C6CB-409B-893D-728ABF88EC84}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LZHBaseFrame.Business</RootNamespace>
+    <AssemblyName>LZHBaseFrame.Business</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="LZHBaseFrame.Common, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="LZHBaseFrame.Core, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="LZHBaseFrame.Interfaces, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="LZHBaseFrame.Models, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="LZHBaseFrame.Server.DataAccess, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\debug\LZHBaseFrame.Server.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="LZHBaseFrame.WebServiceReference, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.DirectoryServices.Protocols" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceModel">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bllAttachmentLib.cs" />
+    <Compile Include="bllCompanyInfo.cs" />
+    <Compile Include="BLL_Base\bllBase.cs" />
+    <Compile Include="BLL_Base\bllBaseBusiness.cs" />
+    <Compile Include="BLL_Base\bllBaseDataDict.cs" />
+    <Compile Include="bllLocalLog.cs" />
+    <Compile Include="BLL_Business\bllBusinessLog.cs" />
+    <Compile Include="BLL_Business\bllPO.cs" />
+    <Compile Include="BLL_Business\bllSO.cs" />
+    <Compile Include="BLL_Business\bllUnknow.cs" />
+    <Compile Include="BLL_Business\bllIA.cs" />
+    <Compile Include="BLL_Business\bllIN.cs" />
+    <Compile Include="BLL_Business\bllIO.cs" />
+    <Compile Include="BLL_Business\bllIC.cs" />
+    <Compile Include="BLL_Business\bllAR.cs" />
+    <Compile Include="BLL_Business\bllAP.cs" />
+    <Compile Include="BLL_DataDict\bllCommonDataDict.cs" />
+    <Compile Include="BLL_DataDict\bllCustomer.cs" />
+    <Compile Include="BLL_DataDict\bllPerson.cs" />
+    <Compile Include="BLL_DataDict\bllNullObjectDataDict.cs" />
+    <Compile Include="BLL_DataDict\bllProduct.cs" />
+    <Compile Include="BLL_DataDict\bllAccountIDs.cs" />
+    <Compile Include="BLL_DataDict\blltest03.cs" />
+    <Compile Include="CommonData.cs" />
+    <Compile Include="GenerateItemsDef.cs" />
+    <Compile Include="Security\ActionNodeTag.cs" />
+    <Compile Include="Security\AuthNodeTag.cs" />
+    <Compile Include="Security\bllGroupAuthority.cs" />
+    <Compile Include="Security\bllMenuMgr.cs" />
+    <Compile Include="Security\DomainLdapTools.cs" />
+    <Compile Include="Security\LoginAuthorization.cs" />
+    <Compile Include="Security\NovellLdapTools.cs" />
+    <Compile Include="Security\bllUser.cs" />
+    <Compile Include="DataDictCache.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LZHBaseFrame.ORM\LZHBaseFrame.ORM.csproj">
+      <Project>{34000ABD-4169-45B5-A668-1901F1EB5FDE}</Project>
+      <Name>LZHBaseFrame.ORM</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LZHBaseFrame.Bridge\LZHBaseFrame.Bridge.csproj">
+      <Project>{C722EFFF-6985-478D-9BB2-C536821AC2FE}</Project>
+      <Name>LZHBaseFrame.Bridge</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

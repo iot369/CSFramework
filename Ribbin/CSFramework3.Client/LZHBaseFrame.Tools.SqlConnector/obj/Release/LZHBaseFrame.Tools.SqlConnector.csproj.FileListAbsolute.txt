@@ -1,0 +1,14 @@
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Tools.SqlConnector\obj\Release\ResolveAssemblyReference.cache
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Tools.SqlConnector\obj\Release\LZHBaseFrame.Tools.SqlConnector.frmSQLConnector.resources
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Tools.SqlConnector\obj\Release\LZHBaseFrame.Tools.SqlConnector.csproj.GenerateResource.Cache
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Tools.SqlConnector\bin\Release\LZHBaseFrame.Tools.SqlConnector.exe
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Tools.SqlConnector\bin\Release\LZHBaseFrame.Tools.SqlConnector.pdb
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Tools.SqlConnector\bin\Release\LZHBaseFrame.Common.dll
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Tools.SqlConnector\bin\Release\LZHBaseFrame.Core.dll
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Tools.SqlConnector\bin\Release\LZHBaseFrame.Interfaces.dll
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Tools.SqlConnector\bin\Release\LZHBaseFrame.Interfaces.pdb
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Tools.SqlConnector\bin\Release\LZHBaseFrame.Common.pdb
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Tools.SqlConnector\bin\Release\LZHBaseFrame.Core.pdb
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Tools.SqlConnector\obj\Release\LZHBaseFrame.Tools.SqlConnector.Properties.Resources.resources
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Tools.SqlConnector\obj\Release\LZHBaseFrame.Tools.SqlConnector.exe
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Tools.SqlConnector\obj\Release\LZHBaseFrame.Tools.SqlConnector.pdb

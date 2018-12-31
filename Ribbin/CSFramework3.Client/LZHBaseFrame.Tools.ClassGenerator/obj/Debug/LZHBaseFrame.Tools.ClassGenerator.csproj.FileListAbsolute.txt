@@ -1,0 +1,43 @@
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\ResolveAssemblyReference.cache
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.Form1.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.frmClassGenerator.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.Properties.Resources.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.csproj.GenerateResource.Cache
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.exe.licenses
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.Tools.ClassGenerator.exe
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.Tools.ClassGenerator.pdb
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.exe
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.Tools.ClassGenerator.exe.config
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.Tools.ClassGenerator.exe
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.Tools.ClassGenerator.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.csprojResolveAssemblyReference.cache
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.Form1.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.frmClassGenerator.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.Properties.Resources.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.csproj.GenerateResource.Cache
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.exe.licenses
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.exe
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.pdb
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Tools.ClassGenerator.exe.config
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Tools.ClassGenerator.exe
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Tools.ClassGenerator.pdb
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.csprojResolveAssemblyReference.cache
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.Form1.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.frmClassGenerator.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.Properties.Resources.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.csproj.GenerateResource.Cache
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.exe.licenses
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.exe
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Tools.ClassGenerator.exe.config
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Tools.ClassGenerator.exe
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Tools.ClassGenerator.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.csprojResolveAssemblyReference.cache
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.Form1.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.frmClassGenerator.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.Properties.Resources.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.csproj.GenerateResource.Cache
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.exe.licenses
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.exe
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Tools.ClassGenerator\obj\Debug\LZHBaseFrame.Tools.ClassGenerator.pdb

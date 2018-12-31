@@ -1,0 +1,5 @@
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.ORM\bin\Debug\CSFramework3.ORM.dll
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.ORM\bin\Debug\CSFramework3.ORM.pdb
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.ORM\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.ORM\obj\Debug\CSFramework3.ORM.dll
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.ORM\obj\Debug\CSFramework3.ORM.pdb

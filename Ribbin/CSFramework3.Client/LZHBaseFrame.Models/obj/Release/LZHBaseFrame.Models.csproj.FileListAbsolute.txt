@@ -1,0 +1,7 @@
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework3.Models\obj\Release\ResolveAssemblyReference.cache
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework3.Models\bin\Release\LZHBaseFrame.Models.dll
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework3.Models\bin\Release\LZHBaseFrame.Models.pdb
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework3.Models\bin\Release\LZHBaseFrame.ORM.dll
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework3.Models\bin\Release\LZHBaseFrame.ORM.pdb
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework3.Models\obj\Release\LZHBaseFrame.Models.dll
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework3.Models\obj\Release\LZHBaseFrame.Models.pdb

@@ -1,0 +1,79 @@
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\ResolveAssemblyReference.cache
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.Form1.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.frmSalesMain.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.frmSO.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.Properties.Resources.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.csproj.GenerateResource.Cache
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.dll.licenses
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.SalesModule.dll
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.SalesModule.pdb
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.dll
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.csprojResolveAssemblyReference.cache
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.Form1.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.frmSalesMain.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.frmSO.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.Properties.Resources.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.csproj.GenerateResource.Cache
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.dll.licenses
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.SalesModule.dll
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.SalesModule.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.SalesModule.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.SalesModule.pdb
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.csprojResolveAssemblyReference.cache
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.Form1.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.frmSalesMain.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.frmSO.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.Properties.Resources.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.csproj.GenerateResource.Cache
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.dll.licenses
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.SalesModule.dll
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.SalesModule.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.csprojResolveAssemblyReference.cache
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.Form1.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.frmSalesMain.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.frmSO.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.Properties.Resources.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.csproj.GenerateResource.Cache
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.dll.licenses
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.dll
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.SalesModule.dll
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.SalesModule.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\ResolveAssemblyReference.cache
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.Form1.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.frmSalesMain.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.frmSO.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.Properties.Resources.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\GenerateResource.read.1.tlog
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\GenerateResource.write.1.tlog
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.dll.licenses
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.dll
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.pdb
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.SalesModule.dll
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.SalesModule.pdb
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\ResolveAssemblyReference.cache
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.Form1.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.frmSalesMain.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.frmSO.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.Properties.Resources.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\GenerateResource.read.1.tlog
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\GenerateResource.write.1.tlog
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.dll.licenses
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.dll
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.pdb
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.SalesModule.dll
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.SalesModule.pdb
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.csprojResolveAssemblyReference.cache
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.Form1.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.frmSalesMain.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.frmSO.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.Properties.Resources.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.csproj.GenerateResource.Cache
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.dll.licenses
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.dll
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SalesModule\obj\Debug\LZHBaseFrame.SalesModule.pdb

@@ -1,0 +1,13 @@
+D:\My SourceCode\C#\HZ_SAF\source\CKG_Framework_ADO.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\C#\HZ_SAF\source\CKG_Framework_ADO.DataAccess\obj\Debug\CKG.HZSAF.DataAccess.dll
+D:\My SourceCode\C#\HZ_SAF\source\CKG_Framework_ADO.DataAccess\obj\Debug\CKG.HZSAF.DataAccess.pdb
+D:\My SourceCode\C#\HZ_SAF\source\Debug\CKG.HZSAF.DataAccess.dll
+D:\My SourceCode\C#\HZ_SAF\source\Debug\CKG.HZSAF.DataAccess.pdb
+D:\My SourceCode\C#\HZ_SAF\source\CKG.HZSAF.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\C#\HZ_SAF\source\CKG.HZSAF.DataAccess\obj\Debug\CKG.HZSAF.DataAccess.dll
+D:\My SourceCode\C#\HZ_SAF\source\CKG.HZSAF.DataAccess\obj\Debug\CKG.HZSAF.DataAccess.pdb
+D:\My SourceCode\CSharp\HZ_SAF\source\Debug\CKG.HZSAF.DataAccess.dll
+D:\My SourceCode\CSharp\HZ_SAF\source\Debug\CKG.HZSAF.DataAccess.pdb
+D:\My SourceCode\CSharp\HZ_SAF\source\CKG.HZSAF.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\HZ_SAF\source\CKG.HZSAF.DataAccess\obj\Debug\CKG.HZSAF.DataAccess.dll
+D:\My SourceCode\CSharp\HZ_SAF\source\CKG.HZSAF.DataAccess\obj\Debug\CKG.HZSAF.DataAccess.pdb

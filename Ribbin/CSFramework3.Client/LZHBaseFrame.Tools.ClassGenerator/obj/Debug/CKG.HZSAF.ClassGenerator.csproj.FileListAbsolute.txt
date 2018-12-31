@@ -1,0 +1,16 @@
+D:\My SourceCode\C#\HZ_SAF\source\CKG_Framework_ADO.ClassGenerator\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\C#\HZ_SAF\source\CKG_Framework_ADO.ClassGenerator\obj\Debug\CKG.HZSAF.ClassGenerator.frmClassGenerator.resources
+D:\My SourceCode\C#\HZ_SAF\source\CKG_Framework_ADO.ClassGenerator\obj\Debug\CKG.HZSAF.ClassGenerator.Properties.Resources.resources
+D:\My SourceCode\C#\HZ_SAF\source\CKG_Framework_ADO.ClassGenerator\obj\Debug\CKG.HZSAF.ClassGenerator.csproj.GenerateResource.Cache
+D:\My SourceCode\C#\HZ_SAF\source\CKG_Framework_ADO.ClassGenerator\obj\Debug\CKG.HZSAF.ClassGenerator.exe.licenses
+D:\My SourceCode\C#\HZ_SAF\source\CKG_Framework_ADO.ClassGenerator\obj\Debug\CKG.HZSAF.ClassGenerator.exe
+D:\My SourceCode\C#\HZ_SAF\source\CKG_Framework_ADO.ClassGenerator\obj\Debug\CKG.HZSAF.ClassGenerator.pdb
+D:\My SourceCode\C#\HZ_SAF\source\Debug\CKG.HZSAF.ClassGenerator.exe
+D:\My SourceCode\C#\HZ_SAF\source\Debug\CKG.HZSAF.ClassGenerator.pdb
+D:\My SourceCode\C#\HZ_SAF\source\CKG.HZSAF.ClassGenerator\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\C#\HZ_SAF\source\CKG.HZSAF.ClassGenerator\obj\Debug\CKG.HZSAF.ClassGenerator.frmClassGenerator.resources
+D:\My SourceCode\C#\HZ_SAF\source\CKG.HZSAF.ClassGenerator\obj\Debug\CKG.HZSAF.ClassGenerator.Properties.Resources.resources
+D:\My SourceCode\C#\HZ_SAF\source\CKG.HZSAF.ClassGenerator\obj\Debug\CKG.HZSAF.ClassGenerator.csproj.GenerateResource.Cache
+D:\My SourceCode\C#\HZ_SAF\source\CKG.HZSAF.ClassGenerator\obj\Debug\CKG.HZSAF.ClassGenerator.exe.licenses
+D:\My SourceCode\C#\HZ_SAF\source\CKG.HZSAF.ClassGenerator\obj\Debug\CKG.HZSAF.ClassGenerator.exe
+D:\My SourceCode\C#\HZ_SAF\source\CKG.HZSAF.ClassGenerator\obj\Debug\CKG.HZSAF.ClassGenerator.pdb

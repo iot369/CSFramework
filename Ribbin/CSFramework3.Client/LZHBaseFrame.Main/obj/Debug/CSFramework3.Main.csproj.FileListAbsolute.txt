@@ -1,0 +1,157 @@
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CKG.HZSAF.Main.frmAbout.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CKG.HZSAF.Main.frmLogin.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CKG.HZSAF.Main.frmMain.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.Properties.Resources.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe.licenses
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmAbout.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmLogin.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmMain.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework3.Main.exe
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework3.Main.pdb
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmAbout.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmLogin.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmMain.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.Properties.Resources.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe.licenses
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.pdb
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework3.Main.exe
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework3.Main.pdb
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmAbout.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmLogin.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmMain.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.Properties.Resources.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe.licenses
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\Debug\CSFramework3.Main.exe
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\Debug\CSFramework3.Main.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Main\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmAbout.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmLogin.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmMain.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Main\obj\Debug\CSFramework3.Main.Properties.Resources.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Main\obj\Debug\CSFramework3.Main.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe.licenses
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Main\obj\Debug\CSFramework3.Main.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.Main\obj\Debug\CSFramework3.Main.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\Debug\CSFramework3.Main.exe
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\Debug\CSFramework3.Main.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.Main\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmAbout.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmLogin.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmMain.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.Main\obj\Debug\CSFramework3.Main.Properties.Resources.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.Main\obj\Debug\CSFramework3.Main.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe.licenses
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Main\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmAbout.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmLogin.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmMain.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Main\obj\Debug\CSFramework3.Main.Properties.Resources.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Main\obj\Debug\CSFramework3.Main.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe.licenses
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework3.Main.exe
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework3.Main.pdb
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Main\obj\Debug\CSFramework3.Main.pdb
+E:\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework3.Main.exe
+E:\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework3.Main.pdb
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Main\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmAbout.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmLogin.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmMain.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Main\obj\Debug\CSFramework3.Main.Properties.Resources.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Main\obj\Debug\CSFramework3.Main.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe.licenses
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Main\obj\Debug\CSFramework3.Main.pdb
+E:\CSFramework-ADO-标准版V2.2\Debug\CSFramework3.Main.exe
+E:\CSFramework-ADO-标准版V2.2\Debug\CSFramework3.Main.pdb
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.Main\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmAbout.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmLogin.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmMain.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.Main\obj\Debug\CSFramework3.Main.Properties.Resources.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.Main\obj\Debug\CSFramework3.Main.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe.licenses
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.Main\obj\Debug\CSFramework3.Main.pdb
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmAbout.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmLogin.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmMain.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.Properties.Resources.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe.licenses
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\Debug\CSFramework3.Main.exe
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\Debug\CSFramework3.Main.pdb
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.pdb
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\Debug\CSFramework3.Main.exe
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\Debug\CSFramework3.Main.pdb
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmAbout.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmLogin.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmMain.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.Properties.Resources.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe.licenses
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.pdb
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\Debug\CSFramework3.Main.exe
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\Debug\CSFramework3.Main.pdb
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.Form1.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmAbout.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmLogin.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmMain.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.Properties.Resources.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe.licenses
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.pdb
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\Debug\CSFramework3.Main.exe
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\Debug\CSFramework3.Main.pdb
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.Form1.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmAbout.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmLogin.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmMain.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.Properties.Resources.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe.licenses
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.pdb
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.pdb
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Main\obj\Debug\ResolveAssemblyReference.cache
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.Form1.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmAbout.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmLogin.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmMain.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.Properties.Resources.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.csproj.GenerateResource.Cache
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe.licenses
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\Debug\CSFramework3.Main.exe
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\Debug\CSFramework3.Main.pdb
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.pdb
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\Debug\CSFramework3.Main.exe
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\Debug\CSFramework3.Main.pdb
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Main\obj\Debug\ResolveAssemblyReference.cache
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.Form1.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmAbout.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmLogin.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.frmMain.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.Properties.Resources.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.csproj.GenerateResource.Cache
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Main\obj\Debug\CSFramework3.Main.exe.licenses

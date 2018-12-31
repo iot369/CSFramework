@@ -1,0 +1,5 @@
+1.先附加数据库CSFramework3.Normal和CSFramework3.System
+2.在CSFramework3.System中有个tb_DataSet进行数据库连接配置
+3.第一次编译会出现12个错误，原因是要控件都必须要重新注册一次，只需把12个licenses.licx文件中的东西清空在保存就可以了
+4.用CSFramework-WebService-Bridge-3.37\CSFramework3.Client\debug下面的CSFramework.Tools.SqlConnector配置数据库连接
+5.运行CSFramework3.Main  登陆帐户是 admin admin

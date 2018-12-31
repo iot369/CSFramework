@@ -1,0 +1,13 @@
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Core\obj\Release\ResolveAssemblyReference.cache
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Core\bin\Release\LZHBaseFrame.Common.dll
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Core\bin\Release\LZHBaseFrame.Common.pdb
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Core\bin\Release\LZHBaseFrame.Core.dll
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Core\bin\Release\LZHBaseFrame.Core.pdb
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Core\bin\Release\LZHBaseFrame.Interfaces.dll
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Core\bin\Release\LZHBaseFrame.Models.dll
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Core\bin\Release\LZHBaseFrame.ORM.dll
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Core\bin\Release\LZHBaseFrame.Interfaces.pdb
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Core\bin\Release\LZHBaseFrame.Models.pdb
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Core\bin\Release\LZHBaseFrame.ORM.pdb
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Core\obj\Release\LZHBaseFrame.Core.dll
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\CSFramework.Core\obj\Release\LZHBaseFrame.Core.pdb

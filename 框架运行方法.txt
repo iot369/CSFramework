@@ -1,0 +1,11 @@
+1首先确保你安装了sql2008或者sql2012  如果要附加数据库的情况 请安装sql2012
+2安装vs2010 本系列的开发框架都是支持2010 的，部分用户反映vs2013无法使用本框架
+3附加上数据库或者使用源码包里的nomal.sql system.sql 来建立数据库
+4打开\CSFramework3.Client\debug目录，找到数据库配置工具LZHBaseFrame.Tools.SqlConnector.exe，打开后配置好LZTBaseFrame.System数据库链接
+5进入数据库管理工具，链接上数据库服务器，点开LZTBaseFrame.System数据库，进入表dbo.tb_DataSet 右键编辑前*行
+  修改里面的帐套数据库连接信息
+6打开\CSFramework3.Client\debug目录LZHBaseFrame.Main.exe 登陆
+  用户名密码都是admin
+   如果此时提示用户名密码错误，请检查第五步有没有写错连接信息（切记）
+
+以上如果还有问题  请联系客服

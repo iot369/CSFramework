@@ -1,0 +1,15 @@
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework.Business.dll
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework.Business.pdb
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Business\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Business\obj\Debug\CSFramework.Business.dll
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Business\obj\Debug\CSFramework.Business.pdb
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework.Business.dll
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework.Business.pdb
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Business\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Business\obj\Debug\CSFramework.Business.dll
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Business\obj\Debug\CSFramework.Business.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\Debug\CSFramework.Business.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\Debug\CSFramework.Business.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Business\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Business\obj\Debug\CSFramework.Business.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Business\obj\Debug\CSFramework.Business.pdb

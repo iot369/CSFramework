@@ -1,0 +1,17 @@
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Server\CSFramework3.Server.DataAccess\bin\Release\CSFramework3.Server.DataAccess.dll
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Server\CSFramework3.Server.DataAccess\bin\Release\CSFramework3.Server.DataAccess.pdb
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Server\CSFramework3.Server.DataAccess\bin\Release\CSFramework.Common.dll
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Server\CSFramework3.Server.DataAccess\bin\Release\CSFramework.Core.dll
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Server\CSFramework3.Server.DataAccess\bin\Release\CSFramework.ORM.dll
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Server\CSFramework3.Server.DataAccess\bin\Release\CSFramework3.Interfaces.dll
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Server\CSFramework3.Server.DataAccess\bin\Release\CSFramework3.Models.dll
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Server\CSFramework3.Server.DataAccess\bin\Release\CSFramework.ORM.pdb
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Server\CSFramework3.Server.DataAccess\bin\Release\CSFramework3.Interfaces.pdb
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Server\CSFramework3.Server.DataAccess\bin\Release\CSFramework.Core.pdb
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Server\CSFramework3.Server.DataAccess\bin\Release\CSFramework.Common.pdb
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Server\CSFramework3.Server.DataAccess\bin\Release\CSFramework3.Models.pdb
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Release\ResolveAssemblyReference.cache
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\debug\LZHBaseFrame.Server.DataAccess.dll
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\debug\LZHBaseFrame.Server.DataAccess.pdb
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Release\LZHBaseFrame.Server.DataAccess.dll
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Release\LZHBaseFrame.Server.DataAccess.pdb

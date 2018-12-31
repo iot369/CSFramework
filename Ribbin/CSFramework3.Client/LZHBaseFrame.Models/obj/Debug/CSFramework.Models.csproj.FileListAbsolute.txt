@@ -1,0 +1,15 @@
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework.Models.dll
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework.Models.pdb
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Models\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Models\obj\Debug\CSFramework.Models.dll
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Models\obj\Debug\CSFramework.Models.pdb
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework.Models.dll
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework.Models.pdb
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Models\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Models\obj\Debug\CSFramework.Models.dll
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Models\obj\Debug\CSFramework.Models.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\Debug\CSFramework.Models.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\Debug\CSFramework.Models.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Models\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Models\obj\Debug\CSFramework.Models.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Models\obj\Debug\CSFramework.Models.pdb

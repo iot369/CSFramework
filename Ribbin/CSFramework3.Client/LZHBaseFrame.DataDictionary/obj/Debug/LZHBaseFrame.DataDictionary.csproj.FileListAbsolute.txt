@@ -1,0 +1,111 @@
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\ResolveAssemblyReference.cache
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.Form1.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmCommonDataDict.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmCustomer.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmDataDictionaryMain.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmPerson.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmProduct.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmTest03.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmTestChild.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.Properties.Resources.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.csproj.GenerateResource.Cache
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.dll.licenses
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.DataDictionary.dll
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.DataDictionary.pdb
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.dll
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.DataDictionary.dll
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.DataDictionary.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.csprojResolveAssemblyReference.cache
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.Form1.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmCommonDataDict.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmCustomer.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmDataDictionaryMain.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmPerson.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmProduct.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmTest03.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmTestChild.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.Properties.Resources.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.csproj.GenerateResource.Cache
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.dll.licenses
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.dll
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.pdb
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.DataDictionary.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.DataDictionary.pdb
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.csprojResolveAssemblyReference.cache
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.Form1.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmCommonDataDict.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmCustomer.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmDataDictionaryMain.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmPerson.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmProduct.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmTest03.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmTestChild.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.Properties.Resources.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.csproj.GenerateResource.Cache
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.dll.licenses
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.DataDictionary.dll
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.DataDictionary.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.csprojResolveAssemblyReference.cache
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.Form1.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmCommonDataDict.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmCustomer.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmDataDictionaryMain.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmPerson.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmProduct.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmTest03.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmTestChild.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.Properties.Resources.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.csproj.GenerateResource.Cache
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.dll.licenses
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.dll
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\ResolveAssemblyReference.cache
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.Form1.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmCommonDataDict.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmCustomer.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmDataDictionaryMain.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmPerson.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmProduct.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmTest03.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmTestChild.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.Properties.Resources.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\GenerateResource.read.1.tlog
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\GenerateResource.write.1.tlog
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.dll
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.DataDictionary.dll
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.DataDictionary.pdb
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.DataDictionary.dll
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.DataDictionary.pdb
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\ResolveAssemblyReference.cache
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.Form1.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmCommonDataDict.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmCustomer.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmDataDictionaryMain.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmPerson.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmProduct.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmTest03.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmTestChild.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.Properties.Resources.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\GenerateResource.read.1.tlog
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\GenerateResource.write.1.tlog
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.dll
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.pdb
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.DataDictionary.dll
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.DataDictionary.pdb
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.csprojResolveAssemblyReference.cache
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.Form1.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmCommonDataDict.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmCustomer.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmDataDictionaryMain.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmPerson.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmProduct.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmTest03.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.frmTestChild.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.Properties.Resources.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.csproj.GenerateResource.Cache
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.dll
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.DataDictionary\obj\Debug\LZHBaseFrame.DataDictionary.pdb

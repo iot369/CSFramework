@@ -1,0 +1,49 @@
+F:\CMAS\winEntityTool\winEntityTool\obj\Debug\winEntityTool.exe
+F:\CMAS\winEntityTool\winEntityTool\obj\Debug\winEntityTool.pdb
+F:\CMAS\winEntityTool\winEntityTool\bin\Debug\winEntityTool.exe
+F:\CMAS\winEntityTool\winEntityTool\bin\Debug\winEntityTool.pdb
+F:\CMAS\winEntityTool\winEntityTool\obj\Debug\ResolveAssemblyReference.cache
+F:\CMAS\winEntityTool\winEntityTool\obj\Debug\winEntityTool.frmDal.resources
+F:\CMAS\winEntityTool\winEntityTool\obj\Debug\winEntityTool.frmEntity.resources
+F:\CMAS\winEntityTool\winEntityTool\obj\Debug\winEntityTool.frmFormCode.resources
+F:\CMAS\winEntityTool\winEntityTool\obj\Debug\winEntityTool.frmMain.resources
+F:\CMAS\winEntityTool\winEntityTool\obj\Debug\winEntityTool.Properties.Resources.resources
+F:\CMAS\winEntityTool\winEntityTool\obj\Debug\winEntityTool.csproj.GenerateResource.Cache
+F:\CMAS\winEntityTool\winEntityTool\obj\Debug\winEntityTool.exe.licenses
+D:\winEntityTool\obj\Debug\winEntityTool.exe
+D:\winEntityTool\obj\Debug\winEntityTool.pdb
+D:\winEntityTool\bin\Debug\winEntityTool.exe
+D:\winEntityTool\bin\Debug\winEntityTool.pdb
+D:\winEntityTool\obj\Debug\ResolveAssemblyReference.cache
+D:\winEntityTool\obj\Debug\winEntityTool.frmDal.resources
+D:\winEntityTool\obj\Debug\winEntityTool.frmEntity.resources
+D:\winEntityTool\obj\Debug\winEntityTool.frmFormCode.resources
+D:\winEntityTool\obj\Debug\winEntityTool.frmFormProxy.resources
+D:\winEntityTool\obj\Debug\winEntityTool.frmMain.resources
+D:\winEntityTool\obj\Debug\winEntityTool.Properties.Resources.resources
+D:\winEntityTool\obj\Debug\winEntityTool.csproj.GenerateResource.Cache
+D:\winEntityTool\obj\Debug\winEntityTool.exe.licenses
+E:\CMAS\winEntityTool\obj\Debug\winEntityTool.exe
+E:\CMAS\winEntityTool\obj\Debug\winEntityTool.pdb
+E:\CMAS\winEntityTool\obj\Debug\ResolveAssemblyReference.cache
+E:\CMAS\winEntityTool\obj\Debug\winEntityTool.frmDal.resources
+E:\CMAS\winEntityTool\obj\Debug\winEntityTool.frmEntity.resources
+E:\CMAS\winEntityTool\obj\Debug\winEntityTool.frmFormCode.resources
+E:\CMAS\winEntityTool\obj\Debug\winEntityTool.frmFormProxy.resources
+E:\CMAS\winEntityTool\obj\Debug\winEntityTool.frmMain.resources
+E:\CMAS\winEntityTool\obj\Debug\winEntityTool.Properties.Resources.resources
+E:\CMAS\winEntityTool\obj\Debug\winEntityTool.csproj.GenerateResource.Cache
+E:\CMAS\winEntityTool\obj\Debug\winEntityTool.exe.licenses
+E:\CMAS\winEntityTool\bin\Debug\winEntityTool.exe
+E:\CMAS\winEntityTool\bin\Debug\winEntityTool.pdb
+D:\winEntityTool\bin\Debug\winEntityTool.exe.config
+D:\winEntityTool\obj\Debug\winEntityTool.frmCheckMsg.resources
+D:\My Source\winEntityTool\obj\Debug\winEntityTool.exe
+D:\My Source\winEntityTool\obj\Debug\winEntityTool.pdb
+D:\My Source\winEntityTool\obj\Debug\ResolveAssemblyReference.cache
+D:\My Source\winEntityTool\obj\Debug\winEntityTool.frmEntity.resources
+D:\My Source\winEntityTool\obj\Debug\winEntityTool.Properties.Resources.resources
+D:\My Source\winEntityTool\obj\Debug\winEntityTool.csproj.GenerateResource.Cache
+D:\My Source\winEntityTool\bin\Debug\winEntityTool.exe
+D:\My Source\winEntityTool\bin\Debug\winEntityTool.pdb
+D:\My Source\winEntityTool\obj\Debug\winEntityTool.exe.licenses

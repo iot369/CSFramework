@@ -1,0 +1,318 @@
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\ResolveAssemblyReference.cache
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmFuzzyCustomer.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmFuzzySearch.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmGenerateWizard.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModifyPwd.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmWaiting.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.Form1.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBase.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseBusinessForm.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseChild.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDataDictionary.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDataForm.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDialog.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmGridCustomize.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModifyLog.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModuleBase.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModuleContainer.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.ResImage.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucAttachment.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckEdit.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckedListBoxBinding.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckedListBoxEditor.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucDT_CustomerLookup.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucDT_UserLookup.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucValueEdit.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucWindowTitle.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.csproj.GenerateResource.Cache
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.dll.licenses
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.Library.dll
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.Library.pdb
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.dll
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.csprojResolveAssemblyReference.cache
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmFuzzyCustomer.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmFuzzySearch.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmGenerateWizard.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModifyPwd.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmWaiting.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.Form1.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBase.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseBusinessForm.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseChild.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDataDictionary.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDataForm.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDialog.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmGridCustomize.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModifyLog.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModuleBase.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModuleContainer.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.ResImage.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucAttachment.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckEdit.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckedListBoxBinding.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckedListBoxEditor.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucDT_CustomerLookup.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucDT_UserLookup.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucValueEdit.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucWindowTitle.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.csproj.GenerateResource.Cache
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.dll.licenses
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.Library.dll
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.Library.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Library.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Library.pdb
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.csprojResolveAssemblyReference.cache
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmFuzzyCustomer.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmFuzzySearch.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmGenerateWizard.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModifyPwd.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmWaiting.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.Form1.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBase.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseBusinessForm.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseChild.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDataDictionary.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDataForm.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDialog.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmGridCustomize.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModifyLog.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModuleBase.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModuleContainer.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.ResImage.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucAttachment.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckEdit.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckedListBoxBinding.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckedListBoxEditor.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucDT_CustomerLookup.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucDT_UserLookup.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucValueEdit.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucWindowTitle.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.csproj.GenerateResource.Cache
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.dll.licenses
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.pdb
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Library.dll
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Library.pdb
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\ResolveAssemblyReference.cache
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmFuzzyCustomer.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmFuzzySearch.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmGenerateWizard.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModifyPwd.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmWaiting.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.Form1.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBase.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseBusinessForm.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseChild.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDataDictionary.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDataForm.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDialog.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmGridCustomize.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModifyLog.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModuleBase.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModuleContainer.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.ResImage.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucAttachment.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckEdit.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckedListBoxBinding.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckedListBoxEditor.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucDT_CustomerLookup.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucDT_UserLookup.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucValueEdit.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucWindowTitle.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\GenerateResource.read.1.tlog
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\GenerateResource.write.1.tlog
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.dll.licenses
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.dll
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Library.dll
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Library.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.csprojResolveAssemblyReference.cache
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmFuzzyCustomer.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmFuzzySearch.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmGenerateWizard.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModifyPwd.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmWaiting.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.Form1.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBase.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseBusinessForm.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseChild.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDataDictionary.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDataForm.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDialog.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmGridCustomize.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModifyLog.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModuleBase.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModuleContainer.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.ResImage.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucAttachment.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckEdit.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckedListBoxBinding.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckedListBoxEditor.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucDT_CustomerLookup.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucDT_UserLookup.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucValueEdit.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucWindowTitle.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.csproj.GenerateResource.Cache
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.dll.licenses
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.dll
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\ResolveAssemblyReference.cache
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmFuzzyCustomer.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmFuzzySearch.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmGenerateWizard.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModifyPwd.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmWaiting.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.Form1.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBase.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseBusinessForm.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseChild.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDataDictionary.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDataForm.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDialog.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmGridCustomize.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModifyLog.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModuleBase.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModuleContainer.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.ResImage.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucAttachment.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckEdit.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckedListBoxBinding.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckedListBoxEditor.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucDT_CustomerLookup.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucDT_UserLookup.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucValueEdit.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucWindowTitle.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\GenerateResource.read.1.tlog
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\GenerateResource.write.1.tlog
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.dll
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Library.dll
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Library.pdb
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.Library.dll
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.Library.pdb
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\ResolveAssemblyReference.cache
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmFuzzyCustomer.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmFuzzySearch.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmGenerateWizard.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModifyPwd.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmWaiting.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.Form1.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBase.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseBusinessForm.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseChild.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDataDictionary.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDataForm.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDialog.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmGridCustomize.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModifyLog.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModuleBase.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModuleContainer.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.ResImage.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucAttachment.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckEdit.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckedListBoxBinding.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckedListBoxEditor.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucDT_CustomerLookup.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucDT_UserLookup.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucValueEdit.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucWindowTitle.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\GenerateResource.read.1.tlog
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\GenerateResource.write.1.tlog
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.dll
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.pdb
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.Library.dll
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.Library.pdb
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.csprojResolveAssemblyReference.cache
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmFuzzyCustomer.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmFuzzySearch.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmGenerateWizard.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModifyPwd.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmWaiting.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.Form1.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBase.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseBusinessForm.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseChild.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDataDictionary.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDataForm.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDialog.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmGridCustomize.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModifyLog.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModuleBase.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModuleContainer.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.ResImage.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucAttachment.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckEdit.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckedListBoxBinding.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckedListBoxEditor.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucDT_CustomerLookup.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucDT_UserLookup.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucValueEdit.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucWindowTitle.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.csproj.GenerateResource.Cache
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.dll
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.pdb
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\Debug\LZHBaseFrame.Library.dll
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\Debug\LZHBaseFrame.Library.pdb
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.csprojResolveAssemblyReference.cache
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmFuzzyCustomer.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmFuzzySearch.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmGenerateWizard.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModifyPwd.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmWaiting.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.Form1.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBase.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseBusinessForm.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseChild.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDataDictionary.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDataForm.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDialog.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmGridCustomize.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModifyLog.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModuleBase.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModuleContainer.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.ResImage.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucAttachment.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckEdit.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckedListBoxBinding.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckedListBoxEditor.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucDT_CustomerLookup.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucDT_UserLookup.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucValueEdit.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucWindowTitle.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.csproj.GenerateResource.Cache
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.dll
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.pdb
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\Debug\LZHBaseFrame.Library.dll
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\Debug\LZHBaseFrame.Library.pdb
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.csprojResolveAssemblyReference.cache
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmFuzzyCustomer.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmFuzzySearch.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmGenerateWizard.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModifyPwd.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmWaiting.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.Form1.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBase.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseBusinessForm.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseChild.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDataDictionary.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDataForm.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmBaseDialog.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmGridCustomize.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModifyLog.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModuleBase.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.frmModuleContainer.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.ResImage.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucAttachment.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckEdit.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckedListBoxBinding.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucCheckedListBoxEditor.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucDT_CustomerLookup.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucDT_UserLookup.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucValueEdit.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.UserControls.ucWindowTitle.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.csproj.GenerateResource.Cache
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.dll
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Library\obj\Debug\LZHBaseFrame.Library.pdb

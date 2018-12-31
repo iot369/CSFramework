@@ -1,0 +1,196 @@
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\Interop.FastReport.dll
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.csproj.ResolveComReference.cache
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CKG.HZSAF.Reports.frmPrintBase.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CKG.HZSAF.Reports.frmPrintViewerFR.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CKG.HZSAF.Reports.frmRptUser.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CKG.HZSAF.Reports.frmSalesReport.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CKG.HZSAF.Reports.FrxDataTable.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CKG.HZSAF.Reports.FrxDataView.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.Properties.Resources.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.dll.licenses
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmPrintBase.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmPrintViewerFR.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmRptUser.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmSalesReport.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.FrxDataTable.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.FrxDataView.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework3.Reports.dll
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework3.Reports.pdb
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\Interop.FastReport.dll
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.csproj.ResolveComReference.cache
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmPrintBase.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmPrintViewerFR.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmRptUser.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmSalesReport.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.FrxDataTable.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.FrxDataView.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.Properties.Resources.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.dll.licenses
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.dll
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.pdb
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework3.Reports.dll
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework3.Reports.pdb
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\Interop.FastReport.dll
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.csproj.ResolveComReference.cache
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmPrintBase.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmPrintViewerFR.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmRptUser.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmSalesReport.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.FrxDataTable.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.FrxDataView.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.Properties.Resources.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.dll.licenses
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.dll
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\Debug\CSFramework3.Reports.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\Debug\CSFramework3.Reports.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Reports\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Reports\obj\Debug\Interop.FastReport.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.csproj.ResolveComReference.cache
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmPrintBase.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmPrintViewerFR.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmRptUser.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmSalesReport.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.FrxDataTable.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.FrxDataView.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.Properties.Resources.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.dll.licenses
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\Debug\CSFramework3.Reports.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\Debug\CSFramework3.Reports.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.Reports\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.Reports\obj\Debug\Interop.FastReport.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.csproj.ResolveComReference.cache
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmPrintBase.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmPrintViewerFR.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmRptUser.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmSalesReport.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.FrxDataTable.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.FrxDataView.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.Properties.Resources.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.dll.licenses
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.pdb
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\Interop.FastReport.dll
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.csproj.ResolveComReference.cache
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmPrintBase.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmPrintViewerFR.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmRptUser.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmSalesReport.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.FrxDataTable.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.FrxDataView.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.Properties.Resources.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.dll.licenses
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework3.Reports.dll
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework3.Reports.pdb
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.dll
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.pdb
+E:\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework3.Reports.dll
+E:\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework3.Reports.pdb
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\Interop.FastReport.dll
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.csproj.ResolveComReference.cache
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmPrintBase.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmPrintViewerFR.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmRptUser.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmSalesReport.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.FrxDataTable.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.FrxDataView.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.Properties.Resources.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.dll.licenses
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.dll
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.pdb
+E:\CSFramework-ADO-标准版V2.2\Debug\CSFramework3.Reports.dll
+E:\CSFramework-ADO-标准版V2.2\Debug\CSFramework3.Reports.pdb
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.Reports\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.Reports\obj\Debug\Interop.FastReport.dll
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.csproj.ResolveComReference.cache
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmPrintBase.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmPrintViewerFR.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmRptUser.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmSalesReport.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.FrxDataTable.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.FrxDataView.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.Properties.Resources.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.dll.licenses
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.dll
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.pdb
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\Interop.FastReport.dll
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.csproj.ResolveComReference.cache
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmPrintBase.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmPrintViewerFR.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmRptUser.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmSalesReport.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.FrxDataTable.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.FrxDataView.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.Properties.Resources.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.dll.licenses
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\Debug\CSFramework3.Reports.dll
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\Debug\CSFramework3.Reports.pdb
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.dll
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.pdb
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\Debug\CSFramework3.Reports.dll
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\Debug\CSFramework3.Reports.pdb
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\Interop.FastReport.dll
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.csproj.ResolveComReference.cache
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmPrintBase.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmPrintViewerFR.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmRptUser.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmSalesReport.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.FrxDataTable.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.FrxDataView.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.Properties.Resources.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.dll.licenses
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.dll
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.pdb
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\Debug\CSFramework3.Reports.dll
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\Debug\CSFramework3.Reports.pdb
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\Interop.FastReport.dll
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.csproj.ResolveComReference.cache
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.Form1.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmPrintBase.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmPrintViewerFR.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmRptUser.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmSalesReport.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.FrxDataTable.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.FrxDataView.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.Properties.Resources.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.dll.licenses
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.dll
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.pdb
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\Interop.FastReport.dll
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.csproj.ResolveComReference.cache
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.Form1.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmPrintBase.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmPrintViewerFR.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmRptUser.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.frmSalesReport.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.FrxDataTable.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.FrxDataView.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.Properties.Resources.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.dll.licenses
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\Debug\CSFramework3.Reports.dll
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\Debug\CSFramework3.Reports.pdb
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.dll
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Reports\obj\Debug\CSFramework3.Reports.pdb

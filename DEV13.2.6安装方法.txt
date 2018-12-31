@@ -1,0 +1,33 @@
+﻿详细安装方法见网址
+http://www.myext.cn/other/a_25518.html
+
+
+
+
+DevExpress DXperience Universal -13.2.6资源整合：
+
+
+
+最新13.2.6的注册机支持：
+亲测可用，无流氓插件。
+
+
+最新13.2.6的本地汉化支持：
+解压后， 直接放到：D:\Program Files (x86)\DevExpress 13.2\Components\Bin\Framework\zh-CN 中
+
+
+最新13.2.6源码包和DEV安装包支持：
+
+
+最新DXperience 13.2.6 源码编译工具(支持中文系统)编译支持：
+解压缩13.2.6源代码到\DevExpress 13.2\Components\Sources
+代码中DevExpress.XtraPrinting\DevExpress.Printing.Core\Export\ExportToExcel\FormatStringConverter.cs有错，279行里把'?改成'\''
+运行编译工具
+Over!!!
+PS：支持中文Windows系统，编译过程中报错的都是SliverLight和WinRT的，只用Winform和ASPx的朋友可以无视。
+
+
+另外一种官方的编译工具，但貌似也对中文支持不太好，官网地址：
+https://github.com/derjabkin/DXBuildGenerator
+
+

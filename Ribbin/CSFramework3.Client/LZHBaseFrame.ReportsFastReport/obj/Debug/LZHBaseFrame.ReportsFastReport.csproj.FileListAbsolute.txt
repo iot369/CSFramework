@@ -1,0 +1,104 @@
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\ResolveAssemblyReference.cache
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.Form1.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmBasePrint.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmPreview.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportAP.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportAR.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportSO.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportUser.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.Properties.Resources.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.csproj.GenerateResource.Cache
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.dll.licenses
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.ReportsFastReport.dll
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.ReportsFastReport.pdb
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.dll
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.csprojResolveAssemblyReference.cache
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.Form1.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmBasePrint.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmPreview.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportAP.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportAR.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportSO.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportUser.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.Properties.Resources.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.csproj.GenerateResource.Cache
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.dll.licenses
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.ReportsFastReport.dll
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.ReportsFastReport.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.ReportsFastReport.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.ReportsFastReport.pdb
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.csprojResolveAssemblyReference.cache
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.Form1.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmBasePrint.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmPreview.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportAP.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportAR.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportSO.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportUser.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.Properties.Resources.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.csproj.GenerateResource.Cache
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.dll.licenses
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.ReportsFastReport.dll
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.ReportsFastReport.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.csprojResolveAssemblyReference.cache
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.Form1.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmBasePrint.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmPreview.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportAP.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportAR.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportSO.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportUser.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.Properties.Resources.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.csproj.GenerateResource.Cache
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.dll.licenses
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.dll
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\ResolveAssemblyReference.cache
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.Form1.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmBasePrint.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmPreview.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportAP.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportAR.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportSO.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportUser.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.Properties.Resources.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\GenerateResource.read.1.tlog
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\GenerateResource.write.1.tlog
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.dll
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.ReportsFastReport.dll
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.ReportsFastReport.pdb
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.ReportsFastReport.dll
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.ReportsFastReport.pdb
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\ResolveAssemblyReference.cache
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.Form1.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmBasePrint.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmPreview.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportAP.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportAR.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportSO.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportUser.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.Properties.Resources.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\GenerateResource.read.1.tlog
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\GenerateResource.write.1.tlog
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.dll
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.pdb
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.ReportsFastReport.dll
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.ReportsFastReport.pdb
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.csprojResolveAssemblyReference.cache
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.Form1.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmBasePrint.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmPreview.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportAP.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportAR.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportSO.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.frmReportUser.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.Properties.Resources.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.csproj.GenerateResource.Cache
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.dll
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.ReportsFastReport\obj\Debug\LZHBaseFrame.ReportsFastReport.pdb

@@ -1,0 +1,124 @@
+
+        private FrxDataTable dtSummary = null;
+        private FrxDataView dtDetailView = null;
+        private Bitmap bmpTemp = null;
+
+        private void simpleButton6_Click_1(object sender, EventArgs e)
+        {
+            TfrxReportClass report = new TfrxReportClass();
+            report.OnBeforePrint += new IfrxReportEventDispatcher_OnBeforePrintEventHandler(Report_OnBeforePrint);
+            report.OnAfterPrint += new IfrxReportEventDispatcher_OnAfterPrintEventHandler(Report_OnAfterPrint);
+
+            DataSet ds = SqlData.GetData();
+
+            // Create the FR compatible DataTable object
+            dtSummary = new FrxDataTable(ds.Tables[0]);
+            dtDetailView = new FrxDataView(ds.Tables[1], "ADOTable2");
+
+            // These events used for Master/Detail implementation
+            dtSummary.FrxEventOnFirst += new FrxOnFirst(datatable_FrxEventHandler);
+            dtSummary.FrxEventOnNext += new FrxOnNext(datatable_FrxEventHandler);
+            dtSummary.FrxEventOnPrior += new FrxOnPrior(datatable_FrxEventHandler);
+
+
+            // We need following to make ongoing the report windows modal
+            report.MainWindowHandle = (int)this.Handle;
+
+            report.LoadReportFromFile(@"E:\LZHBaseFrame.Reports\LZHBaseFrame.Reports\Reports\PIList.fr3");
+
+            report.ClearDatasets();
+
+            // Asiign datasets to report one more time
+            // beacuse theLoadReport... family functions breaks links between report and dataset
+            dtSummary.AssignToReport(true, report);
+            dtDetailView.AssignToReport(true, report);
+
+            // Assigns DataTable to MasterBand
+            dtSummary.AssignToDataBand("MasterData1", report);
+            // Assigns DataView to DetailBand
+            dtDetailView.AssignToDataBand("DetailData1", report);
+
+            report.ShowReport();
+
+        }
+
+        private void Report_OnBeforePrint(IfrxComponent Sender)
+        {
+            if (Sender is FastReport.IfrxView)
+            {
+
+                // Setting picture by handle
+                if (Sender.Name == "Picture1")
+                {
+
+                    Object o;
+
+                    dtSummary.OnGetValueHandler("Picture", out o);
+                    if (o.ToString() != string.Empty)
+                    {
+                        IfrxPictureView pict = (IfrxPictureView)Sender;
+
+                        System.IO.MemoryStream s = new System.IO.MemoryStream();
+
+                        Byte[] array = o as Byte[];
+
+                        s.Write(array, 0, array.Length);
+
+                        pict.LoadViewFromStream(s);
+
+                        s = null;
+                    }
+                }
+
+                // Setting pictire by stream 
+                if (Sender.Name == "Picture2")
+                {
+
+                    Object o;
+
+                    dtSummary.OnGetValueHandler("Image", out o);
+                    if (o.ToString() != string.Empty)
+                    {
+                        IfrxPictureView pict = (IfrxPictureView)Sender;
+
+                        System.IO.MemoryStream s = new System.IO.MemoryStream();
+
+                        Byte[] array = o as Byte[];
+
+                        s.Write(array, 0, array.Length);
+
+                        pict.LoadViewFromStream(s);
+
+                        s = null;
+                    }
+                    else
+                    {
+
+                    }
+                }
+            }
+        }
+
+
+        private void Report_OnAfterPrint(IfrxComponent Sender)
+        {
+            if (Sender.Name == "Picture1")
+            {
+                bmpTemp = null;
+            }
+            if (Sender.Name == "Picture2")
+            {
+                bmpTemp = null;
+            }
+        }
+        //
+        // Switch the detail table
+        //
+        private void datatable_FrxEventHandler()
+        {
+            object id;
+
+            dtSummary.OnGetValueHandler("ModuleID", out id);
+
+            dtDetailView.RowFilter = string.Format("ModuleID ='{0}' ", id);
+        }

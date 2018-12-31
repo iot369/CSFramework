@@ -1,0 +1,13 @@
+D:\My SourceCode\C#\CSFramework-ADO-CHS\source\Debug\CKG.FrameworkADO.Models.dll
+D:\My SourceCode\C#\CSFramework-ADO-CHS\source\Debug\CKG.FrameworkADO.Models.pdb
+D:\My SourceCode\C#\CSFramework-ADO-CHS\source\vjsdn.CS3Layers_Framework.Models\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\C#\CSFramework-ADO-CHS\source\vjsdn.CS3Layers_Framework.Models\obj\Debug\CKG.FrameworkADO.Models.dll
+D:\My SourceCode\C#\CSFramework-ADO-CHS\source\vjsdn.CS3Layers_Framework.Models\obj\Debug\CKG.FrameworkADO.Models.pdb
+D:\My SourceCode\C#\CSFramework-ADO-CHS\source\CKG_Framework_ADO.Models\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\C#\CSFramework-ADO-CHS\source\CKG_Framework_ADO.Models\obj\Debug\CKG.FrameworkADO.Models.dll
+D:\My SourceCode\C#\CSFramework-ADO-CHS\source\CKG_Framework_ADO.Models\obj\Debug\CKG.FrameworkADO.Models.pdb
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\Debug\CKG.FrameworkADO.Models.dll
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\Debug\CKG.FrameworkADO.Models.pdb
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\CKG_Framework_ADO.Models\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\CKG_Framework_ADO.Models\obj\Debug\CKG.FrameworkADO.Models.dll
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\CKG_Framework_ADO.Models\obj\Debug\CKG.FrameworkADO.Models.pdb

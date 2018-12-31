@@ -1,0 +1,49 @@
+F:\LZTBaseFrame\CSFramework3.Client\Debug\App.config
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.WebServiceReference.dll.config
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.WebServiceReference.dll
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.WebServiceReference.pdb
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.WebServiceReference\obj\Debug\ResolveAssemblyReference.cache
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.WebServiceReference\obj\Debug\LZHBaseFrame.WebServiceReference.dll
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.WebServiceReference\obj\Debug\LZHBaseFrame.WebServiceReference.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\App.config
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.WebServiceReference.dll.config
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.WebServiceReference.dll
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.WebServiceReference.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.WebServiceReference\obj\Debug\LZHBaseFrame.WebServiceReference.csprojResolveAssemblyReference.cache
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.WebServiceReference\obj\Debug\LZHBaseFrame.WebServiceReference.dll
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.WebServiceReference\obj\Debug\LZHBaseFrame.WebServiceReference.pdb
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\App.config
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.WebServiceReference.dll.config
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.WebServiceReference.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.WebServiceReference.pdb
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.WebServiceReference\obj\Debug\LZHBaseFrame.WebServiceReference.csprojResolveAssemblyReference.cache
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.WebServiceReference\obj\Debug\LZHBaseFrame.WebServiceReference.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.WebServiceReference\obj\Debug\LZHBaseFrame.WebServiceReference.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\App.config
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.WebServiceReference.dll.config
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.WebServiceReference.dll
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.WebServiceReference.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.WebServiceReference\obj\Debug\LZHBaseFrame.WebServiceReference.csprojResolveAssemblyReference.cache
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.WebServiceReference\obj\Debug\LZHBaseFrame.WebServiceReference.dll
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.WebServiceReference\obj\Debug\LZHBaseFrame.WebServiceReference.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\App.config
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.WebServiceReference.dll.config
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.WebServiceReference.dll
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.WebServiceReference.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.WebServiceReference\obj\Debug\ResolveAssemblyReference.cache
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.WebServiceReference\obj\Debug\LZHBaseFrame.WebServiceReference.dll
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.WebServiceReference\obj\Debug\LZHBaseFrame.WebServiceReference.pdb
+D:\OneDrive\MES\CSFramework3.Client\Debug\App.config
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.WebServiceReference.dll.config
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.WebServiceReference.dll
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.WebServiceReference.pdb
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.WebServiceReference\obj\Debug\ResolveAssemblyReference.cache
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.WebServiceReference\obj\Debug\LZHBaseFrame.WebServiceReference.dll
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.WebServiceReference\obj\Debug\LZHBaseFrame.WebServiceReference.pdb
+F:\OneDrive\MES\CSFramework3.Client\Debug\App.config
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.WebServiceReference.dll.config
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.WebServiceReference.dll
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.WebServiceReference.pdb
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.WebServiceReference\obj\Debug\LZHBaseFrame.WebServiceReference.csprojResolveAssemblyReference.cache
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.WebServiceReference\obj\Debug\LZHBaseFrame.WebServiceReference.dll
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.WebServiceReference\obj\Debug\LZHBaseFrame.WebServiceReference.pdb

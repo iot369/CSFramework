@@ -1,0 +1,138 @@
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\ResolveAssemblyReference.cache
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.Form1.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmAbout.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmLogin.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmMain.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.Properties.Resources.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.csproj.GenerateResource.Cache
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.exe.licenses
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.Main.exe
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.Main.pdb
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.exe
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.Main.exe.config
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.Main.exe
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.Main.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.csprojResolveAssemblyReference.cache
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.Form1.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmAbout.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmLogin.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmMain.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.Properties.Resources.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.csproj.GenerateResource.Cache
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.exe.licenses
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.exe
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.pdb
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Main.exe.config
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Main.exe
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Main.pdb
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.csprojResolveAssemblyReference.cache
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.Form1.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmAbout.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmLogin.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmMain.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.Properties.Resources.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.csproj.GenerateResource.Cache
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.exe.licenses
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.exe
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.pdb
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Main.exe.config
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.exe
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.pdb
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Main.exe
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Main.pdb
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\ResolveAssemblyReference.cache
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.Form1.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmAbout.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmLogin.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmMain.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.Properties.Resources.resources
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\GenerateResource.read.1.tlog
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\GenerateResource.write.1.tlog
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.exe.licenses
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Main.exe.config
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.exe
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Main.exe
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Main.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.csprojResolveAssemblyReference.cache
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmAbout.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmLogin.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmMain.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.Properties.Resources.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.csproj.GenerateResource.Cache
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.exe.licenses
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmBoot.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Main.exe.config
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.exe
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.pdb
+K:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Main.exe.config
+K:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.exe
+K:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Main.exe
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Main.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\ResolveAssemblyReference.cache
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmBoot.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmAbout.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmLogin.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmMain.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.Properties.Resources.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\GenerateResource.read.1.tlog
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\GenerateResource.write.1.tlog
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.exe.licenses
+D:\MES文件\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Main.exe.config
+D:\MES文件\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.exe
+D:\MES文件\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.pdb
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.Main.exe.config
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.exe
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.pdb
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.Main.exe.config
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.exe
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.pdb
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.Main.exe
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.Main.pdb
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\ResolveAssemblyReference.cache
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmBoot.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmAbout.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmLogin.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmMain.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.Properties.Resources.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\GenerateResource.read.1.tlog
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\GenerateResource.write.1.tlog
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.exe.licenses
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.Main.exe
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.Main.pdb
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.csprojResolveAssemblyReference.cache
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmBoot.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmAbout.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmLogin.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmMain.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.Properties.Resources.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.csproj.GenerateResource.Cache
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.exe.licenses
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\Debug\LZHBaseFrame.Main.exe.config
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.exe
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.pdb
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\Debug\LZHBaseFrame.Main.exe
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\Debug\LZHBaseFrame.Main.pdb
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.csprojResolveAssemblyReference.cache
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmBoot.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmAbout.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmLogin.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmMain.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.Properties.Resources.resources
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.csproj.GenerateResource.Cache
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.exe.licenses
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\Debug\LZHBaseFrame.Main.exe.config
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.exe
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.pdb
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\Debug\LZHBaseFrame.Main.exe
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\Debug\LZHBaseFrame.Main.pdb
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.csprojResolveAssemblyReference.cache
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmBoot.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmAbout.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmLogin.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.frmMain.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.Properties.Resources.resources
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.csproj.GenerateResource.Cache
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Main\obj\Debug\LZHBaseFrame.Main.exe.licenses

@@ -1,0 +1,136 @@
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CKG.HZSAF.PurchaseModule.frmGRN.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CKG.HZSAF.PurchaseModule.frmPO.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CKG.HZSAF.PurchaseModule.frmPurchaseModuleMain.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.Properties.Resources.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.dll.licenses
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmGRN.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPO.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPurchaseModuleMain.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework3.PurchaseModule.dll
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework3.PurchaseModule.pdb
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPO.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPurchaseModuleMain.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.Properties.Resources.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.dll.licenses
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.dll
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.pdb
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework3.PurchaseModule.dll
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework3.PurchaseModule.pdb
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPO.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPurchaseModuleMain.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.Properties.Resources.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.dll.licenses
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.dll
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\Debug\CSFramework3.PurchaseModule.dll.config
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\Debug\CSFramework3.PurchaseModule.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\Debug\CSFramework3.PurchaseModule.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.PurchaseModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPO.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPurchaseModuleMain.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.Properties.Resources.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.dll.licenses
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\Debug\CSFramework3.PurchaseModule.dll.config
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\Debug\CSFramework3.PurchaseModule.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\Debug\CSFramework3.PurchaseModule.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.PurchaseModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPO.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPurchaseModuleMain.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.Properties.Resources.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.dll.licenses
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.pdb
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.PurchaseModule\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPO.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPurchaseModuleMain.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.Properties.Resources.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.dll.licenses
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework3.PurchaseModule.dll.config
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework3.PurchaseModule.dll
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework3.PurchaseModule.pdb
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.dll
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.pdb
+E:\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework3.PurchaseModule.dll
+E:\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework3.PurchaseModule.pdb
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.PurchaseModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPO.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPurchaseModuleMain.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.Properties.Resources.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.dll.licenses
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.dll
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.pdb
+E:\CSFramework-ADO-标准版V2.2\Debug\CSFramework3.PurchaseModule.dll
+E:\CSFramework-ADO-标准版V2.2\Debug\CSFramework3.PurchaseModule.pdb
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.PurchaseModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPO.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPurchaseModuleMain.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.Properties.Resources.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.dll.licenses
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.dll
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.pdb
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPO.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPurchaseModuleMain.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.Properties.Resources.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.dll.licenses
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\Debug\CSFramework3.PurchaseModule.dll
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\Debug\CSFramework3.PurchaseModule.pdb
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.dll
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.pdb
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\Debug\CSFramework3.PurchaseModule.dll
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\Debug\CSFramework3.PurchaseModule.pdb
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPO.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPurchaseModuleMain.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.Properties.Resources.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.dll.licenses
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.dll
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.pdb
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\Debug\CSFramework3.PurchaseModule.dll
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\Debug\CSFramework3.PurchaseModule.pdb
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.Form1.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPO.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPurchaseModuleMain.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.Properties.Resources.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.dll.licenses
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.dll
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.pdb
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\Debug\CSFramework3.PurchaseModule.dll
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\Debug\CSFramework3.PurchaseModule.pdb
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.Form1.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPO.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPurchaseModuleMain.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.Properties.Resources.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.dll.licenses
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.dll
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.pdb
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\ResolveAssemblyReference.cache
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.Form1.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPO.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.frmPurchaseModuleMain.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.Properties.Resources.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.csproj.GenerateResource.Cache
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.dll.licenses
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.dll
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.PurchaseModule\obj\Debug\CSFramework3.PurchaseModule.pdb
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\Debug\CSFramework3.PurchaseModule.dll
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\Debug\CSFramework3.PurchaseModule.pdb

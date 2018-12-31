@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{02F9C07F-209E-4FA4-9438-D47B07E1F648}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LZHBaseFrame.AccountModule</RootNamespace>
+    <AssemblyName>LZHBaseFrame.AccountModule</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v13.2, Version=13.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\debug\DevExpress.Data.v13.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v13.2, Version=13.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\debug\DevExpress.Utils.v13.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v13.2, Version=13.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\debug\DevExpress.XtraBars.v13.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v13.2, Version=13.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\debug\DevExpress.XtraEditors.v13.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v13.2, Version=13.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\debug\DevExpress.XtraGrid.v13.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v13.2, Version=13.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\debug\DevExpress.XtraLayout.v13.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraNavBar.v13.2, Version=13.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\debug\DevExpress.XtraNavBar.v13.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraTreeList.v13.2, Version=13.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\debug\DevExpress.XtraTreeList.v13.2.dll</HintPath>
+    </Reference>
+    <Reference Include="LZHBaseFrame.Business, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="LZHBaseFrame.Common, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="LZHBaseFrame.Core, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="LZHBaseFrame.Library, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="LZHBaseFrame.Models, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAccountMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAccountMain.Designer.cs">
+      <DependentUpon>frmAccountMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAP.Designer.cs">
+      <DependentUpon>frmAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAR.Designer.cs">
+      <DependentUpon>frmAR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQueryOutstanding.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQueryOutstanding.Designer.cs">
+      <DependentUpon>frmQueryOutstanding.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LZHBaseFrame.ORM\LZHBaseFrame.ORM.csproj">
+      <Project>{34000ABD-4169-45B5-A668-1901F1EB5FDE}</Project>
+      <Name>LZHBaseFrame.ORM</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LZHBaseFrame.Interfaces\LZHBaseFrame.Interfaces.csproj">
+      <Project>{E96FA431-A247-49F3-892B-03E411957180}</Project>
+      <Name>LZHBaseFrame.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LZHBaseFrame.ReportsFastReport\LZHBaseFrame.ReportsFastReport.csproj">
+      <Project>{F925F022-363F-49EC-868B-C51B72A81CC7}</Project>
+      <Name>LZHBaseFrame.ReportsFastReport</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAccountMain.resx">
+      <DependentUpon>frmAccountMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAP.resx">
+      <DependentUpon>frmAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAR.resx">
+      <DependentUpon>frmAR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQueryOutstanding.resx">
+      <DependentUpon>frmQueryOutstanding.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48_Dept.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48_Expense.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48_GRN.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48_GRNReturn.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48_ImportCard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48_MaintainItem.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48_MenuAuth1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48_MenuAuth.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48_OperateLog.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48_PeriodEnd.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48_Pn.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48_PromotionPlan.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48_Quotation1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48_Quotation.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48_SalesInvoice.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48_SalesOrder.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48_SignCard.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\48_StockTakeOpenReport.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\60_Export.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\64_Check.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bk_reg.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ButtonCascade.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ckg.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-for-app1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\find50x50.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

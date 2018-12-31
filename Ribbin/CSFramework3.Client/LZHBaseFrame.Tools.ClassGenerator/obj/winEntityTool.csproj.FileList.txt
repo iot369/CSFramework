@@ -1,0 +1,13 @@
+bin\Debug\winEntityTool.exe
+bin\Debug\winEntityTool.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\winEntityTool.Properties.Resources.resources
+obj\Debug\winEntityTool.csproj.GenerateResource.Cache
+obj\Debug\winEntityTool.exe
+obj\Debug\winEntityTool.pdb
+obj\Debug\winEntityTool.exe.licenses
+obj\Debug\winEntityTool.frmEntity.resources
+obj\Debug\winEntityTool.frmMain.resources
+obj\Debug\winEntityTool.frmDal.resources
+obj\Debug\winEntityTool.frmFormCode.resources
+obj\Debug\winEntityTool.frmFormProxy.resources

@@ -1,0 +1,203 @@
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\csframework.SystemModule.dll
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\csframework.SystemModule.pdb
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmChangeTagName.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmCompanyInfo.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmGroup.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmLogConfig.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmMenuAuth.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmModifyPwd.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmSystemMain.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmSystemOptions.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmUser.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\csframework.SystemModule.Properties.Resources.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\csframework.SystemModule.dll.licenses
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\csframework.SystemModule.dll
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\csframework.SystemModule.pdb
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework.SystemModule.dll
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework.SystemModule.pdb
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmChangeTagName.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmCompanyInfo.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmGroup.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmLogConfig.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmMenuAuth.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmModifyPwd.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmSystemMain.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmSystemOptions.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmUser.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.Properties.Resources.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.dll.licenses
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.dll
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\Debug\CSFramework.SystemModule.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\Debug\CSFramework.SystemModule.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.SystemModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmChangeTagName.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmCompanyInfo.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmGroup.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmLogConfig.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmMenuAuth.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmModifyPwd.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmSystemMain.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmSystemOptions.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmUser.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.Properties.Resources.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.dll.licenses
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\Debug\CSFramework.SystemModule.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\Debug\CSFramework.SystemModule.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.SystemModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmChangeTagName.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmCompanyInfo.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmGroup.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmLogConfig.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmMenuAuth.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmModifyPwd.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmSystemMain.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmSystemOptions.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmUser.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.Properties.Resources.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.dll.licenses
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.pdb
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmChangeTagName.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmCompanyInfo.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmGroup.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmLogConfig.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmMenuAuth.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmModifyPwd.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmSystemMain.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmSystemOptions.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmUser.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.Properties.Resources.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.dll.licenses
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework.SystemModule.dll
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework.SystemModule.pdb
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.dll
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.pdb
+E:\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework.SystemModule.dll
+E:\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework.SystemModule.pdb
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmChangeTagName.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmCompanyInfo.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmGroup.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmLogConfig.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmMenuAuth.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmModifyPwd.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmSystemMain.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmSystemOptions.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmUser.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.Properties.Resources.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.dll.licenses
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.dll
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.pdb
+E:\CSFramework-ADO-标准版V2.2\Debug\CSFramework.SystemModule.dll
+E:\CSFramework-ADO-标准版V2.2\Debug\CSFramework.SystemModule.pdb
+E:\CSFramework-ADO-标准版V2.2\CSFramework.SystemModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-标准版V2.2\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmChangeTagName.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmCompanyInfo.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmGroup.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmLogConfig.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmMenuAuth.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmSystemMain.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmSystemOptions.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmUser.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.Properties.Resources.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-标准版V2.2\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.dll.licenses
+E:\CSFramework-ADO-标准版V2.2\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.dll
+E:\CSFramework-ADO-标准版V2.2\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.pdb
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmChangeTagName.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmCompanyInfo.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmGroup.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmLogConfig.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmMenuAuth.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmSystemMain.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmSystemOptions.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmUser.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.Properties.Resources.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.dll.licenses
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\Debug\CSFramework.SystemModule.dll
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\Debug\CSFramework.SystemModule.pdb
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.dll
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.pdb
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\Debug\CSFramework.SystemModule.dll
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\Debug\CSFramework.SystemModule.pdb
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmChangeTagName.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmCompanyInfo.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmGroup.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmLogConfig.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmMenuAuth.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmSystemMain.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmSystemOptions.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmUser.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.Properties.Resources.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.dll.licenses
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.dll
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.pdb
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\Debug\CSFramework.SystemModule.dll
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\Debug\CSFramework.SystemModule.pdb
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.Form1.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmChangeTagName.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmCompanyInfo.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmGroup.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmLogConfig.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmMenuAuth.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmSystemMain.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmSystemOptions.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmUser.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.Properties.Resources.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.dll.licenses
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.dll
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.pdb
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\Debug\CSFramework.SystemModule.dll
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\Debug\CSFramework.SystemModule.pdb
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.Form1.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmBackupDB.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmChangeTagName.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmCompanyInfo.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmGroup.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmLogConfig.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmMenuAuth.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmSystemMain.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmSystemOptions.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmUser.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.Properties.Resources.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.dll.licenses
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.dll
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.pdb
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\ResolveAssemblyReference.cache
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.Form1.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmBackupDB.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmChangeTagName.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmCompanyInfo.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmGroup.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmLogConfig.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmMenuAuth.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmSystemMain.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmSystemOptions.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.frmUser.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.Properties.Resources.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.csproj.GenerateResource.Cache
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.dll.licenses
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.dll
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.SystemModule\obj\Debug\CSFramework.SystemModule.pdb
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\Debug\CSFramework.SystemModule.dll
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\Debug\CSFramework.SystemModule.pdb

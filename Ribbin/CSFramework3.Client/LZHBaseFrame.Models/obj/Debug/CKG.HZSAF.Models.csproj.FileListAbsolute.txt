@@ -1,0 +1,13 @@
+D:\My SourceCode\C#\HZ_SAF\source\CKG_Framework_ADO.Models\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\C#\HZ_SAF\source\CKG_Framework_ADO.Models\obj\Debug\CKG.HZSAF.Models.dll
+D:\My SourceCode\C#\HZ_SAF\source\CKG_Framework_ADO.Models\obj\Debug\CKG.HZSAF.Models.pdb
+D:\My SourceCode\C#\HZ_SAF\source\Debug\CKG.HZSAF.Models.dll
+D:\My SourceCode\C#\HZ_SAF\source\Debug\CKG.HZSAF.Models.pdb
+D:\My SourceCode\C#\HZ_SAF\source\CKG.HZSAF.Models\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\C#\HZ_SAF\source\CKG.HZSAF.Models\obj\Debug\CKG.HZSAF.Models.dll
+D:\My SourceCode\C#\HZ_SAF\source\CKG.HZSAF.Models\obj\Debug\CKG.HZSAF.Models.pdb
+D:\My SourceCode\CSharp\HZ_SAF\source\Debug\CKG.HZSAF.Models.dll
+D:\My SourceCode\CSharp\HZ_SAF\source\CKG.HZSAF.Models\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\HZ_SAF\source\CKG.HZSAF.Models\obj\Debug\CKG.HZSAF.Models.dll
+D:\My SourceCode\CSharp\HZ_SAF\source\CKG.HZSAF.Models\obj\Debug\CKG.HZSAF.Models.pdb
+D:\My SourceCode\CSharp\HZ_SAF\source\Debug\CKG.HZSAF.Models.pdb

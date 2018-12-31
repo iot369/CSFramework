@@ -1,0 +1,137 @@
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CKG.HZSAF.SalesModule.frmAR.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CKG.HZSAF.SalesModule.frmDO.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CKG.HZSAF.SalesModule.frmInvoice.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CKG.HZSAF.SalesModule.frmSalesMain.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CKG.HZSAF.SalesModule.frmSO.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.Properties.Resources.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.dll.licenses
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmAR.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmDO.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmInvoice.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSalesMain.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSO.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework3.SalesModule.dll
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework3.SalesModule.pdb
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSalesMain.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSO.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.Properties.Resources.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.dll.licenses
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.dll
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.pdb
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework3.SalesModule.dll
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework3.SalesModule.pdb
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSalesMain.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSO.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.Properties.Resources.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.dll.licenses
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.dll
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\Debug\CSFramework3.SalesModule.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\Debug\CSFramework3.SalesModule.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.SalesModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSalesMain.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSO.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.Properties.Resources.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.dll.licenses
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\Debug\CSFramework3.SalesModule.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\Debug\CSFramework3.SalesModule.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.SalesModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSalesMain.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSO.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.Properties.Resources.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.dll.licenses
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.pdb
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.SalesModule\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSalesMain.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSO.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.Properties.Resources.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.dll.licenses
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework3.SalesModule.dll
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework3.SalesModule.pdb
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.dll
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.pdb
+E:\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework3.SalesModule.dll
+E:\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework3.SalesModule.pdb
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.SalesModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSalesMain.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSO.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.Properties.Resources.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.dll.licenses
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.dll
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.pdb
+E:\CSFramework-ADO-标准版V2.2\Debug\CSFramework3.SalesModule.dll
+E:\CSFramework-ADO-标准版V2.2\Debug\CSFramework3.SalesModule.pdb
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.SalesModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSalesMain.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSO.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.Properties.Resources.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.dll.licenses
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.dll
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.pdb
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSalesMain.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSO.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.Properties.Resources.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.dll.licenses
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\Debug\CSFramework3.SalesModule.dll
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\Debug\CSFramework3.SalesModule.pdb
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.dll
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.pdb
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\Debug\CSFramework3.SalesModule.dll
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\Debug\CSFramework3.SalesModule.pdb
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSalesMain.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSO.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.Properties.Resources.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.dll.licenses
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.dll
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.pdb
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\Debug\CSFramework3.SalesModule.dll
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\Debug\CSFramework3.SalesModule.pdb
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.Form1.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSalesMain.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSO.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.Properties.Resources.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.dll.licenses
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.dll
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.pdb
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\Debug\CSFramework3.SalesModule.dll
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\Debug\CSFramework3.SalesModule.pdb
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.Form1.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSalesMain.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSO.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.Properties.Resources.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.dll.licenses
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.dll
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.pdb
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\ResolveAssemblyReference.cache
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.Form1.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSalesMain.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.frmSO.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.Properties.Resources.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.csproj.GenerateResource.Cache
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.dll.licenses
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.dll
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.SalesModule\obj\Debug\CSFramework3.SalesModule.pdb
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\Debug\CSFramework3.SalesModule.dll
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\Debug\CSFramework3.SalesModule.pdb

@@ -1,0 +1,40 @@
+F:\LZTBaseFrame\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+F:\LZTBaseFrame\CSFramework3.Client\debug\LZHBaseFrame.Server.DataAccess.dll
+F:\LZTBaseFrame\CSFramework3.Client\debug\LZHBaseFrame.Server.DataAccess.pdb
+F:\LZTBaseFrame\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Debug\LZHBaseFrame.Server.DataAccess.dll
+F:\LZTBaseFrame\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Debug\LZHBaseFrame.Server.DataAccess.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\debug\LZHBaseFrame.Server.DataAccess.dll
+H:\LZTBaseFrame - 副本\CSFramework3.Client\debug\LZHBaseFrame.Server.DataAccess.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Debug\LZHBaseFrame.Server.DataAccess.csprojResolveAssemblyReference.cache
+H:\LZTBaseFrame - 副本\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Debug\LZHBaseFrame.Server.DataAccess.dll
+H:\LZTBaseFrame - 副本\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Debug\LZHBaseFrame.Server.DataAccess.pdb
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\debug\LZHBaseFrame.Server.DataAccess.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\debug\LZHBaseFrame.Server.DataAccess.pdb
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Debug\LZHBaseFrame.Server.DataAccess.csprojResolveAssemblyReference.cache
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Debug\LZHBaseFrame.Server.DataAccess.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Debug\LZHBaseFrame.Server.DataAccess.pdb
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\debug\LZHBaseFrame.Server.DataAccess.dll
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\debug\LZHBaseFrame.Server.DataAccess.pdb
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Debug\LZHBaseFrame.Server.DataAccess.dll
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Debug\LZHBaseFrame.Server.DataAccess.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\debug\LZHBaseFrame.Server.DataAccess.dll
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\debug\LZHBaseFrame.Server.DataAccess.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Debug\LZHBaseFrame.Server.DataAccess.csprojResolveAssemblyReference.cache
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Debug\LZHBaseFrame.Server.DataAccess.dll
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Debug\LZHBaseFrame.Server.DataAccess.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\debug\LZHBaseFrame.Server.DataAccess.dll
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\debug\LZHBaseFrame.Server.DataAccess.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Debug\LZHBaseFrame.Server.DataAccess.dll
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Debug\LZHBaseFrame.Server.DataAccess.pdb
+D:\OneDrive\MES\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\OneDrive\MES\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Debug\LZHBaseFrame.Server.DataAccess.dll
+D:\OneDrive\MES\CSFramework3.Client\debug\LZHBaseFrame.Server.DataAccess.dll
+D:\OneDrive\MES\CSFramework3.Client\debug\LZHBaseFrame.Server.DataAccess.pdb
+D:\OneDrive\MES\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Debug\LZHBaseFrame.Server.DataAccess.pdb
+F:\OneDrive\MES\CSFramework3.Client\debug\LZHBaseFrame.Server.DataAccess.dll
+F:\OneDrive\MES\CSFramework3.Client\debug\LZHBaseFrame.Server.DataAccess.pdb
+F:\OneDrive\MES\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Debug\LZHBaseFrame.Server.DataAccess.csprojResolveAssemblyReference.cache
+F:\OneDrive\MES\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Debug\LZHBaseFrame.Server.DataAccess.dll
+F:\OneDrive\MES\CSFramework3.Server\CSFramework3.Server.DataAccess\obj\Debug\LZHBaseFrame.Server.DataAccess.pdb

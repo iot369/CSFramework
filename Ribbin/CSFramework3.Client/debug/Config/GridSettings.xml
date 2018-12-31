@@ -1,0 +1,503 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Root>
+  <Grid Name="vjsdn.CS3Layers_Framework.SystemModule.frmUser\gvSummary">
+    <Column Name="colUserName" Caption="用户名称" Width="120" Visible="True" VisibleIndex="0" />
+    <Column Name="colAccount" Caption="账号" Width="120" Visible="True" VisibleIndex="1" />
+    <Column Name="colFiscalNo" Caption="工号" Width="108" Visible="True" VisibleIndex="2" />
+    <Column Name="colTel" Caption="电话" Width="120" Visible="True" VisibleIndex="2" />
+    <Column Name="colEmail" Caption="邮件" Width="180" Visible="True" VisibleIndex="3" />
+    <Column Name="colLastLoginTime" Caption="最后登录时间" Width="100" Visible="True" VisibleIndex="4" />
+    <Column Name="colIsLocked" Caption="锁定" Width="80" Visible="True" VisibleIndex="5" />
+    <Column Name="colCreateTime" Caption="创建时间" Width="100" Visible="True" VisibleIndex="6" />
+    <Column Name="colUnlockTime" Caption="解锁时间" Width="100" Visible="True" VisibleIndex="8" />
+    <Column Name="colBelongGroups" Caption="所属组" Width="100" Visible="True" VisibleIndex="9" />
+    <Column Name="colApplyFactorys" Caption="适用工厂" Width="100" Visible="True" VisibleIndex="10" />
+    <Column Name="colFactoryCode" Caption="所属工厂" Width="100" Visible="True" VisibleIndex="11" />
+    <Column Name="colFlagAdmin" Caption="管理员" Width="75" Visible="True" VisibleIndex="7" />
+  </Grid>
+  <Grid Name="vjsdn.CS3Layers_Framework.SystemModule.frmGroup\gvSummary">
+    <Column Name="colGroupName" Caption="组名称" Width="116" Visible="True" VisibleIndex="0" />
+    <Column Name="colRemark" Caption="说明" Width="300" Visible="True" VisibleIndex="1" />
+    <Column Name="colUserNames" Caption="用户" Width="120" Visible="True" VisibleIndex="2" />
+    <Column Name="colCreateDate" Caption="创建日期" Width="105" Visible="True" VisibleIndex="3" />
+  </Grid>
+  <Grid Name="vjsdn.CS3Layers_Framework.DataDictionary.frmProduct\gvSummary">
+    <Column Name="colProductCode" Caption="产品编号" Width="102" Visible="True" VisibleIndex="0" />
+    <Column Name="colProductName" Caption="产品名称" Width="258" Visible="True" VisibleIndex="1" />
+    <Column Name="colSupplier" Caption="供应商" Width="219" Visible="True" VisibleIndex="2" />
+    <Column Name="colSellPrice" Caption="零售价" Width="75" Visible="True" VisibleIndex="3" />
+  </Grid>
+  <Grid Name="vjsdn.CS3Layers_Framework.InventoryModule.frmInventoryCheck\gvSummary">
+    <Column Name="colTakeNo" Caption="盘点单号" Width="126" Visible="True" VisibleIndex="0" />
+    <Column Name="colTakeDate" Caption="盘点日期" Width="98" Visible="True" VisibleIndex="1" />
+    <Column Name="colCreateUser" Caption="盘点人" Width="106" Visible="True" VisibleIndex="2" />
+    <Column Name="colRemark" Caption="备注" Width="323" Visible="True" VisibleIndex="3" />
+  </Grid>
+  <Grid Name="CKG.FrameworkADO.DataDictionary.frmProduct\gvSummary">
+    <Column Name="colProductCode" Caption="产品编号" Width="102" Visible="True" VisibleIndex="0" />
+    <Column Name="colProductName" Caption="产品名称" Width="258" Visible="True" VisibleIndex="1" />
+    <Column Name="colSupplier" Caption="供应商" Width="219" Visible="True" VisibleIndex="2" />
+    <Column Name="colSellPrice" Caption="零售价" Width="75" Visible="True" VisibleIndex="3" />
+  </Grid>
+  <Grid Name="CKG.FrameworkADO.SystemModule.frmGroup\gvSummary">
+    <Column Name="colGroupCode" Caption="组编号" Width="190" Visible="True" VisibleIndex="0" />
+    <Column Name="colGroupName" Caption="说明" Width="462" Visible="True" VisibleIndex="1" />
+  </Grid>
+  <Grid Name="CKG.FrameworkADO.InventoryModule.frmInventoryCheck\gvSummary">
+    <Column Name="colTakeNo" Caption="盘点单号" Width="126" Visible="True" VisibleIndex="0" />
+    <Column Name="colTakeDate" Caption="盘点日期" Width="98" Visible="True" VisibleIndex="1" />
+    <Column Name="colCreateUser" Caption="盘点人" Width="106" Visible="True" VisibleIndex="2" />
+    <Column Name="colRemark" Caption="备注" Width="323" Visible="True" VisibleIndex="3" />
+  </Grid>
+  <Grid Name="CKG.FrameworkADO.SystemModule.frmUser\gvSummary">
+    <Column Name="colUserName" Caption="用户名称" Width="110" Visible="True" VisibleIndex="0" />
+    <Column Name="colAccount" Caption="账号" Width="120" Visible="True" VisibleIndex="1" />
+    <Column Name="colTel" Caption="电话" Width="120" Visible="True" VisibleIndex="2" />
+    <Column Name="colEmail" Caption="邮件" Width="180" Visible="True" VisibleIndex="3" />
+    <Column Name="colLastLoginTime" Caption="最后登录时间" Width="100" Visible="True" VisibleIndex="4" />
+    <Column Name="colIsLocked" Caption="锁定" Width="80" Visible="True" VisibleIndex="5" />
+    <Column Name="colCreateTime" Caption="创建时间" Width="100" Visible="True" VisibleIndex="6" />
+    <Column Name="colFlagAdmin" Caption="管理员" Width="75" Visible="True" VisibleIndex="7" />
+  </Grid>
+  <Grid Name="CKG.HZSAF.SystemModule.frmUser\gvSummary">
+    <Column Name="colUserName" Caption="用户名称" Width="110" Visible="True" VisibleIndex="0" />
+    <Column Name="colAccount" Caption="系统账号" Width="120" Visible="True" VisibleIndex="1" />
+    <Column Name="colTel" Caption="电话" Width="120" Visible="True" VisibleIndex="4" />
+    <Column Name="colEmail" Caption="邮件" Width="180" Visible="True" VisibleIndex="5" />
+    <Column Name="colLastLoginTime" Caption="最后登录时间" Width="100" Visible="True" VisibleIndex="6" />
+    <Column Name="colIsLocked" Caption="锁定" Width="80" Visible="True" VisibleIndex="7" />
+    <Column Name="colCreateTime" Caption="创建时间" Width="100" Visible="True" VisibleIndex="8" />
+    <Column Name="colFlagAdmin" Caption="管理员" Width="75" Visible="True" VisibleIndex="10" />
+    <Column Name="colNovellAccount" Caption="Novell帐户" Width="120" Visible="True" VisibleIndex="2" />
+    <Column Name="colDomainName" Caption="域用户" Width="107" Visible="True" VisibleIndex="3" />
+    <Column Name="colLastLogoutTime" Caption="最后登出时间" Width="96" Visible="True" VisibleIndex="9" />
+    <Column Name="colLoginCounter" Caption="登录次数" Width="75" Visible="True" VisibleIndex="11" />
+  </Grid>
+  <Grid Name="CKG.HZSAF.SystemModule.frmGroup\gvSummary">
+    <Column Name="colGroupCode" Caption="组编号" Width="190" Visible="True" VisibleIndex="0" />
+    <Column Name="colGroupName" Caption="说明" Width="462" Visible="True" VisibleIndex="1" />
+  </Grid>
+  <Grid Name="CKG.HZSAF.InventoryModule.frmInventoryCheck\gvSummary">
+    <Column Name="colTakeNo" Caption="盘点单号" Width="126" Visible="True" VisibleIndex="0" />
+    <Column Name="colTakeDate" Caption="盘点日期" Width="98" Visible="True" VisibleIndex="1" />
+    <Column Name="colCreateUser" Caption="盘点人" Width="106" Visible="True" VisibleIndex="2" />
+    <Column Name="colRemark" Caption="备注" Width="323" Visible="True" VisibleIndex="3" />
+  </Grid>
+  <Grid Name="CKG.HZSAF.DataDictionary.frmProduct\gvSummary">
+    <Column Name="colProductCode" Caption="产品编号" Width="102" Visible="True" VisibleIndex="0" />
+    <Column Name="colProductName" Caption="产品名称" Width="258" Visible="True" VisibleIndex="1" />
+    <Column Name="colSupplier" Caption="供应商" Width="219" Visible="True" VisibleIndex="2" />
+    <Column Name="colSellPrice" Caption="零售价" Width="75" Visible="True" VisibleIndex="3" />
+  </Grid>
+  <Grid Name="CKG.HZSAF.SalesModule.frmSO\gvSummary">
+    <Column Name="colOrderNo" Caption="訂單編號" Width="75" Visible="True" VisibleIndex="19" />
+    <Column Name="colVerNo" Caption="版本" Width="46" Visible="True" VisibleIndex="20" />
+    <Column Name="colCustomerCode" Caption="客戶编号" Width="69" Visible="True" VisibleIndex="21" />
+    <Column Name="colCustomerName" Caption="客户名称" Width="75" Visible="True" VisibleIndex="22" />
+    <Column Name="colReceiveDay" Caption="接單日期" Width="75" Visible="True" VisibleIndex="23" />
+    <Column Name="colPayType" Caption="付款方式" Width="75" Visible="True" VisibleIndex="0" />
+    <Column Name="colCustomerOrderNo" Caption="客戶訂單編號" Width="91" Visible="True" VisibleIndex="24" />
+    <Column Name="colSalesman" Caption="營銷員" Width="75" Visible="True" VisibleIndex="25" />
+    <Column Name="colCurrency" Caption="幣種" Width="75" Visible="True" VisibleIndex="1" />
+    <Column Name="colCurrencyRate" Caption="本位幣匯率" Width="75" Visible="True" VisibleIndex="2" />
+    <Column Name="colContractNO" Caption="合同號碼" Width="75" Visible="True" VisibleIndex="4" />
+    <Column Name="colContractDate" Caption="合同日期" Width="75" Visible="True" VisibleIndex="5" />
+    <Column Name="colRegion" Caption="簽約地點" Width="75" Visible="True" VisibleIndex="6" />
+    <Column Name="colShipToa" Caption="送貨地址編號" Width="130" Visible="True" VisibleIndex="7" />
+    <Column Name="colBillTo" Caption="合同送到" Width="75" Visible="True" VisibleIndex="8" />
+    <Column Name="colShipToPrint" Caption="貨送到(打印)" Width="100" Visible="True" VisibleIndex="9" />
+    <Column Name="colShipTo" Caption="貨送到" Width="75" Visible="True" VisibleIndex="10" />
+    <Column Name="colBillHeading" Caption="發票抬頭" Width="148" Visible="True" VisibleIndex="11" />
+    <Column Name="colFlagApp" Caption="審核" Width="75" Visible="True" VisibleIndex="12" />
+    <Column Name="colCheckStatus" Caption="審批進度" Width="75" Visible="True" VisibleIndex="13" />
+    <Column Name="colAppUser" Caption="審批人" Width="75" Visible="True" VisibleIndex="14" />
+    <Column Name="colAppDate" Caption="審批日期" Width="75" Visible="True" VisibleIndex="15" />
+    <Column Name="colCreationDate" Caption="創建日期" Width="75" Visible="True" VisibleIndex="16" />
+    <Column Name="colCreatedBy" Caption="創建者" Width="75" Visible="True" VisibleIndex="17" />
+    <Column Name="colRemark" Caption="备注" Width="229" Visible="True" VisibleIndex="18" />
+    <Column Name="colAmount" Caption="金额" Width="75" Visible="True" VisibleIndex="3" />
+  </Grid>
+  <Grid Name="CSFramework.SystemModule.frmGroup\gvSummary">
+    <Column Name="colGroupCode" Caption="组编号" Width="190" Visible="True" VisibleIndex="0" />
+    <Column Name="colGroupName" Caption="说明" Width="462" Visible="True" VisibleIndex="1" />
+  </Grid>
+  <Grid Name="CSFramework.SystemModule.frmUser\gvSummary">
+    <Column Name="colAccount" Caption="系统账号" Width="75" Visible="True" VisibleIndex="1" />
+    <Column Name="colNovellAccount" Caption="Novell帐户" Width="120" Visible="True" VisibleIndex="2" />
+    <Column Name="colDomainName" Caption="域用户" Width="107" Visible="True" VisibleIndex="3" />
+    <Column Name="colUserName" Caption="用户名称" Width="75" Visible="True" VisibleIndex="0" />
+    <Column Name="colTel" Caption="电话" Width="120" Visible="True" VisibleIndex="5" />
+    <Column Name="colEmail" Caption="邮件" Width="148" Visible="True" VisibleIndex="4" />
+    <Column Name="colLastLoginTime" Caption="最后登录时间" Width="100" Visible="True" VisibleIndex="6" />
+    <Column Name="colLastLogoutTime" Caption="最后登出时间" Width="96" Visible="True" VisibleIndex="7" />
+    <Column Name="colIsLocked" Caption="锁定" Width="44" Visible="True" VisibleIndex="8" />
+    <Column Name="colCreateTime" Caption="创建时间" Width="100" Visible="True" VisibleIndex="9" />
+    <Column Name="colFlagAdmin" Caption="管理员" Width="75" Visible="True" VisibleIndex="10" />
+    <Column Name="colLoginCounter" Caption="登录次数" Width="75" Visible="True" VisibleIndex="11" />
+  </Grid>
+  <Grid Name="CSFramework3.DataDictionary.frmCustomer\gvSummary">
+    <Column Name="colCustomerCode" Caption="公司編碼" Width="86" Visible="True" VisibleIndex="0" />
+    <Column Name="colNativeName" Caption="公司名稱" Width="161" Visible="True" VisibleIndex="1" />
+    <Column Name="colEnglishName" Caption="英文名" Width="171" Visible="True" VisibleIndex="2" />
+    <Column Name="colAddress1" Caption="地址1" Width="168" Visible="True" VisibleIndex="3" />
+    <Column Name="colAddress2" Caption="地址2" Width="151" Visible="True" VisibleIndex="4" />
+    <Column Name="colAddress3" Caption="地址3" Width="128" Visible="True" VisibleIndex="5" />
+    <Column Name="colCountry" Caption="國家" Width="90" Visible="True" VisibleIndex="6" />
+    <Column Name="colRegion" Caption="省/地區" Width="107" Visible="True" VisibleIndex="7" />
+    <Column Name="colCity" Caption="城市" Width="91" Visible="True" VisibleIndex="8" />
+    <Column Name="colCountryCode" Caption="國家區號" Width="105" Visible="True" VisibleIndex="9" />
+    <Column Name="colCityCode" Caption="城市區號" Width="99" Visible="True" VisibleIndex="10" />
+    <Column Name="colTel" Caption="電話號碼" Width="103" Visible="True" VisibleIndex="11" />
+    <Column Name="colFax" Caption="傳真" Width="107" Visible="True" VisibleIndex="12" />
+    <Column Name="colPostalCode" Caption="郵政區號" Width="101" Visible="True" VisibleIndex="13" />
+    <Column Name="colZipCode" Caption="郵政編碼" Width="100" Visible="True" VisibleIndex="14" />
+    <Column Name="colWebAddress" Caption="網址" Width="109" Visible="True" VisibleIndex="15" />
+    <Column Name="colEmail" Caption="電郵" Width="118" Visible="True" VisibleIndex="16" />
+    <Column Name="colBank" Caption="银行" Width="75" Visible="True" VisibleIndex="17" />
+    <Column Name="colBankAccount" Caption="銀行帳號" Width="114" Visible="True" VisibleIndex="18" />
+    <Column Name="colBankAddress" Caption="分行地址" Width="75" Visible="True" VisibleIndex="19" />
+    <Column Name="colContactPerson" Caption="聯系人" Width="75" Visible="True" VisibleIndex="20" />
+    <Column Name="colRemark" Caption="備注" Width="75" Visible="True" VisibleIndex="23" />
+    <Column Name="colPaymentTerm" Caption="數期" Width="75" Visible="True" VisibleIndex="21" />
+    <Column Name="colInUse" Caption="是否在用" Width="70" Visible="True" VisibleIndex="22" />
+  </Grid>
+  <Grid Name="CSFramework3.DataDictionary.frmCommonDataDict\gvSummary">
+    <Column Name="colDataType" Caption="类型" Width="115" Visible="True" VisibleIndex="0" />
+    <Column Name="colDataCode" Caption="编号" Width="108" Visible="True" VisibleIndex="1" />
+    <Column Name="colNativeName" Caption="名稱" Width="195" Visible="True" VisibleIndex="2" />
+    <Column Name="colEnglishName" Caption="英文名" Width="198" Visible="True" VisibleIndex="3" />
+  </Grid>
+  <Grid Name="CSFramework3.DataDictionary.frmPerson\gvSummary">
+    <Column Name="gridColumn1" Caption="銷售員編號" Width="105" Visible="True" VisibleIndex="0" />
+    <Column Name="gridColumn2" Caption="銷售員姓名" Width="120" Visible="True" VisibleIndex="1" />
+    <Column Name="gridColumn3" Caption="部門" Width="145" Visible="True" VisibleIndex="2" />
+    <Column Name="gridColumn4" Caption="在用狀態" Width="75" Visible="True" VisibleIndex="3" />
+  </Grid>
+  <Grid Name="CSFramework3.DataDictionary.frmProduct\gvSummary">
+    <Column Name="colProductCode" Caption="产品编号" Width="102" Visible="True" VisibleIndex="0" />
+    <Column Name="colProductName" Caption="产品名称" Width="258" Visible="True" VisibleIndex="1" />
+    <Column Name="colSupplier" Caption="供应商" Width="219" Visible="True" VisibleIndex="2" />
+    <Column Name="colSellPrice" Caption="零售价" Width="75" Visible="True" VisibleIndex="3" />
+  </Grid>
+  <Grid Name="CSFramework3.SalesModule.frmSO\gvSummary">
+    <Column Name="colSONO" Caption="订单编号" Width="96" Visible="True" VisibleIndex="0" />
+    <Column Name="colVerNo" Caption="版本" Width="46" Visible="True" VisibleIndex="1" />
+    <Column Name="colCustomerCode" Caption="客户编号" Width="81" Visible="True" VisibleIndex="2" />
+    <Column Name="colCustomerName" Caption="客户名称" Width="176" Visible="True" VisibleIndex="3" />
+    <Column Name="colReceiveDay" Caption="接单日期" Width="75" Visible="True" VisibleIndex="4" />
+    <Column Name="colPayType" Caption="付款方式" Width="75" Visible="True" VisibleIndex="5" />
+    <Column Name="colCustomerOrderNo" Caption="客户订单编号" Width="98" Visible="True" VisibleIndex="6" />
+    <Column Name="colSalesman" Caption="营销员" Width="75" Visible="True" VisibleIndex="7" />
+    <Column Name="colCurrency" Caption="币种" Width="75" Visible="True" VisibleIndex="8" />
+    <Column Name="colAmount" Caption="金额" Width="75" Visible="True" VisibleIndex="9" />
+    <Column Name="colFlagApp" Caption="审核" Width="75" Visible="True" VisibleIndex="10" />
+    <Column Name="colAppUser" Caption="审批人" Width="75" Visible="True" VisibleIndex="11" />
+    <Column Name="colAppDate" Caption="审批日期" Width="75" Visible="True" VisibleIndex="12" />
+    <Column Name="colCreationDate" Caption="创建日期" Width="75" Visible="True" VisibleIndex="13" />
+    <Column Name="colCreatedBy" Caption="创建者" Width="75" Visible="True" VisibleIndex="14" />
+    <Column Name="colRemark" Caption="备注" Width="229" Visible="True" VisibleIndex="15" />
+  </Grid>
+  <Grid Name="CSFramework3.PurchaseModule.frmPO\gvSummary">
+    <Column Name="colPONO" Caption="订单编号" Width="75" Visible="True" VisibleIndex="0" />
+    <Column Name="colPODate" Caption="单据日期" Width="75" Visible="True" VisibleIndex="1" />
+    <Column Name="colPOUser" Caption="采购员" Width="75" Visible="True" VisibleIndex="2" />
+    <Column Name="colCustomerCode" Caption="供应商" Width="75" Visible="False" VisibleIndex="-1" />
+    <Column Name="colCustomerName" Caption="供应商" Width="75" Visible="True" VisibleIndex="3" />
+    <Column Name="colCustomerContact" Caption="供应商联系人" Width="90" Visible="True" VisibleIndex="4" />
+    <Column Name="colCustomerTel" Caption="供应商电话" Width="75" Visible="True" VisibleIndex="5" />
+    <Column Name="colCustomerOrderNo" Caption="对方单号" Width="75" Visible="True" VisibleIndex="6" />
+    <Column Name="colPayType" Caption="付款方式" Width="75" Visible="True" VisibleIndex="7" />
+    <Column Name="colCurrency" Caption="币种" Width="75" Visible="True" VisibleIndex="8" />
+    <Column Name="colAmount" Caption="采购金额" Width="90" Visible="True" VisibleIndex="9" />
+    <Column Name="colFlagApp" Caption="审核" Width="75" Visible="True" VisibleIndex="11" />
+    <Column Name="colAppUser" Caption="审核人" Width="75" Visible="True" VisibleIndex="12" />
+    <Column Name="colAppDate" Caption="审核日期" Width="75" Visible="True" VisibleIndex="13" />
+    <Column Name="colRemark" Caption="备注" Width="229" Visible="True" VisibleIndex="10" />
+    <Column Name="colCreatedBy" Caption="创建人" Width="75" Visible="True" VisibleIndex="14" />
+    <Column Name="colCreationDate" Caption="创建时间" Width="90" Visible="True" VisibleIndex="15" />
+    <Column Name="colLastUpdatedBy" Caption="最后修改人" Width="95" Visible="True" VisibleIndex="16" />
+    <Column Name="colLastUpdateDate" Caption="最后修改日期" Width="95" Visible="True" VisibleIndex="17" />
+  </Grid>
+  <Grid Name="CSFramework3.InventoryModule.frmIA\gvSummary">
+    <Column Name="colIANO" Caption="调整单号" Width="126" Visible="True" VisibleIndex="0" />
+    <Column Name="colReason" Caption="调整原因" Width="98" Visible="True" VisibleIndex="1" />
+    <Column Name="colDocDate" Caption="调整日期" Width="84" Visible="True" VisibleIndex="2" />
+    <Column Name="colDocUser" Caption="经手人" Width="106" Visible="True" VisibleIndex="3" />
+    <Column Name="colFlagVoid" Caption="是否作废" Width="75" Visible="True" VisibleIndex="5" />
+    <Column Name="colFlagLock" Caption="是否锁定" Width="75" Visible="True" VisibleIndex="4" />
+    <Column Name="colFlagPeriod" Caption="月结状态" Width="75" Visible="True" VisibleIndex="6" />
+    <Column Name="colRemark" Caption="备注" Width="206" Visible="True" VisibleIndex="11" />
+    <Column Name="colApprovalUser" Caption="批准人" Width="75" Visible="True" VisibleIndex="7" />
+    <Column Name="colApprovalDate" Caption="批准日期" Width="75" Visible="True" VisibleIndex="8" />
+    <Column Name="colLastEditUser" Caption="修改用户" Width="75" Visible="True" VisibleIndex="9" />
+    <Column Name="colLastEditDate" Caption="修改时间" Width="75" Visible="True" VisibleIndex="10" />
+  </Grid>
+  <Grid Name="CSFramework3.InventoryModule.frmStockIn\gvSummary">
+    <Column Name="colINNO" Caption="入仓单号" Width="75" Visible="True" VisibleIndex="0" />
+    <Column Name="colDocDate" Caption="送貨日期" Width="75" Visible="True" VisibleIndex="1" />
+    <Column Name="colRefNo" Caption="来源单号" Width="94" Visible="True" VisibleIndex="2" />
+    <Column Name="colSupplierCode" Caption="供应商" Width="75" Visible="True" VisibleIndex="3" />
+    <Column Name="colDepartment" Caption="交货部门" Width="111" Visible="True" VisibleIndex="4" />
+    <Column Name="colDeliver" Caption="交货人" Width="85" Visible="True" VisibleIndex="5" />
+    <Column Name="colLocationID" Caption="仓库" Width="75" Visible="True" VisibleIndex="6" />
+    <Column Name="colRemark" Caption="备注" Width="75" Visible="True" VisibleIndex="7" />
+    <Column Name="colCreationDate" Caption="制单日期" Width="75" Visible="True" VisibleIndex="8" />
+    <Column Name="colCreatedBy" Caption="制单人" Width="75" Visible="True" VisibleIndex="9" />
+    <Column Name="colLastUpdateDate" Caption="修改日期" Width="75" Visible="True" VisibleIndex="10" />
+    <Column Name="colLastUpdatedBy" Caption="修改人" Width="75" Visible="True" VisibleIndex="11" />
+    <Column Name="colFlagApp" Caption="审核" Width="75" Visible="True" VisibleIndex="12" />
+    <Column Name="colAppUser" Caption="审核人" Width="75" Visible="True" VisibleIndex="13" />
+    <Column Name="colAppDate" Caption="审核日期" Width="75" Visible="True" VisibleIndex="14" />
+  </Grid>
+  <Grid Name="CSFramework3.InventoryModule.frmIN\gvSummary">
+    <Column Name="colINNO" Caption="入仓单号" Width="75" Visible="True" VisibleIndex="0" />
+    <Column Name="colDocDate" Caption="送货日期" Width="75" Visible="True" VisibleIndex="1" />
+    <Column Name="colRefNo" Caption="来源单号" Width="94" Visible="True" VisibleIndex="2" />
+    <Column Name="colSupplierCode" Caption="供应商" Width="75" Visible="True" VisibleIndex="3" />
+    <Column Name="colSupplierName" Caption="供应商名称" Width="75" Visible="True" VisibleIndex="4" />
+    <Column Name="colDepartment" Caption="交货部门" Width="111" Visible="True" VisibleIndex="5" />
+    <Column Name="colDeliver" Caption="交货人" Width="85" Visible="True" VisibleIndex="6" />
+    <Column Name="colLocationID" Caption="仓库" Width="75" Visible="True" VisibleIndex="7" />
+    <Column Name="colRemark" Caption="备注" Width="75" Visible="True" VisibleIndex="8" />
+    <Column Name="colCreationDate" Caption="制单日期" Width="75" Visible="True" VisibleIndex="9" />
+    <Column Name="colCreatedBy" Caption="制单人" Width="75" Visible="True" VisibleIndex="10" />
+    <Column Name="colLastUpdateDate" Caption="修改日期" Width="75" Visible="True" VisibleIndex="11" />
+    <Column Name="colLastUpdatedBy" Caption="修改人" Width="75" Visible="True" VisibleIndex="12" />
+    <Column Name="colFlagApp" Caption="审核" Width="75" Visible="True" VisibleIndex="13" />
+    <Column Name="colAppUser" Caption="审核人" Width="75" Visible="True" VisibleIndex="14" />
+    <Column Name="colAppDate" Caption="审核日期" Width="75" Visible="True" VisibleIndex="15" />
+  </Grid>
+  <Grid Name="CSFramework3.InventoryModule.frmIO\gvSummary">
+    <Column Name="colIONO" Caption="出仓单号" Width="75" Visible="True" VisibleIndex="0" />
+    <Column Name="colDocDate" Caption="出仓日期" Width="75" Visible="True" VisibleIndex="1" />
+    <Column Name="colRefNo" Caption="来源单号" Width="94" Visible="True" VisibleIndex="2" />
+    <Column Name="colCustomerCode" Caption="客户" Width="75" Visible="True" VisibleIndex="3" />
+    <Column Name="colCustomerName" Caption="客户名称" Width="75" Visible="True" VisibleIndex="4" />
+    <Column Name="colDepartment" Caption="交货部门" Width="111" Visible="True" VisibleIndex="5" />
+    <Column Name="colDeliver" Caption="交货人" Width="85" Visible="True" VisibleIndex="6" />
+    <Column Name="colLocationID" Caption="仓库" Width="75" Visible="True" VisibleIndex="7" />
+    <Column Name="colRemark" Caption="备注" Width="75" Visible="True" VisibleIndex="8" />
+    <Column Name="colCreationDate" Caption="制单日期" Width="75" Visible="True" VisibleIndex="9" />
+    <Column Name="colCreatedBy" Caption="制单人" Width="75" Visible="True" VisibleIndex="10" />
+    <Column Name="colLastUpdateDate" Caption="修改日期" Width="75" Visible="True" VisibleIndex="11" />
+    <Column Name="colLastUpdatedBy" Caption="修改人" Width="75" Visible="True" VisibleIndex="12" />
+    <Column Name="colFlagApp" Caption="审核" Width="75" Visible="True" VisibleIndex="13" />
+    <Column Name="colAppUser" Caption="审核人" Width="75" Visible="True" VisibleIndex="14" />
+    <Column Name="colAppDate" Caption="审核日期" Width="75" Visible="True" VisibleIndex="15" />
+  </Grid>
+  <Grid Name="CSFramework3.InventoryModule.frmIC\gvSummary">
+    <Column Name="colIANO" Caption="盘点单号" Width="126" Visible="True" VisibleIndex="0" />
+    <Column Name="colDocDate" Caption="盘点日期" Width="84" Visible="True" VisibleIndex="1" />
+    <Column Name="colDocUser" Caption="制单人" Width="106" Visible="True" VisibleIndex="2" />
+    <Column Name="colFlagApp" Caption="是否审核" Width="75" Visible="True" VisibleIndex="3" />
+    <Column Name="colRemark" Caption="备注" Width="206" Visible="True" VisibleIndex="8" />
+    <Column Name="colApprovalUser" Caption="批准人" Width="75" Visible="True" VisibleIndex="4" />
+    <Column Name="colApprovalDate" Caption="批准日期" Width="75" Visible="True" VisibleIndex="5" />
+    <Column Name="colLastUpdatedBy" Caption="修改用户" Width="75" Visible="True" VisibleIndex="6" />
+    <Column Name="colLastUpdateDate" Caption="修改时间" Width="75" Visible="True" VisibleIndex="7" />
+  </Grid>
+  <Grid Name="CSFramework3.AccountModule.frmAR\gvSummary">
+    <Column Name="colARNO" Caption="收款单号" Width="83" Visible="True" VisibleIndex="0" />
+    <Column Name="colReceivedDate" Caption="收款日期" Width="80" Visible="True" VisibleIndex="1" />
+    <Column Name="colCustomerCode" Caption="客户代码" Width="112" Visible="True" VisibleIndex="2" />
+    <Column Name="colCustomerName" Caption="客户名称" Width="230" Visible="True" VisibleIndex="3" />
+    <Column Name="colChequeNo" Caption="支票号码" Width="79" Visible="True" VisibleIndex="4" />
+    <Column Name="colChequeBank" Caption="支票银行" Width="82" Visible="True" VisibleIndex="5" />
+    <Column Name="colCurrency" Caption="货币" Width="75" Visible="True" VisibleIndex="6" />
+    <Column Name="colAmount" Caption="金额" Width="79" Visible="True" VisibleIndex="7" />
+    <Column Name="colRemark" Caption="说明" Width="142" Visible="True" VisibleIndex="8" />
+    <Column Name="colCreationDate" Caption="制单日期" Width="93" Visible="True" VisibleIndex="10" />
+    <Column Name="colCreatedBy" Caption="制单人" Width="89" Visible="True" VisibleIndex="9" />
+    <Column Name="colLastUpdateDate" Caption="修改日期" Width="83" Visible="True" VisibleIndex="11" />
+    <Column Name="colLastUpdatedBy" Caption="修改人" Width="112" Visible="True" VisibleIndex="12" />
+  </Grid>
+  <Grid Name="CSFramework3.AccountModule.frmAP\gvSummary">
+    <Column Name="colAPNO" Caption="付款单号" Width="83" Visible="True" VisibleIndex="0" />
+    <Column Name="colReceivedDate" Caption="付款日期" Width="80" Visible="True" VisibleIndex="1" />
+    <Column Name="colSupplierCode" Caption="供应商代码" Width="112" Visible="True" VisibleIndex="2" />
+    <Column Name="colSupplierName" Caption="供应商名称" Width="230" Visible="True" VisibleIndex="3" />
+    <Column Name="colChequeNo" Caption="支票号码" Width="79" Visible="True" VisibleIndex="4" />
+    <Column Name="colChequeBank" Caption="支票银行" Width="82" Visible="True" VisibleIndex="5" />
+    <Column Name="colCurrency" Caption="货币" Width="75" Visible="True" VisibleIndex="6" />
+    <Column Name="colAmount" Caption="金额" Width="79" Visible="True" VisibleIndex="7" />
+    <Column Name="colRemark" Caption="说明" Width="142" Visible="True" VisibleIndex="8" />
+    <Column Name="colCreationDate" Caption="制单日期" Width="93" Visible="True" VisibleIndex="10" />
+    <Column Name="colCreatedBy" Caption="制单人" Width="89" Visible="True" VisibleIndex="9" />
+    <Column Name="colLastUpdateDate" Caption="修改日期" Width="83" Visible="True" VisibleIndex="11" />
+    <Column Name="colLastUpdatedBy" Caption="修改人" Width="112" Visible="True" VisibleIndex="12" />
+  </Grid>
+  <Grid Name="LZHBaseFrame.DataDictionary.frmCommonDataDict\gvSummary">
+    <Column Name="colDataType" Caption="类型" Width="115" Visible="True" VisibleIndex="0" />
+    <Column Name="colDataCode" Caption="编号" Width="108" Visible="True" VisibleIndex="1" />
+    <Column Name="colNativeName" Caption="名称" Width="195" Visible="True" VisibleIndex="2" />
+    <Column Name="colEnglishName" Caption="英文名" Width="198" Visible="True" VisibleIndex="3" />
+  </Grid>
+  <Grid Name="LZHBaseFrame.DataDictionary.frmProduct\gvSummary">
+    <Column Name="colProductCode" Caption="产品编号" Width="102" Visible="True" VisibleIndex="0" />
+    <Column Name="colProductName" Caption="产品名称" Width="258" Visible="True" VisibleIndex="1" />
+    <Column Name="colSupplier" Caption="预设供应商" Width="219" Visible="True" VisibleIndex="2" />
+    <Column Name="colSellPrice" Caption="零售价" Width="75" Visible="True" VisibleIndex="3" />
+  </Grid>
+  <Grid Name="LZHBaseFrame.DataDictionary.frmCustomer\gvSummary">
+    <Column Name="colCustomerCode" Caption="公司编码" Width="86" Visible="True" VisibleIndex="0" />
+    <Column Name="colNativeName" Caption="公司名称" Width="161" Visible="True" VisibleIndex="1" />
+    <Column Name="colEnglishName" Caption="英文名" Width="171" Visible="True" VisibleIndex="2" />
+    <Column Name="colAddress1" Caption="地址1" Width="168" Visible="True" VisibleIndex="3" />
+    <Column Name="colAddress2" Caption="地址2" Width="151" Visible="True" VisibleIndex="4" />
+    <Column Name="colAddress3" Caption="地址3" Width="128" Visible="True" VisibleIndex="5" />
+    <Column Name="colCountry" Caption="国家" Width="90" Visible="True" VisibleIndex="6" />
+    <Column Name="colRegion" Caption="省/地区" Width="107" Visible="True" VisibleIndex="7" />
+    <Column Name="colCity" Caption="城市" Width="91" Visible="True" VisibleIndex="8" />
+    <Column Name="colCountryCode" Caption="国家区号" Width="105" Visible="True" VisibleIndex="9" />
+    <Column Name="colCityCode" Caption="城市区号" Width="99" Visible="True" VisibleIndex="10" />
+    <Column Name="colTel" Caption="电话号码" Width="103" Visible="True" VisibleIndex="11" />
+    <Column Name="colFax" Caption="传真" Width="107" Visible="True" VisibleIndex="12" />
+    <Column Name="colPostalCode" Caption="邮政区号" Width="101" Visible="True" VisibleIndex="13" />
+    <Column Name="colZipCode" Caption="邮政编码" Width="100" Visible="True" VisibleIndex="14" />
+    <Column Name="colWebAddress" Caption="网址" Width="109" Visible="True" VisibleIndex="15" />
+    <Column Name="colEmail" Caption="电邮" Width="118" Visible="True" VisibleIndex="16" />
+    <Column Name="colBank" Caption="银行" Width="75" Visible="True" VisibleIndex="17" />
+    <Column Name="colBankAccount" Caption="银行帐号" Width="114" Visible="True" VisibleIndex="18" />
+    <Column Name="colBankAddress" Caption="分行地址" Width="75" Visible="True" VisibleIndex="19" />
+    <Column Name="colContactPerson" Caption="联系人" Width="75" Visible="True" VisibleIndex="20" />
+    <Column Name="colRemark" Caption="备注" Width="75" Visible="True" VisibleIndex="23" />
+    <Column Name="colPaymentTerm" Caption="数期" Width="75" Visible="True" VisibleIndex="21" />
+    <Column Name="colInUse" Caption="是否在用" Width="70" Visible="True" VisibleIndex="22" />
+  </Grid>
+  <Grid Name="LZHBaseFrame.PurchaseModule.frmPO\gvSummary">
+    <Column Name="colPONO" Caption="订单编号" Width="75" Visible="True" VisibleIndex="0" />
+    <Column Name="colPODate" Caption="单据日期" Width="75" Visible="True" VisibleIndex="1" />
+    <Column Name="colPOUser" Caption="采购员" Width="75" Visible="True" VisibleIndex="2" />
+    <Column Name="colCustomerCode" Caption="供应商" Width="75" Visible="False" VisibleIndex="-1" />
+    <Column Name="colCustomerName" Caption="供应商" Width="75" Visible="True" VisibleIndex="3" />
+    <Column Name="colCustomerContact" Caption="供应商联系人" Width="90" Visible="True" VisibleIndex="4" />
+    <Column Name="colCustomerTel" Caption="供应商电话" Width="75" Visible="True" VisibleIndex="5" />
+    <Column Name="colCustomerOrderNo" Caption="对方单号" Width="75" Visible="True" VisibleIndex="6" />
+    <Column Name="colPayType" Caption="付款方式" Width="75" Visible="True" VisibleIndex="7" />
+    <Column Name="colCurrency" Caption="币种" Width="75" Visible="True" VisibleIndex="8" />
+    <Column Name="colAmount" Caption="采购金额" Width="90" Visible="True" VisibleIndex="9" />
+    <Column Name="colFlagApp" Caption="审核" Width="75" Visible="True" VisibleIndex="11" />
+    <Column Name="colAppUser" Caption="审核人" Width="75" Visible="True" VisibleIndex="12" />
+    <Column Name="colAppDate" Caption="审核日期" Width="75" Visible="True" VisibleIndex="13" />
+    <Column Name="colRemark" Caption="备注" Width="229" Visible="True" VisibleIndex="10" />
+    <Column Name="colCreatedBy" Caption="创建人" Width="75" Visible="True" VisibleIndex="14" />
+    <Column Name="colCreationDate" Caption="创建时间" Width="90" Visible="True" VisibleIndex="15" />
+    <Column Name="colLastUpdatedBy" Caption="最后修改人" Width="95" Visible="True" VisibleIndex="16" />
+    <Column Name="colLastUpdateDate" Caption="最后修改日期" Width="95" Visible="True" VisibleIndex="17" />
+  </Grid>
+  <Grid Name="LZHBaseFrame.DataDictionary.frmPerson\gvSummary">
+    <Column Name="gridColumn1" Caption="销售员编号" Width="105" Visible="True" VisibleIndex="0" />
+    <Column Name="gridColumn2" Caption="销售员姓名" Width="120" Visible="True" VisibleIndex="1" />
+    <Column Name="gridColumn3" Caption="部门" Width="145" Visible="True" VisibleIndex="2" />
+    <Column Name="gridColumn4" Caption="在用状态" Width="75" Visible="True" VisibleIndex="3" />
+  </Grid>
+  <Grid Name="LZHBaseFrame.SystemModule.frmGroup\gvSummary">
+    <Column Name="colGroupCode" Caption="组编号" Width="190" Visible="True" VisibleIndex="0" />
+    <Column Name="colGroupName" Caption="说明" Width="462" Visible="True" VisibleIndex="1" />
+  </Grid>
+  <Grid Name="LZHBaseFrame.SystemModule.frmUser\gvSummary">
+    <Column Name="colAccount" Caption="系统账号" Width="75" Visible="True" VisibleIndex="1" />
+    <Column Name="colNovellAccount" Caption="Novell帐户" Width="120" Visible="True" VisibleIndex="2" />
+    <Column Name="colDomainName" Caption="域用户" Width="107" Visible="True" VisibleIndex="3" />
+    <Column Name="colUserName" Caption="用户名称" Width="75" Visible="True" VisibleIndex="0" />
+    <Column Name="colTel" Caption="电话" Width="120" Visible="True" VisibleIndex="5" />
+    <Column Name="colEmail" Caption="邮件" Width="148" Visible="True" VisibleIndex="4" />
+    <Column Name="colLastLoginTime" Caption="最后登录时间" Width="100" Visible="True" VisibleIndex="6" />
+    <Column Name="colLastLogoutTime" Caption="最后登出时间" Width="96" Visible="True" VisibleIndex="7" />
+    <Column Name="colIsLocked" Caption="锁定" Width="44" Visible="True" VisibleIndex="8" />
+    <Column Name="colCreateTime" Caption="创建时间" Width="100" Visible="True" VisibleIndex="9" />
+    <Column Name="colFlagAdmin" Caption="管理员" Width="75" Visible="True" VisibleIndex="10" />
+    <Column Name="colLoginCounter" Caption="登录次数" Width="75" Visible="True" VisibleIndex="11" />
+  </Grid>
+  <Grid Name="LZHBaseFrame.InventoryModule.frmIA\gvSummary">
+    <Column Name="colIANO" Caption="调整单号" Width="126" Visible="True" VisibleIndex="0" />
+    <Column Name="colReason" Caption="调整原因" Width="172" Visible="True" VisibleIndex="3" />
+    <Column Name="colDocDate" Caption="调整日期" Width="84" Visible="True" VisibleIndex="1" />
+    <Column Name="colDocUser" Caption="制单人" Width="106" Visible="True" VisibleIndex="2" />
+    <Column Name="colFlagApp" Caption="是否审核" Width="75" Visible="True" VisibleIndex="4" />
+    <Column Name="colRemark" Caption="备注" Width="206" Visible="True" VisibleIndex="9" />
+    <Column Name="colApprovalUser" Caption="批准人" Width="75" Visible="True" VisibleIndex="5" />
+    <Column Name="colApprovalDate" Caption="批准日期" Width="75" Visible="True" VisibleIndex="6" />
+    <Column Name="colLastUpdatedBy" Caption="修改用户" Width="75" Visible="True" VisibleIndex="7" />
+    <Column Name="colLastUpdateDate" Caption="修改时间" Width="75" Visible="True" VisibleIndex="8" />
+  </Grid>
+  <Grid Name="LZHBaseFrame.InventoryModule.frmIC\gvSummary">
+    <Column Name="colICNO" Caption="盘点单号" Width="126" Visible="True" VisibleIndex="0" />
+    <Column Name="colDocDate" Caption="盘点日期" Width="84" Visible="True" VisibleIndex="1" />
+    <Column Name="colDocUser" Caption="制单人" Width="106" Visible="True" VisibleIndex="2" />
+    <Column Name="colFlagApp" Caption="是否审核" Width="75" Visible="True" VisibleIndex="3" />
+    <Column Name="colRemark" Caption="备注" Width="206" Visible="True" VisibleIndex="8" />
+    <Column Name="colApprovalUser" Caption="审核人" Width="75" Visible="True" VisibleIndex="4" />
+    <Column Name="colApprovalDate" Caption="审核日期" Width="75" Visible="True" VisibleIndex="5" />
+    <Column Name="colLastUpdatedBy" Caption="修改用户" Width="75" Visible="True" VisibleIndex="6" />
+    <Column Name="colLastUpdateDate" Caption="修改时间" Width="75" Visible="True" VisibleIndex="7" />
+  </Grid>
+  <Grid Name="LZHBaseFrame.AccountModule.frmAR\gvSummary">
+    <Column Name="colARNO" Caption="收款单号" Width="83" Visible="True" VisibleIndex="0" />
+    <Column Name="colReceivedDate" Caption="收款日期" Width="80" Visible="True" VisibleIndex="1" />
+    <Column Name="colCustomerCode" Caption="客户代码" Width="112" Visible="True" VisibleIndex="2" />
+    <Column Name="colCustomerName" Caption="客户名称" Width="230" Visible="True" VisibleIndex="3" />
+    <Column Name="colChequeNo" Caption="支票号码" Width="79" Visible="True" VisibleIndex="4" />
+    <Column Name="colChequeBank" Caption="支票银行" Width="82" Visible="True" VisibleIndex="5" />
+    <Column Name="colCurrency" Caption="货币" Width="75" Visible="True" VisibleIndex="6" />
+    <Column Name="colAmount" Caption="金额" Width="79" Visible="True" VisibleIndex="7" />
+    <Column Name="colRemark" Caption="说明" Width="142" Visible="True" VisibleIndex="8" />
+    <Column Name="colCreationDate" Caption="制单日期" Width="93" Visible="True" VisibleIndex="10" />
+    <Column Name="colCreatedBy" Caption="制单人" Width="89" Visible="True" VisibleIndex="9" />
+    <Column Name="colLastUpdateDate" Caption="修改日期" Width="83" Visible="True" VisibleIndex="11" />
+    <Column Name="colLastUpdatedBy" Caption="修改人" Width="112" Visible="True" VisibleIndex="12" />
+  </Grid>
+  <Grid Name="LZHBaseFrame.SalesModule.frmSO\gvSummary">
+    <Column Name="colSONO" Caption="订单编号" Width="96" Visible="True" VisibleIndex="0" />
+    <Column Name="colCustomerCode" Caption="客户编号" Width="81" Visible="True" VisibleIndex="1" />
+    <Column Name="colCustomerName" Caption="客户名称" Width="176" Visible="True" VisibleIndex="2" />
+    <Column Name="colReceiveDay" Caption="接单日期" Width="75" Visible="True" VisibleIndex="3" />
+    <Column Name="colPayType" Caption="付款方式" Width="75" Visible="True" VisibleIndex="4" />
+    <Column Name="colCustomerOrderNo" Caption="客户订单编号" Width="98" Visible="True" VisibleIndex="5" />
+    <Column Name="colSalesman" Caption="营销员" Width="75" Visible="True" VisibleIndex="6" />
+    <Column Name="colCurrency" Caption="币种" Width="75" Visible="True" VisibleIndex="7" />
+    <Column Name="colAmount" Caption="金额" Width="75" Visible="True" VisibleIndex="8" />
+    <Column Name="colFlagApp" Caption="审核" Width="75" Visible="True" VisibleIndex="9" />
+    <Column Name="colAppUser" Caption="审批人" Width="75" Visible="True" VisibleIndex="10" />
+    <Column Name="colAppDate" Caption="审批日期" Width="75" Visible="True" VisibleIndex="11" />
+    <Column Name="colCreationDate" Caption="创建日期" Width="75" Visible="True" VisibleIndex="12" />
+    <Column Name="colCreatedBy" Caption="创建者" Width="75" Visible="True" VisibleIndex="13" />
+    <Column Name="colRemark" Caption="备注" Width="229" Visible="True" VisibleIndex="14" />
+  </Grid>
+  <Grid Name="LZHBaseFrame.InventoryModule.frmIN\gvSummary">
+    <Column Name="colINNO" Caption="入仓单号" Width="75" Visible="True" VisibleIndex="0" />
+    <Column Name="colDocDate" Caption="入仓日期" Width="75" Visible="True" VisibleIndex="1" />
+    <Column Name="colRefNo" Caption="来源单号" Width="94" Visible="True" VisibleIndex="2" />
+    <Column Name="colSupplierCode" Caption="供应商" Width="75" Visible="True" VisibleIndex="3" />
+    <Column Name="colSupplierName" Caption="供应商名称" Width="75" Visible="True" VisibleIndex="4" />
+    <Column Name="colDepartment" Caption="交货部门" Width="111" Visible="True" VisibleIndex="5" />
+    <Column Name="colDeliver" Caption="交货人" Width="85" Visible="True" VisibleIndex="6" />
+    <Column Name="colLocationID" Caption="仓库" Width="75" Visible="True" VisibleIndex="7" />
+    <Column Name="colRemark" Caption="备注" Width="75" Visible="True" VisibleIndex="8" />
+    <Column Name="colCreationDate" Caption="制单日期" Width="75" Visible="True" VisibleIndex="9" />
+    <Column Name="colCreatedBy" Caption="制单人" Width="75" Visible="True" VisibleIndex="10" />
+    <Column Name="colLastUpdateDate" Caption="修改日期" Width="75" Visible="True" VisibleIndex="11" />
+    <Column Name="colLastUpdatedBy" Caption="修改人" Width="75" Visible="True" VisibleIndex="12" />
+    <Column Name="colFlagApp" Caption="审核" Width="75" Visible="True" VisibleIndex="13" />
+    <Column Name="colAppUser" Caption="审核人" Width="75" Visible="True" VisibleIndex="14" />
+    <Column Name="colAppDate" Caption="审核日期" Width="75" Visible="True" VisibleIndex="15" />
+  </Grid>
+  <Grid Name="LZHBaseFrame.InventoryModule.frmIO\gvSummary">
+    <Column Name="colIONO" Caption="出仓单号" Width="75" Visible="True" VisibleIndex="0" />
+    <Column Name="colDocDate" Caption="出仓日期" Width="75" Visible="True" VisibleIndex="1" />
+    <Column Name="colRefNo" Caption="来源单号" Width="94" Visible="True" VisibleIndex="2" />
+    <Column Name="colCustomerCode" Caption="客户" Width="75" Visible="True" VisibleIndex="3" />
+    <Column Name="colCustomerName" Caption="客户名称" Width="75" Visible="True" VisibleIndex="4" />
+    <Column Name="colDepartment" Caption="交货部门" Width="111" Visible="True" VisibleIndex="5" />
+    <Column Name="colDeliver" Caption="交货人" Width="85" Visible="True" VisibleIndex="6" />
+    <Column Name="colLocationID" Caption="仓库" Width="75" Visible="True" VisibleIndex="7" />
+    <Column Name="colRemark" Caption="备注" Width="75" Visible="True" VisibleIndex="8" />
+    <Column Name="colCreationDate" Caption="制单日期" Width="75" Visible="True" VisibleIndex="9" />
+    <Column Name="colCreatedBy" Caption="制单人" Width="75" Visible="True" VisibleIndex="10" />
+    <Column Name="colLastUpdateDate" Caption="修改日期" Width="75" Visible="True" VisibleIndex="11" />
+    <Column Name="colLastUpdatedBy" Caption="修改人" Width="75" Visible="True" VisibleIndex="12" />
+    <Column Name="colFlagApp" Caption="审核" Width="75" Visible="True" VisibleIndex="13" />
+    <Column Name="colAppUser" Caption="审核人" Width="75" Visible="True" VisibleIndex="14" />
+    <Column Name="colAppDate" Caption="审核日期" Width="75" Visible="True" VisibleIndex="15" />
+  </Grid>
+</Root>

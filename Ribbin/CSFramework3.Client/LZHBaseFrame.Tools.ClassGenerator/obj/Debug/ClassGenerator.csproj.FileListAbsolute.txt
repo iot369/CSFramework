@@ -1,0 +1,9 @@
+D:\My SourceCode\C#\ClassGenerator\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\C#\ClassGenerator\obj\Debug\ClassGenerator.frmClassGenerator.resources
+D:\My SourceCode\C#\ClassGenerator\obj\Debug\ClassGenerator.Properties.Resources.resources
+D:\My SourceCode\C#\ClassGenerator\obj\Debug\ClassGenerator.csproj.GenerateResource.Cache
+D:\My SourceCode\C#\ClassGenerator\obj\Debug\ClassGenerator.exe.licenses
+D:\My SourceCode\C#\ClassGenerator\bin\Debug\ClassGenerator.exe
+D:\My SourceCode\C#\ClassGenerator\bin\Debug\ClassGenerator.pdb
+D:\My SourceCode\C#\ClassGenerator\obj\Debug\ClassGenerator.exe
+D:\My SourceCode\C#\ClassGenerator\obj\Debug\ClassGenerator.pdb

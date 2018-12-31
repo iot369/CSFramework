@@ -1,0 +1,5 @@
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.ORM\bin\Release\CSFramework.ORM.dll
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.ORM\bin\Release\CSFramework.ORM.pdb
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.ORM\obj\Release\ResolveAssemblyReference.cache
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.ORM\obj\Release\CSFramework.ORM.dll
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.ORM\obj\Release\CSFramework.ORM.pdb

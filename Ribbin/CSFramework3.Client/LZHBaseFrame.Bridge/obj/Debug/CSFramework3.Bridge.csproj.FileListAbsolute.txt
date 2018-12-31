@@ -1,0 +1,33 @@
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\Debug\CSFramework3.Bridge.dll
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\Debug\CSFramework3.Bridge.pdb
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Bridge\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Bridge\obj\Debug\CSFramework3.Bridge.dll
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.Bridge\obj\Debug\CSFramework3.Bridge.pdb
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\Debug\CSFramework3.Bridge.dll
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\Debug\CSFramework3.Bridge.pdb
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Bridge\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Bridge\obj\Debug\CSFramework3.Bridge.dll
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.Bridge\obj\Debug\CSFramework3.Bridge.pdb
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\Debug\CSFramework3.Bridge.dll
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\Debug\CSFramework3.Bridge.pdb
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Bridge\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Bridge\obj\Debug\CSFramework3.Bridge.dll
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.Bridge\obj\Debug\CSFramework3.Bridge.pdb
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\Debug\App.config
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\Debug\CSFramework3.Bridge.dll
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\Debug\CSFramework3.Bridge.pdb
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Bridge\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Bridge\obj\Debug\CSFramework3.Bridge.dll
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.Bridge\obj\Debug\CSFramework3.Bridge.pdb
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\Debug\App.config
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\Debug\CSFramework3.Bridge.dll
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\Debug\CSFramework3.Bridge.pdb
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Bridge\obj\Debug\ResolveAssemblyReference.cache
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Bridge\obj\Debug\CSFramework3.Bridge.dll
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Bridge\obj\Debug\CSFramework3.Bridge.pdb
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\Debug\App.config
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\Debug\CSFramework3.Bridge.dll
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\Debug\CSFramework3.Bridge.pdb
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Bridge\obj\Debug\ResolveAssemblyReference.cache
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Bridge\obj\Debug\CSFramework3.Bridge.dll
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Bridge\obj\Debug\CSFramework3.Bridge.pdb

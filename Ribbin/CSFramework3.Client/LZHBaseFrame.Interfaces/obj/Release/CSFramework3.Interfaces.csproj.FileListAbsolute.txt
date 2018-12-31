@@ -1,0 +1,7 @@
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Interfaces\bin\Release\CSFramework3.Interfaces.dll
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Interfaces\bin\Release\CSFramework3.Interfaces.pdb
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Interfaces\bin\Release\CSFramework.Common.dll
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Interfaces\bin\Release\CSFramework.Common.pdb
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Interfaces\obj\Release\ResolveAssemblyReference.cache
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Interfaces\obj\Release\CSFramework3.Interfaces.dll
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.Interfaces\obj\Release\CSFramework3.Interfaces.pdb

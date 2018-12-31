@@ -1,0 +1,127 @@
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\ResolveAssemblyReference.cache
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.Form1.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmBackupDB.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmChangeTagName.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmCompanyInfo.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmGroup.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmLogConfig.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmMenuAuth.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmSystemMain.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmSystemOptions.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmUser.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.Properties.Resources.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.csproj.GenerateResource.Cache
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.dll.licenses
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.SystemModule.dll
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.SystemModule.pdb
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.dll
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.csprojResolveAssemblyReference.cache
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.Form1.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmBackupDB.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmChangeTagName.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmCompanyInfo.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmGroup.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmLogConfig.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmMenuAuth.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmSystemMain.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmSystemOptions.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmUser.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.Properties.Resources.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.csproj.GenerateResource.Cache
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.dll.licenses
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.SystemModule.dll
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.SystemModule.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.SystemModule.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.SystemModule.pdb
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.csprojResolveAssemblyReference.cache
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.Form1.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmBackupDB.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmChangeTagName.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmCompanyInfo.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmGroup.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmLogConfig.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmMenuAuth.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmSystemMain.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmSystemOptions.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmUser.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.Properties.Resources.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.csproj.GenerateResource.Cache
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.dll.licenses
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.SystemModule.dll
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.SystemModule.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.csprojResolveAssemblyReference.cache
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.Form1.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmBackupDB.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmChangeTagName.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmCompanyInfo.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmGroup.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmLogConfig.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmMenuAuth.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmSystemMain.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmSystemOptions.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmUser.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.Properties.Resources.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.csproj.GenerateResource.Cache
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.dll.licenses
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.dll
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\ResolveAssemblyReference.cache
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.Form1.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmBackupDB.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmChangeTagName.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmCompanyInfo.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmGroup.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmLogConfig.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmMenuAuth.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmSystemMain.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmSystemOptions.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmUser.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.Properties.Resources.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\GenerateResource.read.1.tlog
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\GenerateResource.write.1.tlog
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.dll
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.SystemModule.dll
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.SystemModule.pdb
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.SystemModule.dll
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.SystemModule.pdb
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\ResolveAssemblyReference.cache
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.Form1.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmBackupDB.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmChangeTagName.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmCompanyInfo.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmGroup.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmLogConfig.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmMenuAuth.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmSystemMain.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmSystemOptions.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmUser.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.Properties.Resources.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\GenerateResource.read.1.tlog
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\GenerateResource.write.1.tlog
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.dll.licenses
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.dll
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.pdb
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.SystemModule.dll
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.SystemModule.pdb
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.csprojResolveAssemblyReference.cache
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.Form1.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmBackupDB.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmChangeTagName.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmCompanyInfo.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmGroup.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmLogConfig.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmMenuAuth.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmSystemMain.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmSystemOptions.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.frmUser.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.Properties.Resources.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.csproj.GenerateResource.Cache
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.dll.licenses
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.dll
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.SystemModule\obj\Debug\LZHBaseFrame.SystemModule.pdb

@@ -1,0 +1,54 @@
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\Debug\CSFramework.ClassGenerator.exe
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\Debug\CSFramework.ClassGenerator.pdb
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Tools.ClassGenerator\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.frmClassGenerator.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.Properties.Resources.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.exe.licenses
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.exe
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.pdb
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.AssistantTools\Debug\CSFramework.ClassGenerator.exe
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.AssistantTools\Debug\CSFramework.ClassGenerator.pdb
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.frmClassGenerator.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.Properties.Resources.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.exe.licenses
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.exe
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.pdb
+D:\My SourceCode\CSharp\HZ_SAF_WebService版\source\CSFramework3.AssistantTools\Debug\CSFramework.ClassGenerator.exe
+D:\My SourceCode\CSharp\HZ_SAF_WebService版\source\CSFramework3.AssistantTools\Debug\CSFramework.ClassGenerator.pdb
+D:\My SourceCode\CSharp\HZ_SAF_WebService版\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\HZ_SAF_WebService版\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.frmClassGenerator.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService版\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.Properties.Resources.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService版\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\HZ_SAF_WebService版\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.exe.licenses
+D:\My SourceCode\CSharp\HZ_SAF_WebService版\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.exe
+D:\My SourceCode\CSharp\HZ_SAF_WebService版\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.pdb
+E:\HZ_SAF_WebService版\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.exe
+E:\HZ_SAF_WebService版\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.pdb
+E:\HZ_SAF_WebService版\source\CSFramework3.AssistantTools\Debug\CSFramework.ClassGenerator.exe
+E:\HZ_SAF_WebService版\source\CSFramework3.AssistantTools\Debug\CSFramework.ClassGenerator.pdb
+E:\HZ_SAF_WebService版\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\ResolveAssemblyReference.cache
+E:\HZ_SAF_WebService版\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.frmClassGenerator.resources
+E:\HZ_SAF_WebService版\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.Properties.Resources.resources
+E:\HZ_SAF_WebService版\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.csproj.GenerateResource.Cache
+E:\HZ_SAF_WebService版\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.exe.licenses
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\Debug\CSFramework.ClassGenerator.exe
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\Debug\CSFramework.ClassGenerator.pdb
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.frmClassGenerator.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.Properties.Resources.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.exe.licenses
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.exe
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.pdb
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\Debug\CSFramework.ClassGenerator.exe
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\Debug\CSFramework.ClassGenerator.pdb
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.frmClassGenerator.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.Properties.Resources.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.exe.licenses
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.exe
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.ClassGenerator\obj\Debug\CSFramework.ClassGenerator.pdb

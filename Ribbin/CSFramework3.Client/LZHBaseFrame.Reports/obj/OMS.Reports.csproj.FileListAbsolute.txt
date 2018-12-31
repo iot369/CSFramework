@@ -1,0 +1,51 @@
+E:\OMS2008\Debug\OMS.Reports.dll
+E:\OMS2008\Debug\OMS.Reports.pdb
+E:\OMS2008\OMS.Reports\obj\Debug\ResolveAssemblyReference.cache
+E:\OMS2008\OMS.Reports\obj\Debug\Interop.FastReport.dll
+E:\OMS2008\OMS.Reports\obj\Debug\OMS.Reports.csproj.ResolveComReference.cache
+E:\OMS2008\OMS.Reports\obj\Debug\OMS.Reports.frmPrintBase.resources
+E:\OMS2008\OMS.Reports\obj\Debug\OMS.Reports.FrxDataTable.resources
+E:\OMS2008\OMS.Reports\obj\Debug\OMS.Reports.FrxDataView.resources
+E:\OMS2008\OMS.Reports\obj\Debug\OMS.Reports.csproj.GenerateResource.Cache
+E:\OMS2008\OMS.Reports\obj\Debug\OMS.Reports.dll
+E:\OMS2008\OMS.Reports\obj\Debug\OMS.Reports.pdb
+E:\OMS2008\OMS.Reports\obj\Debug\OMS.Reports.frmRptPICheckList.resources
+E:\OMS2008\OMS.Reports\obj\Debug\OMS.Reports.frmRptPIDocument.resources
+E:\OMS2008\OMS.Reports\obj\Debug\OMS.Reports.Properties.Resources.resources
+E:\OMS2008\OMS.Reports\obj\Debug\OMS.Reports.dll.licenses
+E:\OMS2008\Source\Debug\OMS.Reports.dll
+E:\OMS2008\Source\Debug\OMS.Reports.pdb
+E:\OMS2008\Source\OMS.Reports\obj\Debug\ResolveAssemblyReference.cache
+E:\OMS2008\Source\OMS.Reports\obj\Debug\Interop.FastReport.dll
+E:\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.csproj.ResolveComReference.cache
+E:\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.frmPrintBase.resources
+E:\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.frmRptInvoice.resources
+E:\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.frmRptPI.resources
+E:\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.frmRptPISchedule.resources
+E:\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.frmRptSalesAnalysis.resources
+E:\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.FrxDataTable.resources
+E:\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.FrxDataView.resources
+E:\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.Properties.Resources.resources
+E:\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.csproj.GenerateResource.Cache
+E:\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.dll.licenses
+E:\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.dll
+E:\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.pdb
+E:\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.frmRptDebitNote.resources
+D:\My Source\OMS2008\Source\OMS.Reports\obj\Debug\ResolveAssemblyReference.cache
+D:\My Source\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.csproj.ResolveComReference.cache
+D:\My Source\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.frmRptShipmentQuery.resources
+D:\My Source\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.frmRptInvoiceList.resources
+D:\My Source\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.frmRptForwarderInvoiceSummary.resources
+D:\My Source\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.frmRptUnpaiedDebitNote.resources
+D:\My Source\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.frmRptOverduedDebitNote.resources
+D:\My Source\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.frmPrintBase.resources
+D:\My Source\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.frmRptDebitNote.resources
+D:\My Source\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.frmRptInvoice.resources
+D:\My Source\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.frmRptPI.resources
+D:\My Source\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.FrxDataTable.resources
+D:\My Source\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.FrxDataView.resources
+D:\My Source\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.Properties.Resources.resources
+D:\My Source\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.csproj.GenerateResource.Cache
+D:\My Source\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.dll.licenses
+D:\My Source\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.dll
+D:\My Source\OMS2008\Source\OMS.Reports\obj\Debug\OMS.Reports.pdb

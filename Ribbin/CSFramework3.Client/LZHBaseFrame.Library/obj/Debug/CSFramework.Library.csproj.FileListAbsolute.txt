@@ -1,0 +1,374 @@
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\csframework.Library.dll
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\csframework.Library.pdb
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmAttachmentMgr.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.CommonForms.frmBusinessLog.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmFuzzySearch.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBase.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseBusinessForm.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseChild.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataDictionary.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataForm.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDialog.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmGridCustomize.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModifyLog.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleBase.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleContainer.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\csframework.Library.ResImage.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucAttachment.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckEdit.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxBinding.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxEditor.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_CustomerLookup.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_UserLookup.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\csframework.Library.dll.licenses
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\csframework.Library.dll
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\csframework.Library.pdb
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework.Library.dll
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework.Library.pdb
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmAttachmentMgr.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBusinessLog.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmFuzzySearch.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBase.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseBusinessForm.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseChild.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataDictionary.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataForm.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDialog.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmGridCustomize.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModifyLog.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleBase.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleContainer.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.ResImage.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucAttachment.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckEdit.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxBinding.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxEditor.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_CustomerLookup.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_UserLookup.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucValueEdit.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.dll.licenses
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.dll
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\Debug\CSFramework.Library.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\Debug\CSFramework.Library.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmAttachmentMgr.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmBusinessLog.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmFuzzySearch.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmBase.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseBusinessForm.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseChild.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataDictionary.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataForm.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDialog.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmGridCustomize.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmModifyLog.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleBase.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleContainer.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\CSFramework.Library.ResImage.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucAttachment.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckEdit.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxBinding.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxEditor.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_CustomerLookup.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_UserLookup.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucValueEdit.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\CSFramework.Library.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\CSFramework.Library.dll.licenses
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\CSFramework.Library.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework.Library\obj\Debug\CSFramework.Library.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\Debug\CSFramework.Library.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\Debug\CSFramework.Library.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmAttachmentMgr.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmBusinessLog.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmFuzzySearch.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmBase.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseBusinessForm.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseChild.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataDictionary.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataForm.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDialog.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmGridCustomize.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmModifyLog.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleBase.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleContainer.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\CSFramework.Library.ResImage.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucAttachment.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckEdit.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxBinding.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxEditor.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_CustomerLookup.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_UserLookup.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucValueEdit.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\CSFramework.Library.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\CSFramework.Library.dll.licenses
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\CSFramework.Library.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework.Library\obj\Debug\CSFramework.Library.pdb
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.frmBusinessLog.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.frmFuzzySearch.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.frmBase.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseBusinessForm.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseChild.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataDictionary.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataForm.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDialog.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.frmGridCustomize.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.frmModifyLog.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleBase.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleContainer.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.ResImage.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucAttachment.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckEdit.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxBinding.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxEditor.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_CustomerLookup.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_UserLookup.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucValueEdit.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.dll.licenses
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework.Library.dll
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework.Library.pdb
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.dll
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.pdb
+E:\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework.Library.dll
+E:\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework.Library.pdb
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.frmBusinessLog.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.frmFuzzySearch.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.frmBase.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseBusinessForm.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseChild.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataDictionary.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataForm.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDialog.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.frmGridCustomize.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.frmModifyLog.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleBase.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleContainer.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.ResImage.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucAttachment.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckEdit.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxBinding.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxEditor.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_CustomerLookup.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_UserLookup.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucValueEdit.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.dll.licenses
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.dll
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework.Library\obj\Debug\CSFramework.Library.pdb
+E:\CSFramework-ADO-标准版V2.2\Debug\CSFramework.Library.dll
+E:\CSFramework-ADO-标准版V2.2\Debug\CSFramework.Library.pdb
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\CSFramework.Library.frmBusinessLog.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\CSFramework.Library.frmFuzzySearch.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\CSFramework.Library.frmModifyPwd.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\CSFramework.Library.frmBase.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseBusinessForm.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseChild.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataDictionary.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataForm.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDialog.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\CSFramework.Library.frmGridCustomize.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\CSFramework.Library.frmModifyLog.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleBase.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleContainer.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\CSFramework.Library.ResImage.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucAttachment.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckEdit.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxBinding.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxEditor.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_CustomerLookup.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_UserLookup.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucValueEdit.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\CSFramework.Library.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\CSFramework.Library.dll.licenses
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\CSFramework.Library.dll
+E:\CSFramework-ADO-标准版V2.2\CSFramework.Library\obj\Debug\CSFramework.Library.pdb
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBusinessLog.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmFuzzySearch.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModifyPwd.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBase.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseBusinessForm.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseChild.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataDictionary.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataForm.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDialog.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmGridCustomize.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModifyLog.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleBase.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleContainer.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.ResImage.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucAttachment.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckEdit.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxBinding.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxEditor.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_CustomerLookup.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_UserLookup.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucValueEdit.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.dll.licenses
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\Debug\CSFramework.Library.dll
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\Debug\CSFramework.Library.pdb
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.dll
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.pdb
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\Debug\CSFramework.Library.dll
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\Debug\CSFramework.Library.pdb
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBusinessLog.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmFuzzySearch.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModifyPwd.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBase.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseBusinessForm.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseChild.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataDictionary.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataForm.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDialog.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmGridCustomize.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModifyLog.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleBase.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleContainer.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.ResImage.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucAttachment.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckEdit.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxBinding.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxEditor.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_CustomerLookup.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_UserLookup.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucValueEdit.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.dll.licenses
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.dll
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.pdb
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\Debug\CSFramework.Library.dll
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\Debug\CSFramework.Library.pdb
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBusinessLog.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmFuzzySearch.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModifyPwd.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.Form1.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBase.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseBusinessForm.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseChild.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataDictionary.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataForm.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDialog.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmGridCustomize.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModifyLog.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleBase.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleContainer.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.ResImage.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucAttachment.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckEdit.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxBinding.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxEditor.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_CustomerLookup.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_UserLookup.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucValueEdit.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.dll.licenses
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.dll
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.pdb
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\Debug\CSFramework.Library.dll
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\Debug\CSFramework.Library.pdb
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmFuzzyCustomer.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmFuzzySearch.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmGenerateWizard.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModifyPwd.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmWaiting.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.Form1.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBase.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseBusinessForm.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseChild.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataDictionary.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataForm.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDialog.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmGridCustomize.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModifyLog.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleBase.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleContainer.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.ResImage.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucAttachment.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckEdit.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxBinding.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxEditor.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_CustomerLookup.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_UserLookup.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucValueEdit.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucWindowTitle.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.dll.licenses
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.dll
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.pdb
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\ResolveAssemblyReference.cache
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmFuzzyCustomer.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmFuzzySearch.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmGenerateWizard.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModifyPwd.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmWaiting.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.Form1.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBase.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseBusinessForm.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseChild.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataDictionary.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataForm.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDialog.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmGridCustomize.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModifyLog.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleBase.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleContainer.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.ResImage.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucAttachment.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckEdit.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxBinding.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxEditor.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_CustomerLookup.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_UserLookup.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucValueEdit.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucWindowTitle.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.csproj.GenerateResource.Cache
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.dll.licenses
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.dll
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.pdb
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\Debug\CSFramework.Library.dll
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\Debug\CSFramework.Library.pdb
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\Debug\CSFramework.Library.dll
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\Debug\CSFramework.Library.pdb
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\ResolveAssemblyReference.cache
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmFuzzyCustomer.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmFuzzySearch.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmGenerateWizard.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModifyPwd.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmWaiting.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.Form1.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBase.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseBusinessForm.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseChild.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataDictionary.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDataForm.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmBaseDialog.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmGridCustomize.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModifyLog.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleBase.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.frmModuleContainer.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.ResImage.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucAttachment.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckEdit.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxBinding.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucCheckedListBoxEditor.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_CustomerLookup.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucDT_UserLookup.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucValueEdit.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.UserControls.ucWindowTitle.resources
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.csproj.GenerateResource.Cache
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.dll.licenses
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.dll
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework.Library\obj\Debug\CSFramework.Library.pdb

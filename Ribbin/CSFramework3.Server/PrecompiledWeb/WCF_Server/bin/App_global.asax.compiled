@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="8" virtualPath="/WCF_Server/global.asax" hash="fffffffffbde046f" filehash="fffffd7ce34b132e" flags="150000" assembly="App_global.asax" type="ASP.global_asax">
+    <filedeps>
+        <filedep name="/WCF_Server/global.asax" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,50 @@
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\ResolveAssemblyReference.cache
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.Bridge.dll
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.Bridge.pdb
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.dll
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.Bridge.dll
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.Bridge.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.csprojResolveAssemblyReference.cache
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.dll
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.pdb
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Bridge.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Bridge.pdb
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.csprojResolveAssemblyReference.cache
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.pdb
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Bridge.dll
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Bridge.pdb
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\ResolveAssemblyReference.cache
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.dll
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Bridge.dll
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Bridge.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.csprojResolveAssemblyReference.cache
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.dll
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Bridge.dll
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Bridge.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\ResolveAssemblyReference.cache
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.dll
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.pdb
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\ResolveAssemblyReference.cache
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.dll
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.pdb
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.Bridge.dll
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.Bridge.pdb
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.Bridge.dll
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.Bridge.pdb
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.csprojResolveAssemblyReference.cache
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.dll
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.pdb
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\Debug\LZHBaseFrame.Bridge.dll
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\Debug\LZHBaseFrame.Bridge.pdb
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.csprojResolveAssemblyReference.cache
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.dll
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.pdb
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\Debug\LZHBaseFrame.Bridge.dll
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\Debug\LZHBaseFrame.Bridge.pdb
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.csprojResolveAssemblyReference.cache
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.dll
+D:\.NET 系统集中营\013 CS快速开发框架\Ribbin版C#源码01\DEVDocumentContainingRibbinControl\Ribbin\CSFramework3.Client\LZHBaseFrame.Bridge\obj\Debug\LZHBaseFrame.Bridge.pdb

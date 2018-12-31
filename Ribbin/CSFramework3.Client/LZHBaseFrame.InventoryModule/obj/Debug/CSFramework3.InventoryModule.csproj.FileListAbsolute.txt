@@ -1,0 +1,127 @@
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CKG.HZSAF.InventoryModule.frmInOut.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CKG.HZSAF.InventoryModule.frmModuleMain.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.Properties.Resources.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.dll.licenses
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.frmInOut.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.frmModuleMain.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework3.InventoryModule.dll
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework3.InventoryModule.pdb
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.frmModuleMain.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.Properties.Resources.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.dll.licenses
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.dll
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.pdb
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework3.InventoryModule.dll
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\CSFramework3.InventoryModule.pdb
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.frmModuleMain.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.Properties.Resources.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.dll.licenses
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.dll
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\Debug\CSFramework3.InventoryModule.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\Debug\CSFramework3.InventoryModule.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.InventoryModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.frmModuleMain.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.Properties.Resources.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.dll.licenses
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\Debug\CSFramework3.InventoryModule.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\Debug\CSFramework3.InventoryModule.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.InventoryModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.frmModuleMain.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.Properties.Resources.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.dll.licenses
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.dll
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.pdb
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.InventoryModule\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.frmModuleMain.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.Properties.Resources.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.dll.licenses
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework3.InventoryModule.dll
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework3.InventoryModule.pdb
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.dll
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.pdb
+E:\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework3.InventoryModule.dll
+E:\CSFramework-ADO-UTF8-V2.2正式版\Debug\CSFramework3.InventoryModule.pdb
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.InventoryModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.frmModuleMain.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.Properties.Resources.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.dll.licenses
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.dll
+E:\CSFramework-ADO-UTF8-V2.2正式版\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.pdb
+E:\CSFramework-ADO-标准版V2.2\Debug\CSFramework3.InventoryModule.dll
+E:\CSFramework-ADO-标准版V2.2\Debug\CSFramework3.InventoryModule.pdb
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.InventoryModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.frmModuleMain.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.Properties.Resources.resources
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.dll.licenses
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.dll
+E:\CSFramework-ADO-标准版V2.2\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.pdb
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.frmModuleMain.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.Properties.Resources.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.dll.licenses
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\Debug\CSFramework3.InventoryModule.dll
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\Debug\CSFramework3.InventoryModule.pdb
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.dll
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.pdb
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\Debug\CSFramework3.InventoryModule.dll
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\Debug\CSFramework3.InventoryModule.pdb
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.frmModuleMain.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.Properties.Resources.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.dll.licenses
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.dll
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.pdb
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\Debug\CSFramework3.InventoryModule.dll
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\Debug\CSFramework3.InventoryModule.pdb
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.Form1.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.frmModuleMain.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.Properties.Resources.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.dll.licenses
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.dll
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.pdb
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\Debug\CSFramework3.InventoryModule.dll
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\Debug\CSFramework3.InventoryModule.pdb
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.Form1.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.frmIA.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.frmModuleMain.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.frmIN.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.Properties.Resources.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.frmIO.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.frmIC.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.dll.licenses
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.dll
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.pdb
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\ResolveAssemblyReference.cache
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.Form1.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.frmIA.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.frmModuleMain.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.frmIN.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.Properties.Resources.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.frmIO.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.frmIC.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.csproj.GenerateResource.Cache
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.dll.licenses
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.dll
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\CSFramework3.InventoryModule\obj\Debug\CSFramework3.InventoryModule.pdb
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\Debug\CSFramework3.InventoryModule.dll
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\Debug\CSFramework3.InventoryModule.pdb

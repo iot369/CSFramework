@@ -1,0 +1,156 @@
+D:\CSFramework\Debug\_Tester.exe
+D:\CSFramework\Debug\_Tester.pdb
+D:\CSFramework\_Tester\obj\Debug\ResolveAssemblyReference.cache
+D:\CSFramework\_Tester\obj\Debug\_Tester.Form1.resources
+D:\CSFramework\_Tester\obj\Debug\_Tester.Properties.Resources.resources
+D:\CSFramework\_Tester\obj\Debug\_Tester.csproj.GenerateResource.Cache
+D:\CSFramework\_Tester\obj\Debug\_Tester.exe
+D:\CSFramework\_Tester\obj\Debug\_Tester.pdb
+D:\CSFramework\source\Debug\_Tester.exe
+D:\CSFramework\source\Debug\_Tester.pdb
+D:\CSFramework\source\_Tester\obj\Debug\ResolveAssemblyReference.cache
+D:\CSFramework\source\_Tester\obj\Debug\_Tester.Form1.resources
+D:\CSFramework\source\_Tester\obj\Debug\_Tester.Properties.Resources.resources
+D:\CSFramework\source\_Tester\obj\Debug\_Tester.csproj.GenerateResource.Cache
+D:\CSFramework\source\_Tester\obj\Debug\_Tester.exe
+D:\CSFramework\source\_Tester\obj\Debug\_Tester.pdb
+E:\CSFramework\source\Debug\_Tester.exe
+E:\CSFramework\source\Debug\_Tester.pdb
+E:\CSFramework\source\_Tester\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework\source\_Tester\obj\Debug\_Tester.Form1.resources
+E:\CSFramework\source\_Tester\obj\Debug\_Tester.Properties.Resources.resources
+E:\CSFramework\source\_Tester\obj\Debug\_Tester.csproj.GenerateResource.Cache
+E:\CSFramework\source\_Tester\obj\Debug\_Tester.exe
+E:\CSFramework\source\_Tester\obj\Debug\_Tester.pdb
+D:\My SourceCode\C#\CSFramework-ADO-CHS\source\Debug\_Tester.exe
+D:\My SourceCode\C#\CSFramework-ADO-CHS\source\Debug\_Tester.pdb
+D:\My SourceCode\C#\CSFramework-ADO-CHS\source\_Tester\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\C#\CSFramework-ADO-CHS\source\_Tester\obj\Debug\_Tester.Form1.resources
+D:\My SourceCode\C#\CSFramework-ADO-CHS\source\_Tester\obj\Debug\_Tester.Properties.Resources.resources
+D:\My SourceCode\C#\CSFramework-ADO-CHS\source\_Tester\obj\Debug\_Tester.csproj.GenerateResource.Cache
+D:\My SourceCode\C#\CSFramework-ADO-CHS\source\_Tester\obj\Debug\_Tester.exe
+D:\My SourceCode\C#\CSFramework-ADO-CHS\source\_Tester\obj\Debug\_Tester.pdb
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\Debug\_Tester.exe
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\Debug\_Tester.pdb
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\_Tester\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\_Tester\obj\Debug\_Tester.Form1.resources
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\_Tester\obj\Debug\_Tester.Properties.Resources.resources
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\_Tester\obj\Debug\_Tester.csproj.GenerateResource.Cache
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\_Tester\obj\Debug\_Tester.exe
+D:\My SourceCode\C#\CSFramework-ADO-UTF8\source\_Tester\obj\Debug\_Tester.pdb
+D:\My SourceCode\C#\HZ_SAF\source\Debug\_Tester.exe
+D:\My SourceCode\C#\HZ_SAF\source\Debug\_Tester.pdb
+D:\My SourceCode\C#\HZ_SAF\source\_Tester\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\C#\HZ_SAF\source\_Tester\obj\Debug\_Tester.Form1.resources
+D:\My SourceCode\C#\HZ_SAF\source\_Tester\obj\Debug\_Tester.Properties.Resources.resources
+D:\My SourceCode\C#\HZ_SAF\source\_Tester\obj\Debug\_Tester.csproj.GenerateResource.Cache
+D:\My SourceCode\C#\HZ_SAF\source\_Tester\obj\Debug\_Tester.exe
+D:\My SourceCode\C#\HZ_SAF\source\_Tester\obj\Debug\_Tester.pdb
+D:\My SourceCode\CSharp\HZ_SAF\source\Debug\_Tester.exe
+D:\My SourceCode\CSharp\HZ_SAF\source\Debug\_Tester.pdb
+D:\My SourceCode\CSharp\HZ_SAF\source\_Tester\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\HZ_SAF\source\_Tester\obj\Debug\_Tester.Form1.resources
+D:\My SourceCode\CSharp\HZ_SAF\source\_Tester\obj\Debug\_Tester.Properties.Resources.resources
+D:\My SourceCode\CSharp\HZ_SAF\source\_Tester\obj\Debug\_Tester.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\HZ_SAF\source\_Tester\obj\Debug\_Tester.exe
+D:\My SourceCode\CSharp\HZ_SAF\source\_Tester\obj\Debug\_Tester.pdb
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\_Tester\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\_Tester\obj\Debug\_Tester.Form1.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\_Tester\obj\Debug\_Tester.Properties.Resources.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.Client\_Tester\obj\Debug\_Tester.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\_Tester.exe
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\_Tester.pdb
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\_Tester\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\_Tester\obj\Debug\_Tester.Properties.Resources.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\_Tester\obj\Debug\_Tester.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\_Tester\obj\Debug\_Tester.exe
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\_Tester\obj\Debug\_Tester.pdb
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\_Tester.exe
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\Debug\_Tester.pdb
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\_Tester\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\_Tester\obj\Debug\_Tester.Properties.Resources.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\_Tester\obj\Debug\_Tester.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\_Tester\obj\Debug\_Tester.exe
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.Client\_Tester\obj\Debug\_Tester.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\Debug\_Tester.exe
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\Debug\_Tester.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\_Tester\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\_Tester\obj\Debug\_Tester.Properties.Resources.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\_Tester\obj\Debug\_Tester.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\_Tester\obj\Debug\_Tester.exe
+E:\CSFramework-ADO-UTF8-标准版2.2-整理中\Source\_Tester\obj\Debug\_Tester.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\Debug\_Tester.exe
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\Debug\_Tester.pdb
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\_Tester\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\_Tester\obj\Debug\_Tester.Properties.Resources.resources
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\_Tester\obj\Debug\_Tester.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\_Tester\obj\Debug\_Tester.exe
+E:\CSFramework-ADO-UTF8-标准版2.2-正式版\Source\_Tester\obj\Debug\_Tester.pdb
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\Debug\_Tester.exe
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\Debug\_Tester.pdb
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\_Tester\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\_Tester\obj\Debug\_Tester.Properties.Resources.resources
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\_Tester\obj\Debug\_Tester.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\_Tester\obj\Debug\_Tester.exe
+D:\My SourceCode\CSharp\CSFramework-ADO-UTF8-V2.2正式版\_Tester\obj\Debug\_Tester.pdb
+E:\CSFramework-ADO-UTF8-V2.2正式版\Debug\_Tester.exe
+E:\CSFramework-ADO-UTF8-V2.2正式版\Debug\_Tester.pdb
+E:\CSFramework-ADO-UTF8-V2.2正式版\_Tester\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-UTF8-V2.2正式版\_Tester\obj\Debug\_Tester.Properties.Resources.resources
+E:\CSFramework-ADO-UTF8-V2.2正式版\_Tester\obj\Debug\_Tester.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-UTF8-V2.2正式版\_Tester\obj\Debug\_Tester.exe
+E:\CSFramework-ADO-UTF8-V2.2正式版\_Tester\obj\Debug\_Tester.pdb
+E:\CSFramework-ADO-标准版V2.2\Debug\_Tester.exe
+E:\CSFramework-ADO-标准版V2.2\Debug\_Tester.pdb
+E:\CSFramework-ADO-标准版V2.2\_Tester\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-ADO-标准版V2.2\_Tester\obj\Debug\_Tester.Properties.Resources.resources
+E:\CSFramework-ADO-标准版V2.2\_Tester\obj\Debug\_Tester.csproj.GenerateResource.Cache
+E:\CSFramework-ADO-标准版V2.2\_Tester\obj\Debug\_Tester.exe
+E:\CSFramework-ADO-标准版V2.2\_Tester\obj\Debug\_Tester.pdb
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\_Tester\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\_Tester\obj\Debug\_Tester.Properties.Resources.resources
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\_Tester\obj\Debug\_Tester.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\Debug\_Tester.exe
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\Debug\_Tester.pdb
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\_Tester\obj\Debug\_Tester.exe
+D:\My SourceCode\CSharp\CSFramework3.0\CSFramework3.Client\_Tester\obj\Debug\_Tester.pdb
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\Debug\_Tester.exe
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\Debug\_Tester.pdb
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\_Tester\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\_Tester\obj\Debug\_Tester.Properties.Resources.resources
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\_Tester\obj\Debug\_Tester.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\_Tester\obj\Debug\_Tester.exe
+E:\CSFramework-WebService-CHS-3.0\source\CSFramework3.Client\_Tester\obj\Debug\_Tester.pdb
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\Debug\_Tester.exe
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\Debug\_Tester.pdb
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\_Tester\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\_Tester\obj\Debug\_Tester.Form1.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\_Tester\obj\Debug\_Tester.Properties.Resources.resources
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\_Tester\obj\Debug\_Tester.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\_Tester\obj\Debug\_Tester.exe.licenses
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\_Tester\obj\Debug\_Tester.exe
+E:\CSFramework-WebService-CHS-3.0\CSFramework3.Client\_Tester\obj\Debug\_Tester.pdb
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\Debug\_Tester.exe
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\Debug\_Tester.pdb
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\_Tester\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\_Tester\obj\Debug\_Tester.Form1.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\_Tester\obj\Debug\_Tester.Properties.Resources.resources
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\_Tester\obj\Debug\_Tester.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\_Tester\obj\Debug\_Tester.exe.licenses
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\_Tester\obj\Debug\_Tester.exe
+E:\CSFramework-WebService-Bridge-3.0\CSFramework3.Client\_Tester\obj\Debug\_Tester.pdb
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\_Tester\obj\Debug\ResolveAssemblyReference.cache
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\_Tester\obj\Debug\_Tester.Form1.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\_Tester\obj\Debug\_Tester.Properties.Resources.resources
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\_Tester\obj\Debug\_Tester.csproj.GenerateResource.Cache
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\_Tester\obj\Debug\_Tester.exe.licenses
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\_Tester\obj\Debug\_Tester.exe
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\_Tester\obj\Debug\_Tester.pdb
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\Debug\_Tester.exe
+E:\开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\Debug\_Tester.pdb
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\_Tester\obj\Debug\_Tester.exe
+F:\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\_Tester\obj\Debug\_Tester.pdb
+E:\源代码资料\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\_Tester\obj\Debug\_Tester.exe
+E:\源代码资料\BN055-开发框架\CSFramework-WebService-Bridge-3.37\CSFramework3.Client\_Tester\obj\Debug\_Tester.pdb
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\_Tester\obj\Debug\_Tester.exe
+E:\源代码资料\BN055-开发框架\LZTBaseFrame\CSFramework3.Client\_Tester\obj\Debug\_Tester.pdb

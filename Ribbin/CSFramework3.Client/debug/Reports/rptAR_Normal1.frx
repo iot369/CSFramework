@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report DoublePass="true" ReportInfo.Created="06/16/2011 15:35:29" ReportInfo.Modified="05/22/2012 12:38:16" ReportInfo.CreatorVersion="1.0.203.0">
+  <Dictionary>
+    <Total Name="Total" Expression="[D.Amount]" PrintOn="GroupFooter1"/>
+    <Total Name="Total_M" Expression="[M.Amount]" Evaluator="Data1"/>
+  </Dictionary>
+  <ReportPage Name="Page1">
+    <GroupHeaderBand Name="GroupHeader1" Width="718.2" Height="86.23" StartNewPage="true" Condition="[M.ARNO]" SortOrder="None">
+      <DataBand Name="Data1" Top="90.23" Width="718.2" Height="168.52">
+        <DataBand Name="Data2" Top="262.75" Width="718.2" Height="37.8"/>
+      </DataBand>
+      <GroupFooterBand Name="GroupFooter1" Top="304.55" Width="718.2" Height="79.91"/>
+    </GroupHeaderBand>
+  </ReportPage>
+</Report>

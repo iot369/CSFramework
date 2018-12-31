@@ -1,0 +1,9 @@
+C:\Users\luozh.SZSHUNDA365\Desktop\Service\Service\bin\Service.Common.dll
+C:\Users\luozh.SZSHUNDA365\Desktop\Service\Service\bin\Service.Common.pdb
+C:\Users\luozh.SZSHUNDA365\Desktop\Service\Service\Service.Common\obj\Debug\Service.Common.dll
+C:\Users\luozh.SZSHUNDA365\Desktop\Service\Service\Service.Common\obj\Debug\Service.Common.pdb
+C:\Users\luozh.SZSHUNDA365\Desktop\Service\bin\Service.Common.dll
+C:\Users\luozh.SZSHUNDA365\Desktop\Service\bin\Service.Common.pdb
+C:\Users\luozh.SZSHUNDA365\Desktop\Service\Service.Common\obj\Debug\Service.Common.csprojResolveAssemblyReference.cache
+C:\Users\luozh.SZSHUNDA365\Desktop\Service\Service.Common\obj\Debug\Service.Common.dll
+C:\Users\luozh.SZSHUNDA365\Desktop\Service\Service.Common\obj\Debug\Service.Common.pdb

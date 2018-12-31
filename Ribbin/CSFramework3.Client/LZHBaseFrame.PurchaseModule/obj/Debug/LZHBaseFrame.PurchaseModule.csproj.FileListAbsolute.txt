@@ -1,0 +1,79 @@
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\ResolveAssemblyReference.cache
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.Form1.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.frmPO.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.frmPurchaseModuleMain.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.Properties.Resources.resources
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.csproj.GenerateResource.Cache
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.dll.licenses
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.PurchaseModule.dll
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.PurchaseModule.pdb
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.dll
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.PurchaseModule.dll
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.PurchaseModule.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.csprojResolveAssemblyReference.cache
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.Form1.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.frmPO.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.frmPurchaseModuleMain.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.Properties.Resources.resources
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.csproj.GenerateResource.Cache
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.dll.licenses
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.dll
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.pdb
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.PurchaseModule.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.PurchaseModule.pdb
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.csprojResolveAssemblyReference.cache
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.Form1.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.frmPO.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.frmPurchaseModuleMain.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.Properties.Resources.resources
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.csproj.GenerateResource.Cache
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.dll.licenses
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.PurchaseModule.dll
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.PurchaseModule.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.csprojResolveAssemblyReference.cache
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.Form1.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.frmPO.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.frmPurchaseModuleMain.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.Properties.Resources.resources
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.csproj.GenerateResource.Cache
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.dll.licenses
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.dll
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.PurchaseModule.dll
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.PurchaseModule.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\ResolveAssemblyReference.cache
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.Form1.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.frmPO.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.frmPurchaseModuleMain.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.Properties.Resources.resources
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\GenerateResource.read.1.tlog
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\GenerateResource.write.1.tlog
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.dll.licenses
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.dll
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.pdb
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.PurchaseModule.dll
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.PurchaseModule.pdb
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\ResolveAssemblyReference.cache
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.Form1.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.frmPO.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.frmPurchaseModuleMain.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.Properties.Resources.resources
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\GenerateResource.read.1.tlog
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\GenerateResource.write.1.tlog
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.dll.licenses
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.dll
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.pdb
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.PurchaseModule.dll
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.PurchaseModule.pdb
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.csprojResolveAssemblyReference.cache
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.Form1.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.frmPO.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.frmPurchaseModuleMain.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.Properties.Resources.resources
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.csproj.GenerateResource.Cache
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.dll.licenses
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.dll
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.PurchaseModule\obj\Debug\LZHBaseFrame.PurchaseModule.pdb

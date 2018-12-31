@@ -1,0 +1,45 @@
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.Common.dll
+F:\LZTBaseFrame\CSFramework3.Client\Debug\LZHBaseFrame.Common.pdb
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Common\obj\Debug\ResolveAssemblyReference.cache
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Common\obj\Debug\LZHBaseFrame.Common.dll
+F:\LZTBaseFrame\CSFramework3.Client\LZHBaseFrame.Common\obj\Debug\LZHBaseFrame.Common.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.Common.dll
+H:\LZTBaseFrame - 副本\CSFramework3.Client\Debug\LZHBaseFrame.Common.pdb
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Common\obj\Debug\LZHBaseFrame.Common.dll
+H:\LZTBaseFrame - 副本\CSFramework3.Client\LZHBaseFrame.Common\obj\Debug\LZHBaseFrame.Common.pdb
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Common.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Common.pdb
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Common\obj\Debug\LZHBaseFrame.Common.dll
+F:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Common\obj\Debug\LZHBaseFrame.Common.pdb
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Common.dll
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Common.pdb
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Common\obj\Debug\ResolveAssemblyReference.cache
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Common\obj\Debug\LZHBaseFrame.Common.dll
+H:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Common\obj\Debug\LZHBaseFrame.Common.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Common.dll
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Common.pdb
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Common\obj\Debug\LZHBaseFrame.Common.dll
+K:\LZTBaseFrame13.2(1)\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Common\obj\Debug\LZHBaseFrame.Common.pdb
+K:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Common.dll
+K:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Common.pdb
+K:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Common\obj\Debug\LZHBaseFrame.Common.dll
+K:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Common\obj\Debug\LZHBaseFrame.Common.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Common.dll
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\Debug\LZHBaseFrame.Common.pdb
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Common\obj\Debug\ResolveAssemblyReference.cache
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Common\obj\Debug\LZHBaseFrame.Common.dll
+H:\LZTBaseFrame\LZTBaseFrame13.2\CSFramework3.Client\LZHBaseFrame.Common\obj\Debug\LZHBaseFrame.Common.pdb
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.Common.dll
+D:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.Common.pdb
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Common\obj\Debug\LZHBaseFrame.Common.dll
+D:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Common\obj\Debug\LZHBaseFrame.Common.pdb
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.Common.dll
+F:\OneDrive\MES\CSFramework3.Client\Debug\LZHBaseFrame.Common.pdb
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Common\obj\Debug\LZHBaseFrame.Common.dll
+F:\OneDrive\MES\CSFramework3.Client\LZHBaseFrame.Common\obj\Debug\LZHBaseFrame.Common.pdb
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\Debug\LZHBaseFrame.Common.dll
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\Debug\LZHBaseFrame.Common.pdb
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Common\obj\Debug\LZHBaseFrame.Common.csprojResolveAssemblyReference.cache
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Common\obj\Debug\LZHBaseFrame.Common.dll
+C:\Users\xydong\Downloads\DEVDocumentContainingRibbinControl_d6126bef-da89-414c-b9e3-f46ace44e409\Ribbin\CSFramework3.Client\LZHBaseFrame.Common\obj\Debug\LZHBaseFrame.Common.pdb

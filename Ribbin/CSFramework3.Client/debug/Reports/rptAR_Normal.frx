@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report DoublePass="true" ReportInfo.Created="06/16/2011 15:35:29" ReportInfo.Modified="05/22/2012 14:27:14" ReportInfo.CreatorVersion="1.2.47.0">
+  <Dictionary>
+    <Total Name="Total" Expression="[D.Amount]" Evaluator="Data2" PrintOn="GroupFooter1"/>
+    <Total Name="Total_M" Expression="[M.Amount]" Evaluator="Data1"/>
+  </Dictionary>
+  <ReportPage Name="Page1" FirstPageSource="15" OtherPagesSource="15">
+    <ReportTitleBand Name="ReportTitle1" Width="718.2" Height="11"/>
+    <GroupHeaderBand Name="GroupHeader1" Top="15" Width="718.2" StartNewPage="true" KeepWithData="true" Condition="[M.ARNO]" KeepTogether="true">
+      <DataBand Name="Data1" Top="19" Width="718.2" Height="149.99" PrintIfDetailEmpty="true">
+        <RichObject Name="Rich33" Left="287.36" Top="22.76" Width="143.15" Height="38.7" Text="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fnil\fcharset134 \'cb\'ce\'cc\'e5;}{\f1\fnil\fcharset0 Microsoft Sans Serif;}}&#13;&#10;\viewkind4\uc1\pard\qc\lang2052\b\f0\fs48\'bc\'c7\'d5\'ca\'c6\'be\'d6\'a4\b0\f1\par&#13;&#10;}&#13;&#10;"/>
+        <TextObject Name="Text53" Left="9.34" Top="37.99" Width="94.5" Height="18.9" Text="序号："/>
+        <RichObject Name="Rich13" Left="495.07" Top="38.31" Width="150.5" Height="18.9" Text="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fnil Arial;}{\f1\fnil\fcharset134 \'cb\'ce\'cc\'e5;}}&#13;&#10;\viewkind4\uc1\pard\lang2052\f0\fs20 [PageN] / [TotalPages]\f1\fs18\par&#13;&#10;}&#13;&#10;"/>
+        <TextObject Name="Text54" Left="9.34" Top="70.1" Width="94.5" Height="18.9" Text="2012年第2期"/>
+        <TextObject Name="Text55" Left="249.37" Top="68.21" Width="185.5" Height="18.9" Text="日期：[M.ReceivedDate]" Format="Custom" Format.Format="yyyy-MM-dd"/>
+        <TextObject Name="Text56" Left="494.18" Top="67.65" Width="185.5" Height="18.9" Text="凭证号：[M.ARNO]"/>
+        <ShapeObject Name="Shape1" Left="2.11" Top="100.1" Width="704.67" Height="49.89" Border.Width="3"/>
+        <LineObject Name="Line6" Left="189.33" Top="102.32" Height="43.11" Diagonal="true"/>
+        <LineObject Name="Line7" Left="416.13" Top="101.43" Height="43.11" Diagonal="true"/>
+        <LineObject Name="Line8" Left="559.77" Top="101.43" Height="43.11" Diagonal="true"/>
+        <TextObject Name="Text3" Left="39.13" Top="109.88" Width="94.5" Height="18.9" Text="摘要" HorzAlign="Center" Font="Arial, 10pt, style=Bold"/>
+        <TextObject Name="Text4" Left="254.59" Top="109.88" Width="94.5" Height="18.9" Text="科目" HorzAlign="Center" Font="Arial, 10pt, style=Bold"/>
+        <TextObject Name="Text5" Left="428.47" Top="109.88" Width="94.5" Height="18.9" Text="借方" HorzAlign="Center" Font="Arial, 10pt, style=Bold"/>
+        <TextObject Name="Text6" Left="585.34" Top="109.88" Width="94.5" Height="18.9" Text="贷方" HorzAlign="Center" Font="Arial, 10pt, style=Bold"/>
+        <TextObject Name="Text2" Left="7.67" Top="5.22" Width="94.5" Height="18.9" Text="参考信息："/>
+        <TextObject Name="Text1" Left="271.14" Top="4.78" Width="194.5" Height="18.9" Text="成都优他制药有限责任公司"/>
+        <DataBand Name="Data2" Top="172.99" Width="718.2" Height="38.25" PrintIfDetailEmpty="true">
+          <RichObject Name="Rich27" Left="192.55" Top="3.7" Width="220.75" Height="32.9" Text="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fnil\fcharset134 \'cb\'ce\'cc\'e5;}{\f1\fnil\fcharset0 Tahoma;}}&#13;&#10;\viewkind4\uc1\pard\lang2052\f0\fs20 [D.\f1 ItemName\f0 ]\fs18\par&#13;&#10;}&#13;&#10;"/>
+          <RichObject Name="Rich25" Left="9.22" Top="1.81" Width="177.37" Height="33.9" Text="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fnil\fcharset134 \'cb\'ce\'cc\'e5;}{\f1\fnil\fcharset0 Tahoma;}}&#13;&#10;\viewkind4\uc1\pard\lang2052\f0\fs20 [D.\f1 InvoiceNo\f0 ]\fs18\par&#13;&#10;}&#13;&#10;"/>
+          <LineObject Name="Line9" Left="702.85" Top="-1.08" Height="39.33" Border.Width="3" Diagonal="true"/>
+          <LineObject Name="Line10" Left="4.16" Top="-1.08" Height="39.33" Border.Width="3" Diagonal="true"/>
+          <LineObject Name="Line13" Left="189.49" Top="-0.08" Height="37.44" Diagonal="true"/>
+          <LineObject Name="Line14" Left="416.29" Top="-0.08" Height="37.44" Diagonal="true"/>
+          <LineObject Name="Line15" Left="559.93" Top="-0.08" Height="37.44" Diagonal="true"/>
+          <LineObject Name="Line16" Left="2.66" Top="37.36" Width="699.3"/>
+          <RichObject Name="Rich36" Left="423.05" Top="2.89" Width="110.75" Height="32.9" Text="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fnil\fcharset134 \'cb\'ce\'cc\'e5;}{\f1\fnil\fcharset0 Tahoma;}}&#13;&#10;\viewkind4\uc1\pard\qr\lang2052\f0\fs20 [D.\f1 Amount\f0 ]\fs18\par&#13;&#10;}&#13;&#10;" Format="Custom" Format.Format="#,##0.00"/>
+          <RichObject Name="Rich37" Left="567.69" Top="2.89" Width="116.75" Height="32.9" Text="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fnil\fcharset134 \'cb\'ce\'cc\'e5;}{\f1\fnil\fcharset0 Tahoma;}}&#13;&#10;\viewkind4\uc1\pard\qr\lang2052\f0\fs20 [D.\f1 Amount\f0 ]\fs18\par&#13;&#10;}&#13;&#10;" Format="Custom" Format.Format="#,##0.00"/>
+        </DataBand>
+      </DataBand>
+      <GroupFooterBand Name="GroupFooter1" Top="215.24" Width="718.2" Height="76.78">
+        <TextObject Name="Text8" Left="6.7" Top="46.78" Width="94.5" Height="18.9" Text="核准："/>
+        <TextObject Name="Text9" Left="114.43" Top="46.78" Width="94.5" Height="18.9" Text="经办："/>
+        <TextObject Name="TextApp" Left="222.16" Top="46.78" Width="94.5" Height="18.9" Text="审核：[M.AppUser]"/>
+        <TextObject Name="Text11" Left="333.67" Top="46.78" Width="111.5" Height="18.9" Text="过帐：阿金明"/>
+        <TextObject Name="Text12" Left="470.09" Top="46.78" Width="72" Height="20" Text="出纳："/>
+        <TextObject Name="TextCreatedBy" Left="586.38" Top="46.78" Width="114.5" Height="18.9" Text="制单：[M.CreatedBy]"/>
+        <LineObject Name="Line3" Left="3.7" Top="0.56" Width="699.3"/>
+        <RichObject Name="Rich15" Left="590.6" Top="6.23" Width="94.5" Height="18.9" Text="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fnil Arial;}{\f1\fnil\fcharset134 \'cb\'ce\'cc\'e5;}}&#13;&#10;\viewkind4\uc1\pard\qr\lang2052\f0\fs20 [Total]\f1\fs18\par&#13;&#10;}&#13;&#10;" Format="Custom" Format.Format="#,##0.00"/>
+        <TextObject Name="Text7" Left="14.15" Top="6.23" Width="57.83" Height="18.9" Text="合计："/>
+        <LineObject Name="Line18" Left="4.59" Top="32.69" Width="697.41" Border.Width="3"/>
+        <LineObject Name="Line11" Left="702.7" Top="0.56" Height="33.66" Border.Width="3" Diagonal="true"/>
+        <LineObject Name="Line12" Left="4.16" Top="0.56" Height="33.66" Border.Width="3" Diagonal="true"/>
+        <RichObject Name="Rich35" Left="439.4" Top="6.23" Width="94.5" Height="18.9" Text="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fnil Arial;}{\f1\fnil\fcharset134 \'cb\'ce\'cc\'e5;}}&#13;&#10;\viewkind4\uc1\pard\qr\lang2052\f0\fs20 [Total]\f1\fs18\par&#13;&#10;}&#13;&#10;" Format="Custom" Format.Format="#,##0.00"/>
+        <RichObject Name="RichCHNAmount" Left="72.74" Top="6.23" Width="340.93" Height="18.9" Text="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fnil\fcharset134 \'cb\'ce\'cc\'e5;}}&#13;&#10;\viewkind4\uc1\pard\lang2052\f0\fs18\par&#13;&#10;}&#13;&#10;"/>
+        <LineObject Name="Line19" Left="416.18" Top="0.56" Height="31.77" Diagonal="true"/>
+        <LineObject Name="Line20" Left="560.36" Top="0.56" Height="31.77" Diagonal="true"/>
+      </GroupFooterBand>
+    </GroupHeaderBand>
+    <PageFooterBand Name="PageFooter1" Top="296.02" Width="718.2" Height="40.48">
+      <RichObject Name="Rich2" Left="466.83" Top="5.67" Width="217.35" Height="18.9" Text="{\rtf1\ansi\ansicpg936\deff0{\fonttbl{\f0\fnil\fcharset134 \'cb\'ce\'cc\'e5;}}&#13;&#10;\viewkind4\uc1\pard\lang2052\f0\fs18\'b4\'f2\'d3\'a1\'c8\'d5\'c6\'da\'a3\'ba[Date]\par&#13;&#10;}&#13;&#10;"/>
+      <RichObject Name="Rich3" Left="11.34" Top="5.67" Width="77.49" Height="20.79" Text="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fnil\fcharset134 \'cb\'ce\'cc\'e5;}}&#13;&#10;\viewkind4\uc1\pard\lang2052\f0\fs20\'b4\'f2\'d3\'a1\'c8\'cb\'d4\'b1\'a3\'ba\fs18\par&#13;&#10;}&#13;&#10;"/>
+      <RichObject Name="Text52" Left="90.72" Top="7.56" Width="255.15" Height="18.9" Text="{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fnil\fcharset134 \'cb\'ce\'cc\'e5;}}&#13;&#10;\viewkind4\uc1\pard\lang2052\f0\fs18\par&#13;&#10;}&#13;&#10;"/>
+    </PageFooterBand>
+  </ReportPage>
+</Report>

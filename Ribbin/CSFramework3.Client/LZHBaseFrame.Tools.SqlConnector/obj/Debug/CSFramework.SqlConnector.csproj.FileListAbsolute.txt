@@ -1,0 +1,30 @@
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.AssistantTools\Debug\CSFramework.SqlConnector.exe
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.AssistantTools\Debug\CSFramework.SqlConnector.pdb
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.AssistantTools\CSFramework3.Tools.SqlConnector\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.AssistantTools\CSFramework3.Tools.SqlConnector\obj\Debug\CSFramework.SqlConnector.frmSQLConnector.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.AssistantTools\CSFramework3.Tools.SqlConnector\obj\Debug\CSFramework.SqlConnector.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.AssistantTools\CSFramework3.Tools.SqlConnector\obj\Debug\CSFramework.SqlConnector.exe
+D:\My SourceCode\CSharp\HZ_SAF_WebService\source\CSFramework3.AssistantTools\CSFramework3.Tools.SqlConnector\obj\Debug\CSFramework.SqlConnector.pdb
+D:\My SourceCode\CSharp\HZ_SAF_WebService版\source\CSFramework3.AssistantTools\Debug\CSFramework.SqlConnector.exe
+D:\My SourceCode\CSharp\HZ_SAF_WebService版\source\CSFramework3.AssistantTools\Debug\CSFramework.SqlConnector.pdb
+D:\My SourceCode\CSharp\HZ_SAF_WebService版\source\CSFramework3.AssistantTools\CSFramework3.Tools.SqlConnector\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\HZ_SAF_WebService版\source\CSFramework3.AssistantTools\CSFramework3.Tools.SqlConnector\obj\Debug\CSFramework.SqlConnector.frmSQLConnector.resources
+D:\My SourceCode\CSharp\HZ_SAF_WebService版\source\CSFramework3.AssistantTools\CSFramework3.Tools.SqlConnector\obj\Debug\CSFramework.SqlConnector.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\HZ_SAF_WebService版\source\CSFramework3.AssistantTools\CSFramework3.Tools.SqlConnector\obj\Debug\CSFramework.SqlConnector.exe
+D:\My SourceCode\CSharp\HZ_SAF_WebService版\source\CSFramework3.AssistantTools\CSFramework3.Tools.SqlConnector\obj\Debug\CSFramework.SqlConnector.pdb
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\Debug\CSFramework.SqlConnector.exe
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\Debug\CSFramework.SqlConnector.pdb
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.SqlConnector\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.SqlConnector\obj\Debug\CSFramework.SqlConnector.frmSQLConnector.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.SqlConnector\obj\Debug\CSFramework.SqlConnector.Properties.Resources.resources
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.SqlConnector\obj\Debug\CSFramework.SqlConnector.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.SqlConnector\obj\Debug\CSFramework.SqlConnector.exe
+D:\My SourceCode\CSharp\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.SqlConnector\obj\Debug\CSFramework.SqlConnector.pdb
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\Debug\CSFramework.SqlConnector.exe
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\Debug\CSFramework.SqlConnector.pdb
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.SqlConnector\obj\Debug\ResolveAssemblyReference.cache
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.SqlConnector\obj\Debug\CSFramework.SqlConnector.frmSQLConnector.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.SqlConnector\obj\Debug\CSFramework.SqlConnector.Properties.Resources.resources
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.SqlConnector\obj\Debug\CSFramework.SqlConnector.csproj.GenerateResource.Cache
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.SqlConnector\obj\Debug\CSFramework.SqlConnector.exe
+E:\CSFramework-WebService-CHS-正式版(整理中)\source\CSFramework3.AssistantTools\CSFramework3.Tools.SqlConnector\obj\Debug\CSFramework.SqlConnector.pdb
